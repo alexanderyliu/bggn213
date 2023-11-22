@@ -1,0 +1,99 @@
+---
+title: "Class06_Hands-on section supplemental information"
+format: pdf
+---
+
+```{r}
+
+library(bio3d)
+s1 <- read.pdb("4AKE") # kinase with drug
+s2 <- read.pdb("1AKE") # kinase no drug
+s3 <- read.pdb("1E4Y") # kinase with drug
+```
+
+```{r}
+s1.chainA <- trim.pdb(s1, chain="A", elety="CA")
+s2.chainA <- trim.pdb(s2, chain="A", elety="CA")
+s3.chainA <- trim.pdb(s3, chain="A", elety="CA")
+```
+
+```{r}
+s1.b <- s1.chainA$atom$b
+s2.b <- s2.chainA$atom$b
+s3.b <- s3.chainA$atom$b
+```
+
+```{r}
+plotb3(s1.b, sse=s1.chainA, typ="l", ylab="Bfactor")
+plotb3(s2.b, sse=s2.chainA, typ="l", ylab="Bfactor")
+plotb3(s3.b, sse=s3.chainA, typ="l", ylab="Bfactor")
+```
+
+
+Q1. What type of object is returned from the read.pdb() function?
+```{r}
+class(s1)
+class(s2)
+class(s3)
+```
+According to "class()" function, the read.pdb() provides "pdb" "sse" object.
+
+
+Q2. What does the trim.pdb() function do?
+```{r}
+?trim.pdb()
+```
+The outcome of the above code:
+Trim a PDB Object To A Subset of Atoms. 
+Description
+Produce a new smaller PDB object, containing a subset of atoms, from a given larger PDB object.
+
+
+Q3. What input parameter would turn off the marginal black and grey rectangles in the plots and what do they represent in this case?
+```{r}
+?plotb3()
+```
+
+The above code leads to explanation of each argument:
+top: logical, if TRUE rectangles for each sse are drawn towards the top of the plotting region.
+bot: logical, if TRUE rectangles for each sse are drawn towards the bottom of the plotting region.
+
+To turn them off, one can specify "FALSE" for each of "top" or "bot" argument. 
+
+
+Q4. What would be a better plot to compare across the different proteins?
+```{r}
+# Plot the first dataset
+plotb3(s1.b, sse = s1.chainA, typ = "l", ylab = "Bfactor", top=FALSE, bot=FALSE)
+
+# Add lines for the second and third datasets
+lines(s2.b, col = "red")
+lines(s3.b, col = "blue")
+
+# Add a legend to differentiate the datasets
+legend("topright", legend = c("4AKE", "1AKE", "1E4Y"), col = c("black", "red", "blue"), lty = 1)
+
+```
+Using the "lines()" function, all three datasets can be plotted on to the same panel.
+This provides easier comparison between them.
+
+
+Q5. Which proteins are more similar to each other in their B-factor trends. How could you quantify this?
+```{r}
+hc <- hclust( dist( rbind(s1.b, s2.b, s3.b) ) )
+plot(hc)
+```
+According to the above plot, s2 and s3 are more similar than s1.
+Quantification is indicated in the height parameter.
+
+
+Q6. How would you generalize the original code above to work with any set of input protein structures?
+```{r}
+Protein_analysis <- function(pdb_code){
+  s <- read.pdb(pdb_code)
+  s.chainA <- trim.pdb(s, chain="A", elety="CA")
+  s.b <- s.chainA$atom$b
+  plotb3(s.b, sse=s.chainA, typ="l", ylab="Bfactor")
+}
+Protein_analysis("4AKE")
+```

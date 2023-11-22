@@ -1,0 +1,172 @@
+---
+title: "Class10-pt2"
+format: pdf
+---
+
+## Comparative structural analysis of Adenylate Kinase
+
+`bio3d` package
+
+We will also use the `msa` package from BioConductor.
+FIrst we need to install the `BiocManager`.
+
+```{r}
+library(bio3d)
+```
+
+
+
+Q10. Which of the packages above is found only on BioConductor and not CRAN? 
+
+msa
+
+
+
+Q11. Which of the above packages is not found on BioConductor or CRAN?: 
+
+bio3d-view
+
+
+
+Q12. True or False? Functions from the devtools package can be used to install packages from GitHub and BitBucket? 
+
+TRUE
+
+
+
+```{r}
+library(bio3d)
+#aa <- get.seq("1ake_A")
+```
+
+```{r}
+#aa
+```
+
+
+
+Q13. How many amino acids are in this sequence, i.e. how long is this sequence? 
+
+214
+
+
+
+```{r}
+#Blast or hmmer search 
+# b <- blast.pdb(aa)
+```
+
+```{r}
+# Plot a summary of search results
+# hits <- plot(b)
+```
+
+```{r}
+# List out some 'top hits'
+# head(hits$pdb.id)
+```
+
+```{r}
+# hits <- NULL
+# hits$pdb.id <- c('1AKE_A','6S36_A','6RZE_A','3HPR_A','1E4V_A','5EJE_A','1E4Y_A','3X2S_A','6HAP_A','6HAM_A','4K46_A','3GMT_A','4PZL_A')
+```
+
+> Side-notes: Let's save our balst results thus for so we don't have to run it again,
+
+```{r}
+# save(hits, b, file="blast_results.Rds")
+```
+
+
+```{r}
+load("blast_results.Rds")
+hits
+```
+
+
+```{r}
+# Download releated PDB files
+files <- get.pdb(hits$pdb.id, path="pdbs", split=TRUE, gzip=TRUE)
+```
+
+
+```{r}
+# Align releated PDBs
+pdbs <- pdbaln(files, fit = TRUE, exefile="msa")
+```
+
+```{r}
+# Vector containing PDB codes for figure axis
+ids <- basename.pdb(pdbs$id)
+
+# Draw schematic alignment
+plot(pdbs, labels=ids)
+```
+
+```{r}
+anno <- pdb.annotate(ids)
+unique(anno$source)
+```
+
+```{r}
+anno
+```
+
+```{r}
+# Perform PCA
+pc.xray <- pca(pdbs)
+plot(pc.xray)
+```
+
+```{r}
+dim(pdbs$xyz)
+```
+
+
+```{r}
+# Calculate RMSD
+rd <- rmsd(pdbs)
+
+# Structure-based clustering
+hc.rd <- hclust(dist(rd))
+grps.rd <- cutree(hc.rd, k=3)
+
+plot(pc.xray, 1:2, col="grey50", bg=grps.rd, pch=21, cex=1)
+```
+
+```{r}
+# Visualize first principal component
+pc1 <- mktrj(pc.xray, pc=1, file="pc_1.pdb")
+```
+  
+```{r}
+#Plotting results with ggplot2
+library(ggplot2)
+library(ggrepel)
+
+df <- data.frame(PC1=pc.xray$z[,1], 
+                 PC2=pc.xray$z[,2], 
+                 col=as.factor(grps.rd),
+                 ids=ids)
+
+p <- ggplot(df) + 
+  aes(PC1, PC2, col=col, label=ids) +
+  geom_point(size=2) +
+  geom_text_repel(max.overlaps = 20) +
+  theme(legend.position = "none")
+p
+```
+
+```{r}
+# NMA of all structures
+modes <- nma(pdbs)
+```
+
+```{r}
+plot(modes, pdbs, col=grps.rd)
+```
+
+Q14. What do you note about this plot? Are the black and colored lines similar or different? Where do you think they differ most and why?
+
+Black and colored lines are different, especially around the residue number 30~50 and 100~150.
+Because these regions are nucleotide-binding sites, they change conformation between bound and non-bound states.

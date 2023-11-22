@@ -1,0 +1,4376 @@
+RID: KVJ4ZEH201N	
+Job Title:ref|NP_038693.1|  				
+Program: TBLASTN 
+Query: short stature homeobox protein 2 isoform 1 [Mus musculus] ID: NP_038693.1(amino acid) Length: 331
+Database: refseq_genomes (41 databases) 
+	
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Heterocephalus glaber isolate NMR 29 unplaced genomic scaffold... Heterocephal... naked mole-rat  10181      152    488   86%   3e-37 68.97  78885850   NW_004624730.1   
+Cricetulus griseus strain 17A/GY chromosome 1 unlocalized...      Cricetulus g... Chinese hamster 10029      148    719   86%   6e-36 69.57  275698159  NW_023276806.1   
+Mus caroli chromosome 3, CAROLI_EIJ_v1.1                          Mus caroli      Ryukyu mouse    10089      148    609   86%   7e-36 97.26  152576986  NC_034572.1      
+Meriones unguiculatus strain 243 unplaced genomic scaffold,...    Meriones ung... Mongolian ge... 10047      148    483   86%   8e-36 61.48  216642     NW_018660502.1   
+Nannospalax galili isolate Female #2095 unplaced genomic...       Nannospalax ... Upper Galile... 1026970    148    486   86%   8e-36 70.43  3974757    NW_008341872.1   
+Grammomys surdaster isolate TR1022 unplaced genomic scaffold,...  Grammomys su... NA              491861     147    483   86%   9e-36 69.57  20995593   NW_021604597.1   
+Arvicanthis niloticus isolate mArvNil1 chromosome 4,...           Arvicanthis ... Nile rat        61156      147    658   86%   9e-36 70.43  135118099  NC_047661.1      
+Mastomys coucha isolate ucsf_1 unplaced genomic scaffold,...      Mastomys coucha southern mul... 35658      147    649   86%   1e-35 70.43  107530097  NW_022196898.1   
+Castor canadensis isolate Ward unplaced genomic scaffold, C.ca... Castor canad... American beaver 51338      147    482   86%   1e-35 62.02  347689     NW_017870294.1   
+Rattus rattus isolate New Zealand chromosome 3, Rrattus_CSIRO_v1  Rattus rattus   black rat       10117      147    724   86%   1e-35 97.26  223390290  NC_046156.1      
+Mus musculus strain C57BL/6J chromosome 3, GRCm39                 Mus musculus    house mouse     10090      147    605   86%   1e-35 70.43  159745316  NC_000069.7      
+Myodes glareolus unplaced genomic scaffold, Bank_vole1_10x scf_67 Myodes glare... Bank vole       447135     147    484   86%   1e-35 100.00 42170561   NW_025965322.1   
+Onychomys torridus chromosome 6, mOncTor1.1                       Onychomys to... southern gra... 38674      147    660   86%   2e-35 69.57  135684249  NC_050448.1      
+Microtus ochrogaster isolate Prairie Vole_2 chromosome 1,...      Microtus och... prairie vole    79684      147    682   86%   2e-35 100.00 126672627  NC_022009.1      
+Peromyscus leucopus breed LL Stock chromosome 6, UCI_PerLeu_2.1   Peromyscus l... white-footed... 10041      147    659   86%   2e-35 69.57  133087326  NC_051068.1      
+Apodemus sylvaticus chromosome 4, mApoSyl1.1                      Apodemus syl... European woo... 10129      146    603   86%   2e-35 70.43  170262524  NC_067475.1      
+Rattus norvegicus strain BN/NHsdMcwi chromosome 2, mRatBN7.2      Rattus norve... Norway rat      10116      146    722   86%   2e-35 70.43  249053267  NC_051337.1      
+Peromyscus californicus insignis strain IS unplaced genomic...    Peromyscus c... NA              564181     146    670   86%   3e-35 69.57  137607985  NW_026294617.1   
+Mus pahari chromosome 4, PAHARI_EIJ_v1.1                          Mus pahari      shrew mouse     10093      146    608   86%   3e-35 69.57  146485248  NC_034593.1      
+Phodopus roborovskii unplaced genomic scaffold, PHOROB            Phodopus rob... desert hamster  109678     145    486   86%   4e-35 69.57  36901321   NW_026126540.1   
+Arvicola amphibius chromosome 11, mArvAmp1.2                      Arvicola amp... Eurasian wat... 1047088    145    482   86%   4e-35 68.70  123987292  NC_052057.2      
+Microtus fortis isolate MF-2015 unplaced genomic scaffold,...     Microtus fortis reed vole       100897     145    481   86%   6e-35 68.70  11043363   NW_026067939.1   
+Microtus oregoni isolate MIOR12 unplaced genomic scaffold,...     Microtus ore... creeping vole   111838     145    481   86%   6e-35 68.70  55341015   NW_024543069.1   
+Mesocricetus auratus isolate SY011 unplaced genomic scaffold,...  Mesocricetus... golden hamster  10036      144    540   86%   9e-35 95.95  85184847   NW_024429195.1   
+Cavia porcellus strain inbred line 2N unplaced genomic scaffol... Cavia porcellus domestic gui... 10141      144    524   85%   1e-34 70.54  60673567   NT_176411.1      
+Marmota flaviventris isolate SJ_83 unplaced genomic scaffold,...  Marmota flav... yellow-belli... 93162      144    463   86%   1e-34 70.18  27814770   NW_023144646.1   
+Marmota marmota marmota unplaced genomic scaffold, marMar         Marmota marm... Alpine marmot   9994       144    261   36%   1e-34 70.18  36831673   NW_026000240.1   
+Perognathus longimembris pacificus isolate PPM17 chromosome 5,... Perognathus ... Pacific pock... 214514     144    474   86%   1e-34 91.14  88062095   NC_063165.1      
+Acomys russatus chromosome 15, mAcoRus1.1                         Acomys russatus golden spiny... 60746      144    478   86%   2e-34 68.70  67302882   NC_067151.1      
+Octodon degus isolate 3935 unplaced genomic scaffold, OctDeg1.... Octodon degus   degu            10160      144    477   86%   2e-34 98.59  10204928   NW_004524691.1   
+Jaculus jaculus isolate mJacJac1 chromosome 11,...                Jaculus jaculus lesser Egypt... 51337      143    741   84%   2e-34 98.59  113411426  NC_059112.1      
+Peromyscus maniculatus bairdii isolate BW chromosome 6,...        Peromyscus m... prairie deer... 230844     143    675   75%   2e-34 98.59  134808455  NC_056013.1      
+Marmota monax isolate L192 unplaced genomic scaffold,...          Marmota monax   woodchuck       9995       143    463   86%   3e-34 97.22  29296028   NW_025724924.1   
+Ictidomys tridecemlineatus isolate GS200 unplaced genomic...      Ictidomys tr... thirteen-lin... 43179      143    717   86%   4e-34 98.59  155519715  NW_024405602.1   
+Urocitellus parryii isolate AGS 11-09-20 ecotype Arctic tundra... Urocitellus ... Arctic groun... 9999       143    462   86%   4e-34 98.59  5100295    NW_020539999.1   
+Dipodomys ordii isolate 6190 unplaced genomic scaffold, Dord_2... Dipodomys ordii Ord's kangar... 10020      142    340   52%   4e-34 94.52  18288503   NW_012267246.1   
+Chinchilla lanigera isolate Chin_1 unplaced genomic scaffold,...  Chinchilla l... long-tailed ... 34839      142    479   86%   4e-34 98.59  18889295   NW_004955448.1   
+Dipodomys spectabilis isolate Male_0828 unplaced genomic...       Dipodomys sp... banner-taile... 105255     142    580   86%   6e-34 89.87  50155229   NW_024870772.1   
+Cricetulus griseus unplaced genomic scaffold, CriGri_1.0...       Cricetulus g... Chinese hamster 10029      142    317   49%   8e-34 98.59  635165     NW_003614587.1   
+Fukomys damarensis isolate Sample0158 unplaced genomic scaffol... Fukomys dama... Damara mole-rat 885580     141    460   70%   1e-33 98.59  72031070   NW_022900949.1   
+Sciurus carolinensis chromosome 9, mSciCar1.2                     Sciurus caro... gray squirrel   30640      140    463   86%   3e-33 94.52  141423999  NC_062221.1      
+Marmota flaviventris isolate SJ_83 unplaced genomic scaffold,...  Marmota flav... yellow-belli... 93162      126    262   55%   2e-28 50.62  816568     NW_023144947.1   
+Marmota monax isolate L192 unplaced genomic scaffold,...          Marmota monax   woodchuck       9995       125    238   58%   4e-28 50.62  3989008    NW_025722195.1   
+Urocitellus parryii isolate AGS 11-09-20 ecotype Arctic tundra... Urocitellus ... Arctic groun... 9999       120    255   54%   2e-26 67.02  335943     NW_020540803.1   
+Sciurus carolinensis chromosome X, mSciCar1.2                     Sciurus caro... gray squirrel   30640      118    256   35%   1e-25 82.35  131720120  NC_062232.1      
+Chinchilla lanigera isolate Chin_1 unplaced genomic scaffold,...  Chinchilla l... long-tailed ... 34839      117    257   53%   2e-25 73.42  8179692    NW_004955499.1   
+Heterocephalus glaber isolate NMR 29 unplaced genomic scaffold... Heterocephal... naked mole-rat  10181      115    256   49%   1e-24 79.41  7591030    NW_004624834.1   
+Nannospalax galili isolate Female #2095 unplaced genomic...       Nannospalax ... Upper Galile... 1026970    110    194   43%   7e-23 63.16  325771     NW_008355721.1   
+Jaculus jaculus isolate mJacJac1 unplaced genomic scaffold,...    Jaculus jaculus lesser Egypt... 51337      102    206   29%   4e-20 94.00  939969     NW_025423518.1   
+Marmota flaviventris isolate SJ_83 unplaced genomic scaffold,...  Marmota flav... yellow-belli... 93162      85.5   85.5  17%   1e-14 65.52  8989498    NW_023144721.1   
+
+Alignments:
+
+>Heterocephalus glaber isolate NMR 29 unplaced genomic scaffold, HetGla_female_1.0 scaffold00001
+Sequence ID: NW_004624730.1 Length: 78885850
+Range 1: 35835249 to 35835593
+
+Score:152 bits(383), Expect:3e-37, 
+Method:Compositional matrix adjust., 
+Identities:109/116(94%), Positives:109/116(93%), Gaps:2/116(1%)
+
+Query  1         MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEP-GCVEPGRDDRSSPAVRaag  59
+                 MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEP GC EPGRDDRSSPAVR A 
+Sbjct  35835593  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPSGCAEPGRDDRSSPAVR-AA  35835417
+
+Query  60        ggggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+                 GGGG GGGGGGGGGGGG  GGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE
+Sbjct  35835416  GGGGGGGGGGGGGGGGGAGGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE  35835249
+
+
+
+
+Range 2: 35832096 to 35832308
+
+Score:141 bits(355), Expect:2e-33, 
+Method:Compositional matrix adjust., 
+Identities:70/71(99%), Positives:71/71(100%), Gaps:0/71(0%)
+
+Query  116       VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                 VSPELKDRK+DAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ
+Sbjct  35832308  VSPELKDRKEDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  35832129
+
+Query  176       RLGLSEARVQV  186
+                 RLGLSEARVQV
+Sbjct  35832128  RLGLSEARVQV  35832096
+
+
+
+
+Range 3: 35827650 to 35827805
+
+Score:74.7 bits(182), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235       DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                 DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  35827805  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  35827650
+
+
+
+
+Range 4: 35829326 to 35829442
+
+Score:68.6 bits(166), Expect:6e-09, 
+Method:Compositional matrix adjust., 
+Identities:31/39(79%), Positives:33/39(84%), Gaps:0/39(0%)
+
+Query  202       LHKGVLIGAASQFEACRVAPYVNVGALRMPFQQDSHCNV  240
+                    GVLIGAASQFEACRVAPYVNVGALRMPFQQ S  ++
+Sbjct  35829442  FFTGVLIGAASQFEACRVAPYVNVGALRMPFQQVSIASI  35829326
+
+
+
+
+Range 5: 35829726 to 35829794
+
+Score:51.6 bits(122), Expect:0.001, 
+Method:Compositional matrix adjust., 
+Identities:21/23(91%), Positives:23/23(100%), Gaps:0/23(0%)
+
+Query  186       VWFQNRRAKCRKQENQLHKGVLI  208
+                 VWFQNRRAKCRKQENQLHKG+L+
+Sbjct  35829794  VWFQNRRAKCRKQENQLHKGMLL  35829726
+
+
+
+
+>Cricetulus griseus strain 17A/GY chromosome 1 unlocalized genomic scaffold, alternate assembly CriGri-PICRH-1.0 chr1_0, whole genome shotgun sequence
+Sequence ID: NW_023276806.1 Length: 275698159
+Range 1: 86057439 to 86057783
+
+Score:148 bits(373), Expect:6e-36, 
+Method:Compositional matrix adjust., 
+Identities:114/115(99%), Positives:115/115(100%), Gaps:0/115(0%)
+
+Query  1         MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRaagg  60
+                 MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGC+EPGRDDRSSPAVRAAGG
+Sbjct  86057439  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCIEPGRDDRSSPAVRAAGG  86057618
+
+Query  61        gggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+                 GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE
+Sbjct  86057619  GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE  86057783
+
+
+
+
+Range 2: 86060585 to 86060797
+
+Score:145 bits(367), Expect:4e-35, 
+Method:Compositional matrix adjust., 
+Identities:70/71(99%), Positives:71/71(100%), Gaps:0/71(0%)
+
+Query  116       VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                 VSPELKDRK+DAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ
+Sbjct  86060585  VSPELKDRKEDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  86060764
+
+Query  176       RLGLSEARVQV  186
+                 RLGLSEARVQV
+Sbjct  86060765  RLGLSEARVQV  86060797
+
+
+
+
+Range 3: 86065086 to 86065241
+
+Score:74.7 bits(182), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235       DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                 DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  86065086  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  86065241
+
+
+
+
+Range 4: 86063495 to 86063590
+
+Score:67.8 bits(164), Expect:1e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/32(97%), Positives:31/32(96%), Gaps:0/32(0%)
+
+Query  205       GVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+                 GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  86063495  GVLIGAASQFEACRVAPYVNVGALRMPFQQAS  86063590
+
+
+
+
+Range 5: 49558615 to 49558806
+
+Score:66.2 bits(160), Expect:3e-08, 
+Method:Compositional matrix adjust., 
+Identities:35/71(49%), Positives:48/71(67%), Gaps:7/71(9%)
+
+Query  116       VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                 +SP L D  + AK       +K K+RR+RT F+  QL ELE++F +THYPD + RE+L+ 
+Sbjct  49558806  LSPGLPDSMELAK-------SKSKKRRNRTTFSTFQLEELEKVFQKTHYPDVYAREQLAL  49558648
+
+Query  176       RLGLSEARVQV  186
+                 R  L+EARVQV
+Sbjct  49558647  RTDLTEARVQV  49558615
+
+
+
+
+Range 6: 168264588 to 168264911
+
+Score:64.3 bits(155), Expect:1e-07, 
+Method:Compositional matrix adjust., 
+Identities:41/111(37%), Positives:62/111(55%), Gaps:19/111(17%)
+
+Query  92         SPVRELDMGAAERSREPGSPRLTEVSPELKD----RKDDAKGMEDEGQ------------  135
+                  SP+  ++ G    ++  G P  TE++  +      R    KGM ++G+            
+Sbjct  168264911  SPLSTVNYGI---TKVEGQPLHTELNRAMDSCNNLRMSPVKGMPEKGELDELGDKCDSNV  168264741
+
+Query  136        TKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEARVQV  186
+                  +  K+RR RT FT  QL ELE++F +THYPD ++RE+L+ R  L+EARVQV
+Sbjct  168264740  SSSKKRRHRTTFTSLQLEELEKVFQKTHYPDVYVREQLALRTELTEARVQV  168264588
+
+
+
+
+Range 7: 29680584 to 29680769
+
+Score:54.7 bits(130), Expect:2e-04, 
+Method:Compositional matrix adjust., 
+Identities:30/63(48%), Positives:40/63(63%), Gaps:1/63(1%)
+
+Query  124       KDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEAR  183
+                 K++  G ED  + K +QRR RT+FT +QL ELE  F    YPD   REE++    L+EAR
+Sbjct  29680769  KNEDVGAEDPSKKK-RQRRQRTHFTSQQLQELEATFQRNRYPDMSTREEIAVWTNLTEAR  29680593
+
+Query  184       VQV  186
+                 V+V
+Sbjct  29680592  VRV  29680584
+
+
+
+
+Range 8: 86063122 to 86063196
+
+Score:49.3 bits(116), Expect:0.007, 
+Method:Compositional matrix adjust., 
+Identities:21/25(84%), Positives:22/25(88%), Gaps:0/25(0%)
+
+Query  186       VWFQNRRAKCRKQENQLHKGVLIGA  210
+                 VWFQNRRAKCRKQENQLHKG+   A
+Sbjct  86063122  VWFQNRRAKCRKQENQLHKGMSYNA  86063196
+
+
+
+
+Range 9: 226116607 to 226116741
+
+Score:47.8 bits(112), Expect:0.022, 
+Method:Compositional matrix adjust., 
+Identities:20/45(44%), Positives:30/45(66%), Gaps:0/45(0%)
+
+Query  142        RSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEARVQV  186
+                  R +   + +QL ELER+F E HYPD+  R E++Q LG++  R+ V
+Sbjct  226116607  RCKCCLSADQLEELERIFQEDHYPDSDKRREIAQMLGVTSQRIMV  226116741
+
+
+
+
+>Mus caroli chromosome 3, CAROLI_EIJ_v1.1
+Sequence ID: NC_034572.1 Length: 152576986
+Range 1: 60539902 to 60540120
+
+Score:148 bits(373), Expect:7e-36, 
+Method:Compositional matrix adjust., 
+Identities:71/73(97%), Positives:72/73(98%), Gaps:0/73(0%)
+
+Query  114       TEVSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREEL  173
+                 + VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREEL
+Sbjct  60540120  SSVSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREEL  60539941
+
+Query  174       SQRLGLSEARVQV  186
+                 SQRLGLSEARVQV
+Sbjct  60539940  SQRLGLSEARVQV  60539902
+
+
+
+
+Range 2: 60542913 to 60543257
+
+Score:147 bits(371), Expect:1e-35, 
+Method:Compositional matrix adjust., 
+Identities:115/115(100%), Positives:115/115(100%), Gaps:0/115(0%)
+
+Query  1         MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRaagg  60
+                 MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRAAGG
+Sbjct  60543257  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRAAGG  60543078
+
+Query  61        gggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+                 GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE
+Sbjct  60543077  GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE  60542913
+
+
+
+
+Range 3: 60535468 to 60535623
+
+Score:74.7 bits(182), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235       DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                 DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  60535623  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  60535468
+
+
+
+
+Range 4: 101800035 to 101800238
+
+Score:68.2 bits(165), Expect:8e-09, 
+Method:Compositional matrix adjust., 
+Identities:37/75(49%), Positives:50/75(66%), Gaps:9/75(12%)
+
+Query  116        VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                  +SP L D  + AK       TK K+RR+RT F+  QL ELE++F +THYPD + RE+L+ 
+Sbjct  101800035  LSPGLPDSMELAK-------TKSKKRRNRTTFSTFQLEELEKVFQKTHYPDVYAREQLAL  101800193
+
+Query  176        RLGLSEARVQV--WF  188
+                  R  L+EARVQV  W+
+Sbjct  101800194  RTDLTEARVQVRAWW  101800238
+
+
+
+
+Range 5: 60537136 to 60537231
+
+Score:67.4 bits(163), Expect:1e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/32(97%), Positives:31/32(96%), Gaps:0/32(0%)
+
+Query  205       GVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+                 GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  60537231  GVLIGAASQFEACRVAPYVNVGALRMPFQQAS  60537136
+
+
+
+
+Range 6: 122812550 to 122812735
+
+Score:53.9 bits(128), Expect:3e-04, 
+Method:Compositional matrix adjust., 
+Identities:30/63(48%), Positives:40/63(63%), Gaps:1/63(1%)
+
+Query  124        KDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEAR  183
+                  K++  G ED  + K +QRR RT+FT +QL ELE  F    YPD   REE++    L+EAR
+Sbjct  122812550  KNEDVGAEDPSKKK-RQRRQRTHFTSQQLQELEATFQRNRYPDMSTREEIAVWTNLTEAR  122812726
+
+Query  184        VQV  186
+                  V+V
+Sbjct  122812727  VRV  122812735
+
+
+
+
+Range 7: 60537535 to 60537597
+
+Score:49.3 bits(116), Expect:0.009, 
+Method:Compositional matrix adjust., 
+Identities:20/21(95%), Positives:21/21(100%), Gaps:0/21(0%)
+
+Query  186       VWFQNRRAKCRKQENQLHKGV  206
+                 VWFQNRRAKCRKQENQLHKG+
+Sbjct  60537597  VWFQNRRAKCRKQENQLHKGI  60537535
+
+
+
+
+>Meriones unguiculatus strain 243 unplaced genomic scaffold, MunDraft-v1.0 scaffold2759
+Sequence ID: NW_018660502.1 Length: 216642
+Range 1: 174214 to 174618
+
+Score:148 bits(373), Expect:8e-36, 
+Method:Compositional matrix adjust., 
+Identities:116/135(86%), Positives:120/135(88%), Gaps:0/135(0%)
+
+Query  1       MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRaagg  60
+               MEELTAFVSKSFDQKVKE+KEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRAAGG
+Sbjct  174618  MEELTAFVSKSFDQKVKERKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRAAGG  174439
+
+Query  61      gggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTEVSPEL  120
+               GGGAGGGGGGGGGGGGGAGGGG GGGAGGGRSPVRELDMGAAERSREPGSPRLTE     
+Sbjct  174438  GGGAGGGGGGGGGGGGGAGGGGVGGGAGGGRSPVRELDMGAAERSREPGSPRLTEGKRPA  174259
+
+Query  121     KDRKDDAKGMEDEGQ  135
+                 R   ++G    G+
+Sbjct  174258  PGRGAPSRGARRSGR  174214
+
+
+
+
+Range 2: 171322 to 171534
+
+Score:143 bits(360), Expect:4e-34, 
+Method:Compositional matrix adjust., 
+Identities:70/71(99%), Positives:71/71(100%), Gaps:0/71(0%)
+
+Query  116     VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+               VSPELKDRK+DAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ
+Sbjct  171534  VSPELKDRKEDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  171355
+
+Query  176     RLGLSEARVQV  186
+               RLGLSEARVQV
+Sbjct  171354  RLGLSEARVQV  171322
+
+
+
+
+Range 3: 166901 to 167056
+
+Score:74.7 bits(182), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235     DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+               DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  167056  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  166901
+
+
+
+
+Range 4: 168575 to 168670
+
+Score:68.2 bits(165), Expect:6e-09, 
+Method:Compositional matrix adjust., 
+Identities:31/32(97%), Positives:31/32(96%), Gaps:0/32(0%)
+
+Query  205     GVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+               GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  168670  GVLIGAASQFEACRVAPYVNVGALRMPFQQAS  168575
+
+
+
+
+Range 5: 168983 to 169045
+
+Score:49.3 bits(116), Expect:0.009, 
+Method:Compositional matrix adjust., 
+Identities:20/21(95%), Positives:21/21(100%), Gaps:0/21(0%)
+
+Query  186     VWFQNRRAKCRKQENQLHKGV  206
+               VWFQNRRAKCRKQENQLHKG+
+Sbjct  169045  VWFQNRRAKCRKQENQLHKGI  168983
+
+
+
+
+>Nannospalax galili isolate Female #2095 unplaced genomic scaffold, S.galili_v1.0 scaffold617
+Sequence ID: NW_008341872.1 Length: 3974757
+Range 1: 2582002 to 2582346
+
+Score:148 bits(373), Expect:8e-36, 
+Method:Compositional matrix adjust., 
+Identities:114/115(99%), Positives:114/115(99%), Gaps:0/115(0%)
+
+Query  1        MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRaagg  60
+                MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRAAGG
+Sbjct  2582346  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRAAGG  2582167
+
+Query  61       gggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+                GGG GGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE
+Sbjct  2582166  GGGGGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE  2582002
+
+
+
+
+Range 2: 2578923 to 2579138
+
+Score:143 bits(361), Expect:2e-34, 
+Method:Compositional matrix adjust., 
+Identities:69/72(96%), Positives:71/72(98%), Gaps:0/72(0%)
+
+Query  116      VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                V+PELKDRK+DAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ
+Sbjct  2579138  VNPELKDRKEDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  2578959
+
+Query  176      RLGLSEARVQVW  187
+                RLGLSEARVQV 
+Sbjct  2578958  RLGLSEARVQVL  2578923
+
+
+
+
+Range 3: 2574401 to 2574556
+
+Score:74.7 bits(182), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235      DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  2574556  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  2574401
+
+
+
+
+Range 4: 2576065 to 2576160
+
+Score:67.0 bits(162), Expect:2e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/32(97%), Positives:31/32(96%), Gaps:0/32(0%)
+
+Query  205      GVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+                GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  2576160  GVLIGAASQFEACRVAPYVNVGALRMPFQQAS  2576065
+
+
+
+
+Range 5: 2576469 to 2576537
+
+Score:52.4 bits(124), Expect:9e-04, 
+Method:Compositional matrix adjust., 
+Identities:22/23(96%), Positives:23/23(100%), Gaps:0/23(0%)
+
+Query  186      VWFQNRRAKCRKQENQLHKGVLI  208
+                VWFQNRRAKCRKQENQLHKGVL+
+Sbjct  2576537  VWFQNRRAKCRKQENQLHKGVLL  2576469
+
+
+
+
+>Grammomys surdaster isolate TR1022 unplaced genomic scaffold, NIH_TR_1.0 139
+Sequence ID: NW_021604597.1 Length: 20995593
+Range 1: 15464315 to 15464659
+
+Score:147 bits(372), Expect:9e-36, 
+Method:Compositional matrix adjust., 
+Identities:114/115(99%), Positives:115/115(100%), Gaps:0/115(0%)
+
+Query  1         MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRaagg  60
+                 MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGC+EPGRDDRSSPAVRAAGG
+Sbjct  15464659  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCIEPGRDDRSSPAVRAAGG  15464480
+
+Query  61        gggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+                 GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE
+Sbjct  15464479  GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE  15464315
+
+
+
+
+Range 2: 15461220 to 15461438
+
+Score:144 bits(362), Expect:2e-34, 
+Method:Compositional matrix adjust., 
+Identities:70/73(96%), Positives:72/73(98%), Gaps:0/73(0%)
+
+Query  114       TEVSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREEL  173
+                 + VSPELKDRK+DAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREEL
+Sbjct  15461438  SSVSPELKDRKEDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREEL  15461259
+
+Query  174       SQRLGLSEARVQV  186
+                 SQRLGLSEARVQV
+Sbjct  15461258  SQRLGLSEARVQV  15461220
+
+
+
+
+Range 3: 15456790 to 15456945
+
+Score:74.7 bits(182), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235       DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                 DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  15456945  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  15456790
+
+
+
+
+Range 4: 15458490 to 15458585
+
+Score:67.8 bits(164), Expect:9e-09, 
+Method:Compositional matrix adjust., 
+Identities:31/32(97%), Positives:31/32(96%), Gaps:0/32(0%)
+
+Query  205       GVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+                 GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  15458585  GVLIGAASQFEACRVAPYVNVGALRMPFQQAS  15458490
+
+
+
+
+Range 5: 15458886 to 15458948
+
+Score:49.3 bits(116), Expect:0.009, 
+Method:Compositional matrix adjust., 
+Identities:20/21(95%), Positives:21/21(100%), Gaps:0/21(0%)
+
+Query  186       VWFQNRRAKCRKQENQLHKGV  206
+                 VWFQNRRAKCRKQENQLHKG+
+Sbjct  15458948  VWFQNRRAKCRKQENQLHKGI  15458886
+
+
+
+
+>Arvicanthis niloticus isolate mArvNil1 chromosome 4, mArvNil1.pat.X
+Sequence ID: NC_047661.1 Length: 135118099
+Range 1: 48377975 to 48378319
+
+Score:147 bits(372), Expect:9e-36, 
+Method:Compositional matrix adjust., 
+Identities:115/115(100%), Positives:115/115(100%), Gaps:0/115(0%)
+
+Query  1         MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRaagg  60
+                 MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRAAGG
+Sbjct  48378319  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRAAGG  48378140
+
+Query  61        gggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+                 GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE
+Sbjct  48378139  GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE  48377975
+
+
+
+
+Range 2: 48374909 to 48375151
+
+Score:145 bits(365), Expect:6e-35, 
+Method:Compositional matrix adjust., 
+Identities:73/83(88%), Positives:76/83(91%), Gaps:2/83(2%)
+
+Query  104       RSREPGSPRLTEVSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETH  163
+                 R+  P  P  + VSPELKDRK+DAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETH
+Sbjct  48375151  RTCGPSVP--SSVSPELKDRKEDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETH  48374978
+
+Query  164       YPDAFMREELSQRLGLSEARVQV  186
+                 YPDAFMREELSQRLGLSEARVQV
+Sbjct  48374977  YPDAFMREELSQRLGLSEARVQV  48374909
+
+
+
+
+Range 3: 48370374 to 48370529
+
+Score:74.7 bits(182), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235       DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                 DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  48370529  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  48370374
+
+
+
+
+Range 4: 48372115 to 48372210
+
+Score:68.2 bits(165), Expect:6e-09, 
+Method:Compositional matrix adjust., 
+Identities:31/32(97%), Positives:31/32(96%), Gaps:0/32(0%)
+
+Query  205       GVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+                 GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  48372210  GVLIGAASQFEACRVAPYVNVGALRMPFQQAS  48372115
+
+
+
+
+Range 5: 86730670 to 86730873
+
+Score:66.6 bits(161), Expect:2e-08, 
+Method:Compositional matrix adjust., 
+Identities:36/75(48%), Positives:50/75(66%), Gaps:9/75(12%)
+
+Query  116       VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                 +SP L D  + AK       +K K+RR+RT F+  QL ELE++F +THYPD + RE+L+ 
+Sbjct  86730670  LSPGLPDSMELAK-------SKSKKRRNRTTFSTFQLEELEKVFQKTHYPDVYAREQLAL  86730828
+
+Query  176       RLGLSEARVQV--WF  188
+                 R  L+EARVQV  W+
+Sbjct  86730829  RTDLTEARVQVRAWW  86730873
+
+
+
+
+Range 6: 106427846 to 106428064
+
+Score:53.9 bits(128), Expect:2e-04, 
+Method:Compositional matrix adjust., 
+Identities:32/74(43%), Positives:44/74(59%), Gaps:1/74(1%)
+
+Query  124        KDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEAR  183
+                  K++  G ED  + K +QRR RT+FT +QL ELE  F    YPD   REE++    L+EAR
+Sbjct  106427846  KNEDVGAEDPSKKK-RQRRQRTHFTSQQLQELEATFQRNRYPDMSTREEIAVWTNLTEAR  106428022
+
+Query  184        VQVWFQNRRAKCRK  197
+                  V+V    +  K R+
+Sbjct  106428023  VRVGASTQSRKTRR  106428064
+
+
+
+
+Range 7: 79420769 to 79421038
+
+Score:52.8 bits(125), Expect:6e-04, 
+Method:Compositional matrix adjust., 
+Identities:32/90(36%), Positives:53/90(58%), Gaps:3/90(3%)
+
+Query  114       TEVSPELKDRKDDA-KGMEDEGQTKI--KQRRSRTNFTLEQLNELERLFDETHYPDAFMR  170
+                 + ++PELK    +A KG+E + + K+  ++++ RT F+  QL  L+  F    Y      
+Sbjct  79420769  SSINPELKPSSPEADKGLEKKVENKVLPRKQKMRTVFSQAQLCALKDRFQRRRYLSLQQM  79420948
+
+Query  171       EELSQRLGLSEARVQVWFQNRRAKCRKQEN  200
+                 +ELS  L LS  +V+ WFQN+R KC++ +N
+Sbjct  79420949  QELSTILNLSYKQVKTWFQNQRMKCKRWQN  79421038
+
+
+
+
+Range 8: 48372511 to 48372573
+
+Score:49.3 bits(116), Expect:0.009, 
+Method:Compositional matrix adjust., 
+Identities:20/21(95%), Positives:21/21(100%), Gaps:0/21(0%)
+
+Query  186       VWFQNRRAKCRKQENQLHKGV  206
+                 VWFQNRRAKCRKQENQLHKG+
+Sbjct  48372573  VWFQNRRAKCRKQENQLHKGI  48372511
+
+
+
+
+>Mastomys coucha isolate ucsf_1 unplaced genomic scaffold, UCSF_Mcou_1 pScaffold16
+Sequence ID: NW_022196898.1 Length: 107530097
+Range 1: 16761334 to 16761678
+
+Score:147 bits(372), Expect:1e-35, 
+Method:Compositional matrix adjust., 
+Identities:115/115(100%), Positives:115/115(100%), Gaps:0/115(0%)
+
+Query  1         MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRaagg  60
+                 MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRAAGG
+Sbjct  16761678  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRAAGG  16761499
+
+Query  61        gggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+                 GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE
+Sbjct  16761498  GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE  16761334
+
+
+
+
+Range 2: 16758280 to 16758483
+
+Score:137 bits(346), Expect:2e-32, 
+Method:Compositional matrix adjust., 
+Identities:67/68(99%), Positives:68/68(100%), Gaps:0/68(0%)
+
+Query  119       ELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLG  178
+                 ELKDRK+DAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLG
+Sbjct  16758483  ELKDRKEDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLG  16758304
+
+Query  179       LSEARVQV  186
+                 LSEARVQV
+Sbjct  16758303  LSEARVQV  16758280
+
+
+
+
+Range 3: 16753857 to 16754012
+
+Score:74.7 bits(182), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235       DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                 DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  16754012  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  16753857
+
+
+
+
+Range 4: 55678006 to 55678215
+
+Score:67.0 bits(162), Expect:1e-08, 
+Method:Compositional matrix adjust., 
+Identities:36/77(47%), Positives:51/77(66%), Gaps:9/77(11%)
+
+Query  116       VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                 +SP L D  + AK       +K K+RR+RT F+  QL ELE++F +THYPD + RE+L+ 
+Sbjct  55678006  LSPGLPDSMELAK-------SKSKKRRNRTTFSTFQLEELEKVFQKTHYPDVYAREQLAL  55678164
+
+Query  176       RLGLSEARVQV--WFQN  190
+                 R  L+EARVQV  W+ +
+Sbjct  55678165  RTDLTEARVQVRAWWAS  55678215
+
+
+
+
+Range 5: 16755524 to 16755619
+
+Score:67.0 bits(162), Expect:2e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/32(97%), Positives:31/32(96%), Gaps:0/32(0%)
+
+Query  205       GVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+                 GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  16755619  GVLIGAASQFEACRVAPYVNVGALRMPFQQAS  16755524
+
+
+
+
+Range 6: 76738020 to 76738205
+
+Score:55.5 bits(132), Expect:9e-05, 
+Method:Compositional matrix adjust., 
+Identities:30/63(48%), Positives:40/63(63%), Gaps:1/63(1%)
+
+Query  124       KDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEAR  183
+                 K++  G ED  + K +QRR RT+FT +QL ELE  F    YPD   REE++    L+EAR
+Sbjct  76738020  KNEDVGAEDPSKKK-RQRRQRTHFTSQQLQELEATFQRNRYPDMSTREEIAVWTNLTEAR  76738196
+
+Query  184       VQV  186
+                 V+V
+Sbjct  76738197  VRV  76738205
+
+
+
+
+Range 7: 98163956 to 98164114
+
+Score:51.6 bits(122), Expect:0.002, 
+Method:Compositional matrix adjust., 
+Identities:26/53(49%), Positives:32/53(60%), Gaps:0/53(0%)
+
+Query  142       RSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEARVQVWFQNRRAK  194
+                 R RT  TL QL  L + F+    P    REEL+QR GL E  + +WFQNRRA+
+Sbjct  98164114  RPRTRLTLLQLEILVKAFERNPMPGFDTREELAQRTGLPEDTIHIWFQNRRAR  98163956
+
+
+
+
+Range 8: 16755918 to 16755980
+
+Score:48.1 bits(113), Expect:0.018, 
+Method:Compositional matrix adjust., 
+Identities:20/21(95%), Positives:21/21(100%), Gaps:0/21(0%)
+
+Query  186       VWFQNRRAKCRKQENQLHKGV  206
+                 VWFQNRRAKCRKQENQLHKG+
+Sbjct  16755980  VWFQNRRAKCRKQENQLHKGM  16755918
+
+
+
+
+>Castor canadensis isolate Ward unplaced genomic scaffold, C.can genome v1.0 scaffold_967
+Sequence ID: NW_017870294.1 Length: 347689
+Range 1: 41884 to 42267
+
+Score:147 bits(371), Expect:1e-35, 
+Method:Compositional matrix adjust., 
+Identities:111/129(86%), Positives:116/129(89%), Gaps:2/129(1%)
+
+Query  1      MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEP-GCVEPGRDDRSSPAVRaag  59
+              MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEP GC EPGRDDRSSPAVR A 
+Sbjct  41884  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPSGCAEPGRDDRSSPAVR-AA  42060
+
+Query  60     ggggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTEVSPE  119
+              GGGG GGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGA+ERSREPGSPRLTE + +
+Sbjct  42061  GGGGGGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGASERSREPGSPRLTEGNGQ  42240
+
+Query  120    LKDRKDDAK  128
+                 R   ++
+Sbjct  42241  TPGRGSPSR  42267
+
+
+
+
+Range 2: 45055 to 45267
+
+Score:142 bits(357), Expect:9e-34, 
+Method:Compositional matrix adjust., 
+Identities:69/71(97%), Positives:71/71(100%), Gaps:0/71(0%)
+
+Query  116    VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+              VSP+LKDRK+DAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ
+Sbjct  45055  VSPDLKDRKEDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  45234
+
+Query  176    RLGLSEARVQV  186
+              RLGLSEARVQV
+Sbjct  45235  RLGLSEARVQV  45267
+
+
+
+
+Range 3: 49666 to 49821
+
+Score:74.7 bits(182), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235    DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+              DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  49666  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  49821
+
+
+
+
+Range 4: 48014 to 48118
+
+Score:66.6 bits(161), Expect:2e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/35(89%), Positives:31/35(88%), Gaps:0/35(0%)
+
+Query  202    LHKGVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+                 GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  48014  FFTGVLIGAASQFEACRVAPYVNVGALRMPFQQVS  48118
+
+
+
+
+Range 5: 47630 to 47698
+
+Score:51.2 bits(121), Expect:0.002, 
+Method:Compositional matrix adjust., 
+Identities:21/23(91%), Positives:23/23(100%), Gaps:0/23(0%)
+
+Query  186    VWFQNRRAKCRKQENQLHKGVLI  208
+              VWFQNRRAKCRKQENQLHKG+L+
+Sbjct  47630  VWFQNRRAKCRKQENQLHKGMLL  47698
+
+
+
+
+>Rattus rattus isolate New Zealand chromosome 3, Rrattus_CSIRO_v1
+Sequence ID: NC_046156.1 Length: 223390290
+Range 1: 88248655 to 88248873
+
+Score:147 bits(371), Expect:1e-35, 
+Method:Compositional matrix adjust., 
+Identities:71/73(97%), Positives:72/73(98%), Gaps:0/73(0%)
+
+Query  114       TEVSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREEL  173
+                 + VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREEL
+Sbjct  88248655  SSVSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREEL  88248834
+
+Query  174       SQRLGLSEARVQV  186
+                 SQRLGLSEARVQV
+Sbjct  88248835  SQRLGLSEARVQV  88248873
+
+
+
+
+Range 2: 88245486 to 88245830
+
+Score:146 bits(369), Expect:2e-35, 
+Method:Compositional matrix adjust., 
+Identities:115/115(100%), Positives:115/115(100%), Gaps:0/115(0%)
+
+Query  1         MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRaagg  60
+                 MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRAAGG
+Sbjct  88245486  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRAAGG  88245665
+
+Query  61        gggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+                 GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE
+Sbjct  88245666  GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE  88245830
+
+
+
+
+Range 3: 88253189 to 88253344
+
+Score:74.7 bits(182), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235       DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                 DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  88253189  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  88253344
+
+
+
+
+Range 4: 201480167 to 201480325
+
+Score:70.9 bits(172), Expect:9e-10, 
+Method:Compositional matrix adjust., 
+Identities:34/53(64%), Positives:39/53(73%), Gaps:0/53(0%)
+
+Query  142        RSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEARVQVWFQNRRAK  194
+                  R RT FT  QLNELER F +THYPD FMREEL+ R+GL+E+RVQV     R K
+Sbjct  201480325  RHRTRFTPAQLNELERSFAKTHYPDIFMREELALRIGLTESRVQVHRARARGK  201480167
+
+
+
+
+Range 5: 88251503 to 88251598
+
+Score:67.4 bits(163), Expect:1e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/32(97%), Positives:31/32(96%), Gaps:0/32(0%)
+
+Query  205       GVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+                 GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  88251503  GVLIGAASQFEACRVAPYVNVGALRMPFQQAS  88251598
+
+
+
+
+Range 6: 50660043 to 50660234
+
+Score:65.9 bits(159), Expect:4e-08, 
+Method:Compositional matrix adjust., 
+Identities:35/71(49%), Positives:48/71(67%), Gaps:7/71(9%)
+
+Query  116       VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                 +SP L D  + AK       +K K+RR+RT F+  QL ELE++F +THYPD + RE+L+ 
+Sbjct  50660234  LSPGLPDSMELAK-------SKSKKRRNRTTFSTFQLEELEKVFQKTHYPDVYAREQLAL  50660076
+
+Query  176       RLGLSEARVQV  186
+                 R  L+EARVQV
+Sbjct  50660075  RTDLTEARVQV  50660043
+
+
+
+
+Range 7: 30102663 to 30102878
+
+Score:53.9 bits(128), Expect:3e-04, 
+Method:Compositional matrix adjust., 
+Identities:32/73(44%), Positives:43/73(58%), Gaps:1/73(1%)
+
+Query  124       KDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEAR  183
+                 K++  G ED  + K +QRR RT+FT +QL ELE  F    YPD   REE++    L+EAR
+Sbjct  30102878  KNEDVGAEDPSKKK-RQRRQRTHFTSQQLQELEATFQRNRYPDMSTREEIAVWTNLTEAR  30102702
+
+Query  184       VQVWFQNRRAKCR  196
+                 V+V    +  K R
+Sbjct  30102701  VRVGASTQSGKTR  30102663
+
+
+
+
+Range 8: 88251146 to 88251208
+
+Score:49.3 bits(116), Expect:0.009, 
+Method:Compositional matrix adjust., 
+Identities:20/21(95%), Positives:21/21(100%), Gaps:0/21(0%)
+
+Query  186       VWFQNRRAKCRKQENQLHKGV  206
+                 VWFQNRRAKCRKQENQLHKG+
+Sbjct  88251146  VWFQNRRAKCRKQENQLHKGI  88251208
+
+
+
+
+Range 9: 179832575 to 179832751
+
+Score:48.1 bits(113), Expect:0.019, 
+Method:Compositional matrix adjust., 
+Identities:24/59(41%), Positives:34/59(57%), Gaps:0/59(0%)
+
+Query  139        KQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEARVQVWFQNRRAKCRK  197
+                  K  R RT    +QL+ L   +     PDA M+E+L +  GLS   ++VWFQN+R K +K
+Sbjct  179832751  KTTRVRTVLNEKQLHTLRTCYAANPRPDALMKEQLVEMTGLSPRVIRVWFQNKRCKDKK  179832575
+
+
+
+
+>Mus musculus strain C57BL/6J chromosome 3, GRCm39
+Sequence ID: NC_000069.7 Length: 159745316
+Range 1: 66888545 to 66888889
+
+Score:147 bits(371), Expect:1e-35, 
+Method:Compositional matrix adjust., 
+Identities:115/115(100%), Positives:115/115(100%), Gaps:0/115(0%)
+
+Query  1         MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRaagg  60
+                 MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRAAGG
+Sbjct  66888889  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRAAGG  66888710
+
+Query  61        gggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+                 GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE
+Sbjct  66888709  GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE  66888545
+
+
+
+
+Range 2: 66885516 to 66885734
+
+Score:145 bits(365), Expect:7e-35, 
+Method:Compositional matrix adjust., 
+Identities:71/73(97%), Positives:72/73(98%), Gaps:0/73(0%)
+
+Query  114       TEVSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREEL  173
+                 + VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREEL
+Sbjct  66885734  SSVSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREEL  66885555
+
+Query  174       SQRLGLSEARVQV  186
+                 SQRLGLSEARVQV
+Sbjct  66885554  SQRLGLSEARVQV  66885516
+
+
+
+
+Range 3: 66881121 to 66881276
+
+Score:74.7 bits(182), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235       DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                 DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  66881276  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  66881121
+
+
+
+
+Range 4: 107507898 to 107508098
+
+Score:67.4 bits(163), Expect:1e-08, 
+Method:Compositional matrix adjust., 
+Identities:37/74(50%), Positives:49/74(66%), Gaps:9/74(12%)
+
+Query  116        VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                  +SP L D  + AK       TK K+RR+RT F+  QL ELE++F +THYPD + RE+L+ 
+Sbjct  107507898  LSPGLPDSMELAK-------TKSKKRRNRTTFSTFQLEELEKVFQKTHYPDVYAREQLAL  107508056
+
+Query  176        RLGLSEARVQV--W  187
+                  R  L+EARVQV  W
+Sbjct  107508057  RTDLTEARVQVRAW  107508098
+
+
+
+
+Range 5: 66882771 to 66882866
+
+Score:67.0 bits(162), Expect:2e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/32(97%), Positives:31/32(96%), Gaps:0/32(0%)
+
+Query  205       GVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+                 GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  66882866  GVLIGAASQFEACRVAPYVNVGALRMPFQQAS  66882771
+
+
+
+
+Range 6: 129009311 to 129009526
+
+Score:53.9 bits(128), Expect:3e-04, 
+Method:Compositional matrix adjust., 
+Identities:32/73(44%), Positives:43/73(58%), Gaps:1/73(1%)
+
+Query  124        KDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEAR  183
+                  K++  G ED  + K +QRR RT+FT +QL ELE  F    YPD   REE++    L+EAR
+Sbjct  129009311  KNEDVGAEDPSKKK-RQRRQRTHFTSQQLQELEATFQRNRYPDMSTREEIAVWTNLTEAR  129009487
+
+Query  184        VQVWFQNRRAKCR  196
+                  V+V    +  K R
+Sbjct  129009488  VRVGASTQSGKTR  129009526
+
+
+
+
+Range 7: 66883181 to 66883243
+
+Score:49.3 bits(116), Expect:0.009, 
+Method:Compositional matrix adjust., 
+Identities:20/21(95%), Positives:21/21(100%), Gaps:0/21(0%)
+
+Query  186       VWFQNRRAKCRKQENQLHKGV  206
+                 VWFQNRRAKCRKQENQLHKG+
+Sbjct  66883243  VWFQNRRAKCRKQENQLHKGI  66883181
+
+
+
+
+>Myodes glareolus unplaced genomic scaffold, Bank_vole1_10x scf_67
+Sequence ID: NW_025965322.1 Length: 42170561
+Range 1: 16279951 to 16280163
+
+Score:147 bits(370), Expect:1e-35, 
+Method:Compositional matrix adjust., 
+Identities:71/71(100%), Positives:71/71(100%), Gaps:0/71(0%)
+
+Query  116       VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                 VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ
+Sbjct  16279951  VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  16280130
+
+Query  176       RLGLSEARVQV  186
+                 RLGLSEARVQV
+Sbjct  16280131  RLGLSEARVQV  16280163
+
+
+
+
+Range 2: 16276802 to 16277146
+
+Score:145 bits(365), Expect:7e-35, 
+Method:Compositional matrix adjust., 
+Identities:113/115(98%), Positives:115/115(100%), Gaps:0/115(0%)
+
+Query  1         MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRaagg  60
+                 MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGC+EPGRDDRSSPAVRAAGG
+Sbjct  16276802  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCIEPGRDDRSSPAVRAAGG  16276981
+
+Query  61        gggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+                 GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLT+
+Sbjct  16276982  GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTD  16277146
+
+
+
+
+Range 3: 16284499 to 16284654
+
+Score:75.9 bits(185), Expect:2e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235       DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                 DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  16284499  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  16284654
+
+
+
+
+Range 4: 16282968 to 16283063
+
+Score:67.0 bits(162), Expect:2e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/32(97%), Positives:31/32(96%), Gaps:0/32(0%)
+
+Query  205       GVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+                 GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  16282968  GVLIGAASQFEACRVAPYVNVGALRMPFQQAS  16283063
+
+
+
+
+Range 5: 16282580 to 16282642
+
+Score:49.3 bits(116), Expect:0.008, 
+Method:Compositional matrix adjust., 
+Identities:20/21(95%), Positives:21/21(100%), Gaps:0/21(0%)
+
+Query  186       VWFQNRRAKCRKQENQLHKGV  206
+                 VWFQNRRAKCRKQENQLHKG+
+Sbjct  16282580  VWFQNRRAKCRKQENQLHKGI  16282642
+
+
+
+
+>Onychomys torridus chromosome 6, mOncTor1.1
+Sequence ID: NC_050448.1 Length: 135684249
+Range 1: 44931613 to 44931957
+
+Score:147 bits(370), Expect:2e-35, 
+Method:Compositional matrix adjust., 
+Identities:114/115(99%), Positives:115/115(100%), Gaps:0/115(0%)
+
+Query  1         MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRaagg  60
+                 MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGC+EPGRDDRSSPAVRAAGG
+Sbjct  44931957  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCIEPGRDDRSSPAVRAAGG  44931778
+
+Query  61        gggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+                 GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE
+Sbjct  44931777  GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE  44931613
+
+
+
+
+Range 2: 44928552 to 44928764
+
+Score:143 bits(361), Expect:2e-34, 
+Method:Compositional matrix adjust., 
+Identities:70/71(99%), Positives:71/71(100%), Gaps:0/71(0%)
+
+Query  116       VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                 VSPELKDRK+DAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ
+Sbjct  44928764  VSPELKDRKEDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  44928585
+
+Query  176       RLGLSEARVQV  186
+                 RLGLSEARVQV
+Sbjct  44928584  RLGLSEARVQV  44928552
+
+
+
+
+Range 3: 44924070 to 44924225
+
+Score:74.7 bits(182), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235       DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                 DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  44924225  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  44924070
+
+
+
+
+Range 4: 44925761 to 44925865
+
+Score:68.6 bits(166), Expect:5e-09, 
+Method:Compositional matrix adjust., 
+Identities:32/35(91%), Positives:32/35(91%), Gaps:0/35(0%)
+
+Query  202       LHKGVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+                 L  GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  44925865  LFIGVLIGAASQFEACRVAPYVNVGALRMPFQQAS  44925761
+
+
+
+
+Range 5: 82030953 to 82031144
+
+Score:65.5 bits(158), Expect:5e-08, 
+Method:Compositional matrix adjust., 
+Identities:35/71(49%), Positives:48/71(67%), Gaps:7/71(9%)
+
+Query  116       VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                 +SP L D  + AK       +K K+RR+RT F+  QL ELE++F +THYPD + RE+L+ 
+Sbjct  82030953  LSPGLPDSMELAK-------SKSKKRRNRTTFSTFQLEELEKVFQKTHYPDVYAREQLAL  82031111
+
+Query  176       RLGLSEARVQV  186
+                 R  L+EARVQV
+Sbjct  82031112  RTDLTEARVQV  82031144
+
+
+
+
+Range 6: 46083295 to 46083456
+
+Score:57.0 bits(136), Expect:2e-05, 
+Method:Compositional matrix adjust., 
+Identities:29/54(54%), Positives:37/54(68%), Gaps:0/54(0%)
+
+Query  146       NFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEARVQVWFQNRRAKCRKQE  199
+                 +FTL Q+ E+E LF ET YP    REELS+ L + E +V++ F NRRAK RK E
+Sbjct  46083456  HFTLWQVEEMENLFKETQYPHVLAREELSRALNVPEIKVKMRFVNRRAKGRKNE  46083295
+
+
+
+
+Range 7: 104622821 to 104623036
+
+Score:56.2 bits(134), Expect:5e-05, 
+Method:Compositional matrix adjust., 
+Identities:32/73(44%), Positives:43/73(58%), Gaps:1/73(1%)
+
+Query  124        KDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEAR  183
+                  K++  G ED  + K +QRR RT+FT +QL ELE  F    YPD   REE++    L+EAR
+Sbjct  104622821  KNEDVGAEDPSKKK-RQRRQRTHFTSQQLQELEATFQRNRYPDMSTREEIAVWTNLTEAR  104622997
+
+Query  184        VQVWFQNRRAKCR  196
+                  V+V    +  K R
+Sbjct  104622998  VRVGTSTQSGKTR  104623036
+
+
+
+
+Range 8: 44926120 to 44926182
+
+Score:48.1 bits(113), Expect:0.018, 
+Method:Compositional matrix adjust., 
+Identities:20/21(95%), Positives:21/21(100%), Gaps:0/21(0%)
+
+Query  186       VWFQNRRAKCRKQENQLHKGV  206
+                 VWFQNRRAKCRKQENQLHKG+
+Sbjct  44926182  VWFQNRRAKCRKQENQLHKGM  44926120
+
+
+
+
+>Microtus ochrogaster isolate Prairie Vole_2 chromosome 1, MicOch1.0
+Sequence ID: NC_022009.1 Length: 126672627
+Range 1: 112915564 to 112915776
+
+Score:147 bits(370), Expect:2e-35, 
+Method:Compositional matrix adjust., 
+Identities:71/71(100%), Positives:71/71(100%), Gaps:0/71(0%)
+
+Query  116        VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                  VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ
+Sbjct  112915776  VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  112915597
+
+Query  176        RLGLSEARVQV  186
+                  RLGLSEARVQV
+Sbjct  112915596  RLGLSEARVQV  112915564
+
+
+
+
+Range 2: 112918542 to 112918886
+
+Score:145 bits(367), Expect:5e-35, 
+Method:Compositional matrix adjust., 
+Identities:113/115(98%), Positives:115/115(100%), Gaps:0/115(0%)
+
+Query  1          MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRaagg  60
+                  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGC+EPGRDDRSSPAVRAAGG
+Sbjct  112918886  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCIEPGRDDRSSPAVRAAGG  112918707
+
+Query  61         gggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+                  GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLT+
+Sbjct  112918706  GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTD  112918542
+
+
+
+
+Range 3: 112911065 to 112911220
+
+Score:75.9 bits(185), Expect:2e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235        DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  112911220  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  112911065
+
+
+
+
+Range 4: 112912702 to 112912806
+
+Score:67.8 bits(164), Expect:1e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/35(89%), Positives:31/35(88%), Gaps:0/35(0%)
+
+Query  202        LHKGVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+                     GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  112912806  FFIGVLIGAASQFEACRVAPYVNVGALRMPFQQAS  112912702
+
+
+
+
+Range 5: 57071885 to 57072058
+
+Score:49.7 bits(117), Expect:0.006, 
+Method:Compositional matrix adjust., 
+Identities:23/58(40%), Positives:35/58(60%), Gaps:0/58(0%)
+
+Query  141       RRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEARVQVWFQNRRAKCRKQ  198
+                 R+ R  F+  Q+ ELER F +  Y  A  RE L+  + L+  +V++WFQN R K ++Q
+Sbjct  57071885  RKRRVLFSQAQVYELERRFKQQKYLSAPEREHLASMIHLTPTQVKIWFQNHRYKMKRQ  57072058
+
+
+
+
+Range 6: 39820034 to 39820210
+
+Score:49.3 bits(116), Expect:0.008, 
+Method:Compositional matrix adjust., 
+Identities:27/59(46%), Positives:37/59(62%), Gaps:6/59(10%)
+
+Query  139       KQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEARVQV------WFQNR  191
+                 ++RR RT FT EQL  LE LF ET YPD   RE+L++++ L E +V+V      W+  R
+Sbjct  39820210  RKRRHRTIFTDEQLEALENLFQETKYPDVGTREQLARKVHLREEKVEVGKGPA*WWVRR  39820034
+
+
+
+
+Range 7: 22399142 to 22399270
+
+Score:49.3 bits(116), Expect:0.008, 
+Method:Compositional matrix adjust., 
+Identities:23/43(53%), Positives:29/43(67%), Gaps:0/43(0%)
+
+Query  144       RTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEARVQV  186
+                 RT FT  QL ELE+ F+E HYPD + RE L+ +  L E R+QV
+Sbjct  22399142  RTIFTSYQLEELEKAFNEAHYPDVYAREMLAMKTELPEDRIQV  22399270
+
+
+
+
+Range 8: 112913111 to 112913173
+
+Score:49.3 bits(116), Expect:0.009, 
+Method:Compositional matrix adjust., 
+Identities:20/21(95%), Positives:21/21(100%), Gaps:0/21(0%)
+
+Query  186        VWFQNRRAKCRKQENQLHKGV  206
+                  VWFQNRRAKCRKQENQLHKG+
+Sbjct  112913173  VWFQNRRAKCRKQENQLHKGI  112913111
+
+
+
+
+Range 9: 57014240 to 57014431
+
+Score:48.5 bits(114), Expect:0.014, 
+Method:Compositional matrix adjust., 
+Identities:26/64(41%), Positives:38/64(59%), Gaps:0/64(0%)
+
+Query  134       GQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEARVQVWFQNRRA  193
+                 G    K+R+ R  F+  Q  ELER F +  Y  A  RE+L+Q L L+  +V++WFQN R 
+Sbjct  57014240  GSDAEKRRKRRVLFSKAQTLELERRFRQQRYLSAPEREQLAQLLRLTPTQVKIWFQNHRY  57014419
+
+Query  194       KCRK  197
+                 K ++
+Sbjct  57014420  KLKR  57014431
+
+
+
+
+>Peromyscus leucopus breed LL Stock chromosome 6, UCI_PerLeu_2.1
+Sequence ID: NC_051068.1 Length: 133087326
+Range 1: 44920659 to 44921003
+
+Score:147 bits(370), Expect:2e-35, 
+Method:Compositional matrix adjust., 
+Identities:114/115(99%), Positives:115/115(100%), Gaps:0/115(0%)
+
+Query  1         MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRaagg  60
+                 MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGC+EPGRDDRSSPAVRAAGG
+Sbjct  44921003  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCLEPGRDDRSSPAVRAAGG  44920824
+
+Query  61        gggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+                 GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE
+Sbjct  44920823  GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE  44920659
+
+
+
+
+Range 2: 44917603 to 44917815
+
+Score:143 bits(361), Expect:2e-34, 
+Method:Compositional matrix adjust., 
+Identities:70/71(99%), Positives:71/71(100%), Gaps:0/71(0%)
+
+Query  116       VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                 VSPELKDRK+DAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ
+Sbjct  44917815  VSPELKDRKEDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  44917636
+
+Query  176       RLGLSEARVQV  186
+                 RLGLSEARVQV
+Sbjct  44917635  RLGLSEARVQV  44917603
+
+
+
+
+Range 3: 44913155 to 44913310
+
+Score:74.7 bits(182), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235       DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                 DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  44913310  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  44913155
+
+
+
+
+Range 4: 81989350 to 81989553
+
+Score:67.4 bits(163), Expect:1e-08, 
+Method:Compositional matrix adjust., 
+Identities:36/75(48%), Positives:50/75(66%), Gaps:7/75(9%)
+
+Query  112       RLTEVSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMRE  171
+                 R+  +SP L D  + AK       +K K+RR+RT F+  QL ELE++F +THYPD + RE
+Sbjct  81989350  RVVPLSPGLPDSMELAK-------SKSKKRRNRTTFSTFQLEELEKVFQKTHYPDVYARE  81989508
+
+Query  172       ELSQRLGLSEARVQV  186
+                 +L+ R  L+EARVQV
+Sbjct  81989509  QLALRTDLTEARVQV  81989553
+
+
+
+
+Range 5: 44914813 to 44914941
+
+Score:67.4 bits(163), Expect:1e-08, 
+Method:Compositional matrix adjust., 
+Identities:32/43(74%), Positives:32/43(74%), Gaps:0/43(0%)
+
+Query  194       KCRKQENQLHKGVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+                  C         GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  44914941  SCVNPPPFFFIGVLIGAASQFEACRVAPYVNVGALRMPFQQAS  44914813
+
+
+
+
+Range 6: 101887439 to 101887624
+
+Score:56.2 bits(134), Expect:4e-05, 
+Method:Compositional matrix adjust., 
+Identities:30/63(48%), Positives:40/63(63%), Gaps:1/63(1%)
+
+Query  124        KDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEAR  183
+                  K++  G ED  + K +QRR RT+FT +QL ELE  F    YPD   REE++    L+EAR
+Sbjct  101887439  KNEDVGAEDPSKKK-RQRRQRTHFTSQQLQELEATFQRNRYPDMSTREEIAVWTNLTEAR  101887615
+
+Query  184        VQV  186
+                  V+V
+Sbjct  101887616  VRV  101887624
+
+
+
+
+Range 7: 46048301 to 46048474
+
+Score:54.7 bits(130), Expect:1e-04, 
+Method:Compositional matrix adjust., 
+Identities:28/58(48%), Positives:40/58(68%), Gaps:0/58(0%)
+
+Query  142       RSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEARVQVWFQNRRAKCRKQE  199
+                 R+  +FTL Q+ E+E  F ET YPD F REEL++ L + E +V++ F N+RAK R+ E
+Sbjct  46048474  RTTFHFTLGQVEEMENPFRETQYPDVFSREELARALNMPEVKVKMGFVNQRAKDRENE  46048301
+
+
+
+
+Range 8: 44915178 to 44915240
+
+Score:48.1 bits(113), Expect:0.018, 
+Method:Compositional matrix adjust., 
+Identities:20/21(95%), Positives:21/21(100%), Gaps:0/21(0%)
+
+Query  186       VWFQNRRAKCRKQENQLHKGV  206
+                 VWFQNRRAKCRKQENQLHKG+
+Sbjct  44915240  VWFQNRRAKCRKQENQLHKGM  44915178
+
+
+
+
+>Apodemus sylvaticus chromosome 4, mApoSyl1.1
+Sequence ID: NC_067475.1 Length: 170262524
+Range 1: 101539051 to 101539395
+
+Score:146 bits(369), Expect:2e-35, 
+Method:Compositional matrix adjust., 
+Identities:115/115(100%), Positives:115/115(100%), Gaps:0/115(0%)
+
+Query  1          MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRaagg  60
+                  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRAAGG
+Sbjct  101539051  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRAAGG  101539230
+
+Query  61         gggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+                  GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE
+Sbjct  101539231  GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE  101539395
+
+
+
+
+Range 2: 101542212 to 101542430
+
+Score:144 bits(364), Expect:1e-34, 
+Method:Compositional matrix adjust., 
+Identities:70/73(96%), Positives:72/73(98%), Gaps:0/73(0%)
+
+Query  114        TEVSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREEL  173
+                  + VSPELKDRK+DAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREEL
+Sbjct  101542212  SSVSPELKDRKEDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREEL  101542391
+
+Query  174        SQRLGLSEARVQV  186
+                  SQRLGLSEARVQV
+Sbjct  101542392  SQRLGLSEARVQV  101542430
+
+
+
+
+Range 3: 101546671 to 101546826
+
+Score:74.7 bits(182), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235        DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  101546671  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  101546826
+
+
+
+
+Range 4: 101545104 to 101545199
+
+Score:67.8 bits(164), Expect:9e-09, 
+Method:Compositional matrix adjust., 
+Identities:31/32(97%), Positives:31/32(96%), Gaps:0/32(0%)
+
+Query  205        GVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+                  GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  101545104  GVLIGAASQFEACRVAPYVNVGALRMPFQQAS  101545199
+
+
+
+
+Range 5: 55864021 to 55864224
+
+Score:66.6 bits(161), Expect:2e-08, 
+Method:Compositional matrix adjust., 
+Identities:36/75(48%), Positives:50/75(66%), Gaps:9/75(12%)
+
+Query  116       VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                 +SP L D  + AK       +K K+RR+RT F+  QL ELE++F +THYPD + RE+L+ 
+Sbjct  55864224  LSPGLPDSMELAK-------SKSKKRRNRTTFSTFQLEELEKVFQKTHYPDVYAREQLAL  55864066
+
+Query  176       RLGLSEARVQV--WF  188
+                 R  L+EARVQV  W+
+Sbjct  55864065  RTDLTEARVQVRAWW  55864021
+
+
+
+
+Range 6: 33359682 to 33359867
+
+Score:53.5 bits(127), Expect:4e-04, 
+Method:Compositional matrix adjust., 
+Identities:30/63(48%), Positives:40/63(63%), Gaps:1/63(1%)
+
+Query  124       KDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEAR  183
+                 K++  G ED  + K +QRR RT+FT +QL ELE  F    YPD   REE++    L+EAR
+Sbjct  33359867  KNEDVGAEDPSKKK-RQRRQRTHFTSQQLQELEATFQRNRYPDMSTREEIAVWTNLTEAR  33359691
+
+Query  184       VQV  186
+                 V+V
+Sbjct  33359690  VRV  33359682
+
+
+
+
+Range 7: 101544739 to 101544801
+
+Score:49.3 bits(116), Expect:0.009, 
+Method:Compositional matrix adjust., 
+Identities:20/21(95%), Positives:21/21(100%), Gaps:0/21(0%)
+
+Query  186        VWFQNRRAKCRKQENQLHKGV  206
+                  VWFQNRRAKCRKQENQLHKG+
+Sbjct  101544739  VWFQNRRAKCRKQENQLHKGI  101544801
+
+
+
+
+>Rattus norvegicus strain BN/NHsdMcwi chromosome 2, mRatBN7.2
+Sequence ID: NC_051337.1 Length: 249053267
+Range 1: 151226643 to 151226987
+
+Score:146 bits(369), Expect:2e-35, 
+Method:Compositional matrix adjust., 
+Identities:115/115(100%), Positives:115/115(100%), Gaps:0/115(0%)
+
+Query  1          MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRaagg  60
+                  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRAAGG
+Sbjct  151226987  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRAAGG  151226808
+
+Query  61         gggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+                  GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE
+Sbjct  151226807  GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE  151226643
+
+
+
+
+Range 2: 151223595 to 151223813
+
+Score:145 bits(365), Expect:7e-35, 
+Method:Compositional matrix adjust., 
+Identities:70/73(96%), Positives:72/73(98%), Gaps:0/73(0%)
+
+Query  114        TEVSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREEL  173
+                  + VSPELKDRK+DAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREEL
+Sbjct  151223813  SSVSPELKDRKEDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREEL  151223634
+
+Query  174        SQRLGLSEARVQV  186
+                  SQRLGLSEARVQV
+Sbjct  151223633  SQRLGLSEARVQV  151223595
+
+
+
+
+Range 3: 151219087 to 151219242
+
+Score:74.7 bits(182), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235        DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  151219242  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  151219087
+
+
+
+
+Range 4: 26109870 to 26110028
+
+Score:70.9 bits(172), Expect:8e-10, 
+Method:Compositional matrix adjust., 
+Identities:34/53(64%), Positives:39/53(73%), Gaps:0/53(0%)
+
+Query  142       RSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEARVQVWFQNRRAK  194
+                 R RT FT  QLNELER F +THYPD FMREEL+ R+GL+E+RVQV     R K
+Sbjct  26109870  RHRTRFTPAQLNELERSFAKTHYPDIFMREELALRIGLTESRVQVHRARARGK  26110028
+
+
+
+
+Range 5: 151220882 to 151220977
+
+Score:67.4 bits(163), Expect:1e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/32(97%), Positives:31/32(96%), Gaps:0/32(0%)
+
+Query  205        GVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+                  GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  151220977  GVLIGAASQFEACRVAPYVNVGALRMPFQQAS  151220882
+
+
+
+
+Range 6: 195236648 to 195236848
+
+Score:65.9 bits(159), Expect:4e-08, 
+Method:Compositional matrix adjust., 
+Identities:36/74(49%), Positives:49/74(66%), Gaps:9/74(12%)
+
+Query  116        VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                  +SP L D  + AK       +K K+RR+RT F+  QL ELE++F +THYPD + RE+L+ 
+Sbjct  195236648  LSPGLPDSMELAK-------SKSKKRRNRTTFSTFQLEELEKVFQKTHYPDVYAREQLAL  195236806
+
+Query  176        RLGLSEARVQV--W  187
+                  R  L+EARVQV  W
+Sbjct  195236807  RTDLTEARVQVRAW  195236848
+
+
+
+
+Range 7: 217733371 to 217733586
+
+Score:53.9 bits(128), Expect:3e-04, 
+Method:Compositional matrix adjust., 
+Identities:32/73(44%), Positives:43/73(58%), Gaps:1/73(1%)
+
+Query  124        KDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEAR  183
+                  K++  G ED  + K +QRR RT+FT +QL ELE  F    YPD   REE++    L+EAR
+Sbjct  217733371  KNEDVGAEDPSKKK-RQRRQRTHFTSQQLQELEATFQRNRYPDMSTREEIAVWTNLTEAR  217733547
+
+Query  184        VQVWFQNRRAKCR  196
+                  V+V    +  K R
+Sbjct  217733548  VRVGASTQSGKTR  217733586
+
+
+
+
+Range 8: 151221272 to 151221334
+
+Score:49.3 bits(116), Expect:0.009, 
+Method:Compositional matrix adjust., 
+Identities:20/21(95%), Positives:21/21(100%), Gaps:0/21(0%)
+
+Query  186        VWFQNRRAKCRKQENQLHKGV  206
+                  VWFQNRRAKCRKQENQLHKG+
+Sbjct  151221334  VWFQNRRAKCRKQENQLHKGI  151221272
+
+
+
+
+Range 9: 48084105 to 48084281
+
+Score:48.1 bits(113), Expect:0.020, 
+Method:Compositional matrix adjust., 
+Identities:24/59(41%), Positives:34/59(57%), Gaps:0/59(0%)
+
+Query  139       KQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEARVQVWFQNRRAKCRK  197
+                 K  R RT    +QL+ L   +     PDA M+E+L +  GLS   ++VWFQN+R K +K
+Sbjct  48084281  KTTRVRTVLNEKQLHTLRTCYAANPRPDALMKEQLVEMTGLSPRVIRVWFQNKRCKDKK  48084105
+
+
+
+
+>Peromyscus californicus insignis strain IS unplaced genomic scaffold, ASM782708v3 Scaffold_9__1_contigs__length_137607984
+Sequence ID: NW_026294617.1 Length: 137607985
+Range 1: 45196019 to 45196363
+
+Score:146 bits(369), Expect:3e-35, 
+Method:Compositional matrix adjust., 
+Identities:114/115(99%), Positives:115/115(100%), Gaps:0/115(0%)
+
+Query  1         MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRaagg  60
+                 MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGC+EPGRDDRSSPAVRAAGG
+Sbjct  45196363  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCLEPGRDDRSSPAVRAAGG  45196184
+
+Query  61        gggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+                 GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE
+Sbjct  45196183  GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE  45196019
+
+
+
+
+Range 2: 45192991 to 45193203
+
+Score:143 bits(361), Expect:2e-34, 
+Method:Compositional matrix adjust., 
+Identities:70/71(99%), Positives:71/71(100%), Gaps:0/71(0%)
+
+Query  116       VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                 VSPELKDRK+DAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ
+Sbjct  45193203  VSPELKDRKEDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  45193024
+
+Query  176       RLGLSEARVQV  186
+                 RLGLSEARVQV
+Sbjct  45193023  RLGLSEARVQV  45192991
+
+
+
+
+Range 3: 45188558 to 45188713
+
+Score:74.7 bits(182), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235       DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                 DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  45188713  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  45188558
+
+
+
+
+Range 4: 45190202 to 45190330
+
+Score:67.8 bits(164), Expect:1e-08, 
+Method:Compositional matrix adjust., 
+Identities:32/43(74%), Positives:32/43(74%), Gaps:0/43(0%)
+
+Query  194       KCRKQENQLHKGVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+                  C         GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  45190330  SCVSSPPFFFIGVLIGAASQFEACRVAPYVNVGALRMPFQQAS  45190202
+
+
+
+
+Range 5: 85696334 to 85696546
+
+Score:67.4 bits(163), Expect:1e-08, 
+Method:Compositional matrix adjust., 
+Identities:37/78(47%), Positives:51/78(65%), Gaps:7/78(8%)
+
+Query  109       GSPRLTEVSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAF  168
+                  S R+  +SP L D  + AK       +K K+RR+RT F+  QL ELE++F +THYPD +
+Sbjct  85696334  ASLRVVPLSPGLPDSMELAK-------SKSKKRRNRTTFSTFQLEELEKVFQKTHYPDVY  85696492
+
+Query  169       MREELSQRLGLSEARVQV  186
+                  RE+L+ R  L+EARVQV
+Sbjct  85696493  AREQLALRTDLTEARVQV  85696546
+
+
+
+
+Range 6: 46345000 to 46345173
+
+Score:65.5 bits(158), Expect:5e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/58(53%), Positives:41/58(70%), Gaps:0/58(0%)
+
+Query  142       RSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEARVQVWFQNRRAKCRKQE  199
+                 R+  +FTL Q+ E+E LF ET YPD F REEL++ L + E +V++WF N RAK RK E
+Sbjct  46345173  RTTFHFTLWQVEEMENLFRETQYPDVFAREELARALNVPEVKVKLWFVNWRAKDRKNE  46345000
+
+
+
+
+Range 7: 106422532 to 106422810
+
+Score:56.6 bits(135), Expect:4e-05, 
+Method:Compositional matrix adjust., 
+Identities:39/106(37%), Positives:50/106(47%), Gaps:13/106(12%)
+
+Query  124        KDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEAR  183
+                  K++  G ED  + K +QRR RT+FT +QL ELE  F    YPD   REE++    L+EAR
+Sbjct  106422532  KNEDVGAEDPSKKK-RQRRQRTHFTSQQLQELEATFQRNRYPDMSTREEIAVWTNLTEAR  106422708
+
+Query  184        VQVWFQNRRAKCRKQENQLHKGVLIGAASQFEACRVAPYVNVGALR  229
+                  V+V    +  K R            G    F  CR    V V   R
+Sbjct  106422709  VRVGTSTQSGKTR------------GEGLSFRPCRAGVAVEVVGAR  106422810
+
+
+
+
+Range 8: 45190569 to 45190631
+
+Score:48.1 bits(113), Expect:0.018, 
+Method:Compositional matrix adjust., 
+Identities:20/21(95%), Positives:21/21(100%), Gaps:0/21(0%)
+
+Query  186       VWFQNRRAKCRKQENQLHKGV  206
+                 VWFQNRRAKCRKQENQLHKG+
+Sbjct  45190631  VWFQNRRAKCRKQENQLHKGM  45190569
+
+
+
+
+>Mus pahari chromosome 4, PAHARI_EIJ_v1.1
+Sequence ID: NC_034593.1 Length: 146485248
+Range 1: 59200099 to 59200443
+
+Score:146 bits(368), Expect:3e-35, 
+Method:Compositional matrix adjust., 
+Identities:114/115(99%), Positives:115/115(100%), Gaps:0/115(0%)
+
+Query  1         MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRaagg  60
+                 MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCV+PGRDDRSSPAVRAAGG
+Sbjct  59200443  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVDPGRDDRSSPAVRAAGG  59200264
+
+Query  61        gggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+                 GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE
+Sbjct  59200263  GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE  59200099
+
+
+
+
+Range 2: 59197153 to 59197371
+
+Score:144 bits(363), Expect:1e-34, 
+Method:Compositional matrix adjust., 
+Identities:70/73(96%), Positives:72/73(98%), Gaps:0/73(0%)
+
+Query  114       TEVSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREEL  173
+                 + VSPELKDRK+DAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREEL
+Sbjct  59197371  SSVSPELKDRKEDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREEL  59197192
+
+Query  174       SQRLGLSEARVQV  186
+                 SQRLGLSEARVQV
+Sbjct  59197191  SQRLGLSEARVQV  59197153
+
+
+
+
+Range 3: 59192679 to 59192834
+
+Score:74.7 bits(182), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235       DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                 DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  59192834  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  59192679
+
+
+
+
+Range 4: 97254094 to 97254456
+
+Score:70.5 bits(171), Expect:1e-09, 
+Method:Compositional matrix adjust., 
+Identities:45/128(35%), Positives:69/128(53%), Gaps:11/128(8%)
+
+Query  116       VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                 +SP L D  + AK       TK K+RR+RT F+  QL ELE++F +THYPD + RE+L+ 
+Sbjct  97254094  LSPGLPDSMELAK-------TKSKKRRNRTTFSTFQLEELEKVFHKTHYPDVYAREQLAL  97254252
+
+Query  176       RLGLSEARVQV--WF--QNRRAKCRKQENQLHKGVLIGAASQFEACRVAPYVNVGALRMP  231
+                 R  L+EARVQV  W+   ++ A   +  +Q+ K + +   S  + C     +  G L + 
+Sbjct  97254253  RTDLTEARVQVRAWWAPDSQTATDTQAVDQIAKELGVVDTSVPQGCLAQALLTPGLLELS  97254432
+
+Query  232       FQQDSHCN  239
+                  +    C 
+Sbjct  97254433  LRAQLCCG  97254456
+
+
+
+
+Range 5: 59194370 to 59194465
+
+Score:67.8 bits(164), Expect:9e-09, 
+Method:Compositional matrix adjust., 
+Identities:31/32(97%), Positives:31/32(96%), Gaps:0/32(0%)
+
+Query  205       GVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+                 GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  59194465  GVLIGAASQFEACRVAPYVNVGALRMPFQQAS  59194370
+
+
+
+
+Range 6: 117227018 to 117227203
+
+Score:55.1 bits(131), Expect:1e-04, 
+Method:Compositional matrix adjust., 
+Identities:30/63(48%), Positives:40/63(63%), Gaps:1/63(1%)
+
+Query  124        KDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEAR  183
+                  K++  G ED  + K +QRR RT+FT +QL ELE  F    YPD   REE++    L+EAR
+Sbjct  117227018  KNEDVGAEDPSKKK-RQRRQRTHFTSQQLQELEATFQRNRYPDMSTREEIAVWTNLTEAR  117227194
+
+Query  184        VQV  186
+                  V+V
+Sbjct  117227195  VRV  117227203
+
+
+
+
+Range 7: 59194773 to 59194835
+
+Score:49.7 bits(117), Expect:0.006, 
+Method:Compositional matrix adjust., 
+Identities:20/21(95%), Positives:21/21(100%), Gaps:0/21(0%)
+
+Query  186       VWFQNRRAKCRKQENQLHKGV  206
+                 VWFQNRRAKCRKQENQLHKG+
+Sbjct  59194835  VWFQNRRAKCRKQENQLHKGI  59194773
+
+
+
+
+>Phodopus roborovskii unplaced genomic scaffold, PHOROB
+Sequence ID: NW_026126540.1 Length: 36901321
+Range 1: 2458077 to 2458421
+
+Score:145 bits(367), Expect:4e-35, 
+Method:Compositional matrix adjust., 
+Identities:114/115(99%), Positives:115/115(100%), Gaps:0/115(0%)
+
+Query  1        MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRaagg  60
+                MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGC+EPGRDDRSSPAVRAAGG
+Sbjct  2458421  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCLEPGRDDRSSPAVRAAGG  2458242
+
+Query  61       gggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+                GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE
+Sbjct  2458241  GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE  2458077
+
+
+
+
+Range 2: 2455007 to 2455219
+
+Score:145 bits(365), Expect:7e-35, 
+Method:Compositional matrix adjust., 
+Identities:70/71(99%), Positives:71/71(100%), Gaps:0/71(0%)
+
+Query  116      VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                VSPELKDRK+DAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ
+Sbjct  2455219  VSPELKDRKEDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  2455040
+
+Query  176      RLGLSEARVQV  186
+                RLGLSEARVQV
+Sbjct  2455039  RLGLSEARVQV  2455007
+
+
+
+
+Range 3: 2450586 to 2450741
+
+Score:75.9 bits(185), Expect:2e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235      DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  2450741  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  2450586
+
+
+
+
+Range 4: 2452214 to 2452318
+
+Score:67.4 bits(163), Expect:1e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/35(89%), Positives:32/35(91%), Gaps:0/35(0%)
+
+Query  202      LHKGVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+                +  GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  2452318  IFIGVLIGAASQFEACRVAPYVNVGALRMPFQQAS  2452214
+
+
+
+
+Range 5: 2452594 to 2452662
+
+Score:52.0 bits(123), Expect:0.001, 
+Method:Compositional matrix adjust., 
+Identities:21/23(91%), Positives:23/23(100%), Gaps:0/23(0%)
+
+Query  186      VWFQNRRAKCRKQENQLHKGVLI  208
+                VWFQNRRAKCRKQENQLHKG+L+
+Sbjct  2452662  VWFQNRRAKCRKQENQLHKGILL  2452594
+
+
+
+
+>Arvicola amphibius chromosome 11, mArvAmp1.2
+Sequence ID: NC_052057.2 Length: 123987292
+Range 1: 14720936 to 14721280
+
+Score:145 bits(367), Expect:4e-35, 
+Method:Compositional matrix adjust., 
+Identities:113/115(98%), Positives:115/115(100%), Gaps:0/115(0%)
+
+Query  1         MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRaagg  60
+                 MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGC+EPGRDDRSSPAVRAAGG
+Sbjct  14720936  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCIEPGRDDRSSPAVRAAGG  14721115
+
+Query  61        gggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+                 GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLT+
+Sbjct  14721116  GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTD  14721280
+
+
+
+
+Range 2: 14724085 to 14724297
+
+Score:144 bits(363), Expect:1e-34, 
+Method:Compositional matrix adjust., 
+Identities:71/71(100%), Positives:71/71(100%), Gaps:0/71(0%)
+
+Query  116       VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                 VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ
+Sbjct  14724085  VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  14724264
+
+Query  176       RLGLSEARVQV  186
+                 RLGLSEARVQV
+Sbjct  14724265  RLGLSEARVQV  14724297
+
+
+
+
+Range 3: 14728581 to 14728736
+
+Score:75.9 bits(185), Expect:2e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235       DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                 DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  14728581  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  14728736
+
+
+
+
+Range 4: 14727018 to 14727113
+
+Score:67.0 bits(162), Expect:2e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/32(97%), Positives:31/32(96%), Gaps:0/32(0%)
+
+Query  205       GVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+                 GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  14727018  GVLIGAASQFEACRVAPYVNVGALRMPFQQAS  14727113
+
+
+
+
+Range 5: 14726636 to 14726698
+
+Score:49.3 bits(116), Expect:0.009, 
+Method:Compositional matrix adjust., 
+Identities:20/21(95%), Positives:21/21(100%), Gaps:0/21(0%)
+
+Query  186       VWFQNRRAKCRKQENQLHKGV  206
+                 VWFQNRRAKCRKQENQLHKG+
+Sbjct  14726636  VWFQNRRAKCRKQENQLHKGI  14726698
+
+
+
+
+>Microtus fortis isolate MF-2015 unplaced genomic scaffold, M_Fortis_MF-2015_v1.1 scaffold_53
+Sequence ID: NW_026067939.1 Length: 11043363
+Range 1: 4455997 to 4456341
+
+Score:145 bits(366), Expect:6e-35, 
+Method:Compositional matrix adjust., 
+Identities:113/115(98%), Positives:115/115(100%), Gaps:0/115(0%)
+
+Query  1        MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRaagg  60
+                MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGC+EPGRDDRSSPAVRAAGG
+Sbjct  4456341  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCIEPGRDDRSSPAVRAAGG  4456162
+
+Query  61       gggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+                GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLT+
+Sbjct  4456161  GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTD  4455997
+
+
+
+
+Range 2: 4452995 to 4453207
+
+Score:144 bits(363), Expect:1e-34, 
+Method:Compositional matrix adjust., 
+Identities:71/71(100%), Positives:71/71(100%), Gaps:0/71(0%)
+
+Query  116      VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ
+Sbjct  4453207  VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  4453028
+
+Query  176      RLGLSEARVQV  186
+                RLGLSEARVQV
+Sbjct  4453027  RLGLSEARVQV  4452995
+
+
+
+
+Range 3: 4448412 to 4448567
+
+Score:75.9 bits(185), Expect:2e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235      DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  4448567  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  4448412
+
+
+
+
+Range 4: 4450108 to 4450203
+
+Score:66.6 bits(161), Expect:2e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/32(97%), Positives:31/32(96%), Gaps:0/32(0%)
+
+Query  205      GVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+                GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  4450203  GVLIGAASQFEACRVAPYVNVGALRMPFQQAS  4450108
+
+
+
+
+Range 5: 4450526 to 4450588
+
+Score:49.3 bits(116), Expect:0.008, 
+Method:Compositional matrix adjust., 
+Identities:20/21(95%), Positives:21/21(100%), Gaps:0/21(0%)
+
+Query  186      VWFQNRRAKCRKQENQLHKGV  206
+                VWFQNRRAKCRKQENQLHKG+
+Sbjct  4450588  VWFQNRRAKCRKQENQLHKGI  4450526
+
+
+
+
+>Microtus oregoni isolate MIOR12 unplaced genomic scaffold, Mior012 000010F_ref0000083
+Sequence ID: NW_024543069.1 Length: 55341015
+Range 1: 14007028 to 14007372
+
+Score:145 bits(366), Expect:6e-35, 
+Method:Compositional matrix adjust., 
+Identities:113/115(98%), Positives:115/115(100%), Gaps:0/115(0%)
+
+Query  1         MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRaagg  60
+                 MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGC+EPGRDDRSSPAVRAAGG
+Sbjct  14007028  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCIEPGRDDRSSPAVRAAGG  14007207
+
+Query  61        gggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+                 GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLT+
+Sbjct  14007208  GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTD  14007372
+
+
+
+
+Range 2: 14010145 to 14010357
+
+Score:144 bits(363), Expect:1e-34, 
+Method:Compositional matrix adjust., 
+Identities:71/71(100%), Positives:71/71(100%), Gaps:0/71(0%)
+
+Query  116       VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                 VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ
+Sbjct  14010145  VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  14010324
+
+Query  176       RLGLSEARVQV  186
+                 RLGLSEARVQV
+Sbjct  14010325  RLGLSEARVQV  14010357
+
+
+
+
+Range 3: 14014654 to 14014809
+
+Score:75.9 bits(185), Expect:2e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235       DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                 DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  14014654  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  14014809
+
+
+
+
+Range 4: 14013098 to 14013193
+
+Score:67.0 bits(162), Expect:2e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/32(97%), Positives:31/32(96%), Gaps:0/32(0%)
+
+Query  205       GVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+                 GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  14013098  GVLIGAASQFEACRVAPYVNVGALRMPFQQAS  14013193
+
+
+
+
+Range 5: 14012716 to 14012778
+
+Score:48.1 bits(113), Expect:0.018, 
+Method:Compositional matrix adjust., 
+Identities:20/21(95%), Positives:21/21(100%), Gaps:0/21(0%)
+
+Query  186       VWFQNRRAKCRKQENQLHKGV  206
+                 VWFQNRRAKCRKQENQLHKG+
+Sbjct  14012716  VWFQNRRAKCRKQENQLHKGM  14012778
+
+
+
+
+>Mesocricetus auratus isolate SY011 unplaced genomic scaffold, BCM_Maur_2.0 Super-Scaffold_100011
+Sequence ID: NW_024429195.1 Length: 85184847
+Range 1: 608722 to 608943
+
+Score:144 bits(364), Expect:9e-35, 
+Method:Compositional matrix adjust., 
+Identities:71/74(96%), Positives:73/74(98%), Gaps:0/74(0%)
+
+Query  113     LTEVSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREE  172
+               L+ VSPELKDRK+DAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREE
+Sbjct  608722  LSPVSPELKDRKEDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREE  608901
+
+Query  173     LSQRLGLSEARVQV  186
+               LSQRLGLSEARVQV
+Sbjct  608902  LSQRLGLSEARVQV  608943
+
+
+
+
+Range 2: 605566 to 605910
+
+Score:140 bits(352), Expect:3e-33, 
+Method:Compositional matrix adjust., 
+Identities:110/115(96%), Positives:112/115(97%), Gaps:0/115(0%)
+
+Query  1       MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRaagg  60
+               MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRG KEPGC+E GRDDRSSPAVRAAGG
+Sbjct  605566  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGTKEPGCIEAGRDDRSSPAVRAAGG  605745
+
+Query  61      gggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+               GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGA ERSR+PGSPRLTE
+Sbjct  605746  GGGAGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAVERSRDPGSPRLTE  605910
+
+
+
+
+Range 3: 613288 to 613443
+
+Score:74.7 bits(182), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235     DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+               DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  613288  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  613443
+
+
+
+
+Range 4: 611669 to 611764
+
+Score:67.4 bits(163), Expect:1e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/32(97%), Positives:31/32(96%), Gaps:0/32(0%)
+
+Query  205     GVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+               GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  611669  GVLIGAASQFEACRVAPYVNVGALRMPFQQAS  611764
+
+
+
+
+Range 5: 65675892 to 65676056
+
+Score:63.2 bits(152), Expect:3e-07, 
+Method:Compositional matrix adjust., 
+Identities:30/55(55%), Positives:40/55(72%), Gaps:0/55(0%)
+
+Query  132       DEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEARVQV  186
+                 D   +  K+RR RT FT  QL ELE++F +THYPD ++RE+L+ R  L+EARVQV
+Sbjct  65675892  DSNVSSSKKRRHRTTFTSLQLEELEKVFQKTHYPDVYVREQLALRTELTEARVQV  65676056
+
+
+
+
+Range 6: 611259 to 611402
+
+Score:50.1 bits(118), Expect:0.005, 
+Method:Compositional matrix adjust., 
+Identities:28/56(50%), Positives:32/56(57%), Gaps:8/56(14%)
+
+Query  172     ELSQRLGLSEARVQVWFQNRRAKCRKQENQLHKGVLIGAASQFEACRVAPYVNVGA  227
+               E S  + L    + VWFQNRRAKCRKQENQLHKG+   A            VNVG+
+Sbjct  611259  ESSSFMCLPPPNL*VWFQNRRAKCRKQENQLHKGMSYNAFYYL--------VNVGS  611402
+
+
+
+
+>Cavia porcellus strain inbred line 2N unplaced genomic scaffold, Cavpor3.0 supercont2_8
+Sequence ID: NT_176411.1 Length: 60673567
+Range 1: 55237867 to 55238202
+
+Score:144 bits(364), Expect:1e-34, 
+Method:Compositional matrix adjust., 
+Identities:79/112(71%), Positives:89/112(79%), Gaps:5/112(4%)
+
+Query  116       VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                 VSPELKDRK+DAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ
+Sbjct  55238202  VSPELKDRKEDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  55238023
+
+Query  176       RLGLSEARVQV-WFQNRRAKCRKQE---NQLHKGVLI-GAASQFEACRVAPY  222
+                 RLGLSEARVQV  ++  +   R+Q     Q  +G L+ G +++ E  R   Y
+Sbjct  55238022  RLGLSEARVQVPDYEGIKGGPREQRPRYTQSRRGSLVRGPSAE*EGARYRSY  55237867
+
+
+
+
+Range 2: 55241138 to 55241476
+
+Score:135 bits(339), Expect:2e-31, 
+Method:Compositional matrix adjust., 
+Identities:109/113(96%), Positives:109/113(96%), Gaps:1/113(0%)
+
+Query  4         LTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEP-GCVEPGRDDRSSPAVRaagggg  62
+                 LTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEP GC EPGRDDRSSPAVRAAGGGG
+Sbjct  55241476  LTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPSGCAEPGRDDRSSPAVRAAGGGG  55241297
+
+Query  63        gagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+                 G GGGGGGGGGGGGGAGGGGAGGGAGGGRSP RELDMGAAERSREPGSPRLTE
+Sbjct  55241296  GGGGGGGGGGGGGGGAGGGGAGGGAGGGRSPGRELDMGAAERSREPGSPRLTE  55241138
+
+
+
+
+Range 3: 55233574 to 55233729
+
+Score:74.7 bits(182), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235       DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                 DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  55233729  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  55233574
+
+
+
+
+Range 4: 55235221 to 55235325
+
+Score:67.8 bits(164), Expect:1e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/35(89%), Positives:31/35(88%), Gaps:0/35(0%)
+
+Query  202       LHKGVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+                    GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  55235325  FFTGVLIGAASQFEACRVAPYVNVGALRMPFQQVS  55235221
+
+
+
+
+Range 5: 55235562 to 55235672
+
+Score:52.4 bits(124), Expect:7e-04, 
+Method:Compositional matrix adjust., 
+Identities:24/37(65%), Positives:29/37(78%), Gaps:3/37(8%)
+
+Query  186       VWFQNRRAKCRKQENQLHKGVLI---GAASQFEACRV  219
+                 VWFQNRRAKCRKQENQLHKG+L+     A+  E C++
+Sbjct  55235672  VWFQNRRAKCRKQENQLHKGMLLIQETFATISEKCKI  55235562
+
+
+
+
+Range 6: 6082704 to 6083006
+
+Score:49.7 bits(117), Expect:0.005, 
+Method:Compositional matrix adjust., 
+Identities:34/106(32%), Positives:49/106(46%), Gaps:5/106(4%)
+
+Query  92       SPVRELDMGAAERSREPGSPRLTEVSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQ  151
+                S V  L  GA  +     SP      P   +  D+ K     G    K+R+ R  F+  Q
+Sbjct  6082704  SAVHGLAAGAPPQDSSTKSPE-----PSADESPDNDKETSGSGGDAGKKRKRRVLFSKAQ  6082868
+
+Query  152      LNELERLFDETHYPDAFMREELSQRLGLSEARVQVWFQNRRAKCRK  197
+                  ELER F +  Y  A  RE L+  + L+  +V++WFQN R K ++
+Sbjct  6082869  TYELERRFRQQRYLSAPEREHLASLIRLTPTQVKIWFQNHRYKMKR  6083006
+
+
+
+
+>Marmota flaviventris isolate SJ_83 unplaced genomic scaffold, GSC_YBM_2.0 scaffold11
+Sequence ID: NW_023144646.1 Length: 27814770
+Range 1: 8123654 to 8123995
+
+Score:144 bits(364), Expect:1e-34, 
+Method:Compositional matrix adjust., 
+Identities:80/114(70%), Positives:87/114(76%), Gaps:10/114(8%)
+
+Query  116      VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                VSPELKDRK+DAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ
+Sbjct  8123995  VSPELKDRKEDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  8123816
+
+Query  176      RLGLSEARVQ-----VWFQNR--RAKCRKQENQL---HKGVLIGAASQFEACRV  219
+                RLGLSEARVQ     VW   R  RA C   + Q+   H+ ++ G   +    RV
+Sbjct  8123815  RLGLSEARVQVLDCEVWAATREPRAICLGWDRQVGDTHECLI*GEKGRNVCTRV  8123654
+
+
+
+
+Range 2: 8126835 to 8127179
+
+Score:127 bits(319), Expect:9e-29, 
+Method:Compositional matrix adjust., 
+Identities:108/116(93%), Positives:109/116(93%), Gaps:2/116(1%)
+
+Query  1        MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKE-PGCVEPGRDDRSSPAVRaag  59
+                MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKE  G  EPGR+DRSSPAVR A 
+Sbjct  8127179  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKELAGGGEPGREDRSSPAVR-AA  8127003
+
+Query  60       ggggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+                GGGG GGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE
+Sbjct  8127002  GGGGGGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE  8126835
+
+
+
+
+Range 3: 8119360 to 8119515
+
+Score:74.7 bits(182), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235      DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  8119515  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  8119360
+
+
+
+
+Range 4: 8120978 to 8121082
+
+Score:67.0 bits(162), Expect:2e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/35(89%), Positives:32/35(91%), Gaps:0/35(0%)
+
+Query  202      LHKGVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+                +  GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  8121082  VFTGVLIGAASQFEACRVAPYVNVGALRMPFQQAS  8120978
+
+
+
+
+Range 5: 8121346 to 8121414
+
+Score:49.7 bits(117), Expect:0.007, 
+Method:Compositional matrix adjust., 
+Identities:20/23(87%), Positives:22/23(95%), Gaps:0/23(0%)
+
+Query  186      VWFQNRRAKCRKQENQLHKGVLI  208
+                VWFQNRRAKCRKQENQLHKG+ +
+Sbjct  8121414  VWFQNRRAKCRKQENQLHKGMFL  8121346
+
+
+
+
+>Marmota marmota marmota unplaced genomic scaffold, marMar
+Sequence ID: NW_026000240.1 Length: 36831673
+Range 1: 14462564 to 14462905
+
+Score:144 bits(364), Expect:1e-34, 
+Method:Compositional matrix adjust., 
+Identities:80/114(70%), Positives:87/114(76%), Gaps:10/114(8%)
+
+Query  116       VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                 VSPELKDRK+DAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ
+Sbjct  14462905  VSPELKDRKEDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  14462726
+
+Query  176       RLGLSEARVQ-----VWFQNR--RAKCRKQENQL---HKGVLIGAASQFEACRV  219
+                 RLGLSEARVQ     VW   R  RA C   + Q+   H+ ++ G   +    RV
+Sbjct  14462725  RLGLSEARVQVLDCEVWAATREPRAICLGWDRQVGDTHECLI*GEKGRNVCTRV  14462564
+
+
+
+
+Range 2: 14459903 to 14460007
+
+Score:67.0 bits(162), Expect:2e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/35(89%), Positives:32/35(91%), Gaps:0/35(0%)
+
+Query  202       LHKGVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+                 +  GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  14460007  VFTGVLIGAASQFEACRVAPYVNVGALRMPFQQAS  14459903
+
+
+
+
+Range 3: 14460271 to 14460339
+
+Score:49.7 bits(117), Expect:0.007, 
+Method:Compositional matrix adjust., 
+Identities:20/23(87%), Positives:22/23(95%), Gaps:0/23(0%)
+
+Query  186       VWFQNRRAKCRKQENQLHKGVLI  208
+                 VWFQNRRAKCRKQENQLHKG+ +
+Sbjct  14460339  VWFQNRRAKCRKQENQLHKGMFL  14460271
+
+
+
+
+>Perognathus longimembris pacificus isolate PPM17 chromosome 5, ASM2315922v1
+Sequence ID: NC_063165.1 Length: 88062095
+Range 1: 81647013 to 81647243
+
+Score:144 bits(363), Expect:1e-34, 
+Method:Compositional matrix adjust., 
+Identities:72/79(91%), Positives:75/79(94%), Gaps:2/79(2%)
+
+Query  108       PGSPRLTEVSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDA  167
+                 P +P  + VSP+LKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDA
+Sbjct  81647013  PAAP--SPVSPDLKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDA  81647186
+
+Query  168       FMREELSQRLGLSEARVQV  186
+                 FMREELSQRLGLSEARVQV
+Sbjct  81647187  FMREELSQRLGLSEARVQV  81647243
+
+
+
+
+Range 2: 81643710 to 81644048
+
+Score:134 bits(336), Expect:5e-31, 
+Method:Compositional matrix adjust., 
+Identities:98/116(84%), Positives:101/116(87%), Gaps:4/116(3%)
+
+Query  1         MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEP-GCVEPGRDDRSSPAVRaag  59
+                 MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGA+EP GC EPGRDDRSSPA+R   
+Sbjct  81643710  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAREPGGCAEPGRDDRSSPALR---  81643880
+
+Query  60        ggggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+                   GG  GG GG GGGGGG G GG GGG GGGRSPVR+LDMGAAERSREPGSPRLTE
+Sbjct  81643881  APGGGVGGVGGVGGGGGGGGAGGGGGGGGGGRSPVRDLDMGAAERSREPGSPRLTE  81644048
+
+
+
+
+Range 3: 81651560 to 81651715
+
+Score:76.6 bits(187), Expect:1e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235       DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                 DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  81651560  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  81651715
+
+
+
+
+Range 4: 81649890 to 81649994
+
+Score:67.8 bits(164), Expect:1e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/35(89%), Positives:32/35(91%), Gaps:0/35(0%)
+
+Query  202       LHKGVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+                 +  GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  81649890  VFTGVLIGAASQFEACRVAPYVNVGALRMPFQQAS  81649994
+
+
+
+
+Range 5: 81649585 to 81649653
+
+Score:51.6 bits(122), Expect:0.002, 
+Method:Compositional matrix adjust., 
+Identities:21/23(91%), Positives:23/23(100%), Gaps:0/23(0%)
+
+Query  186       VWFQNRRAKCRKQENQLHKGVLI  208
+                 VWFQNRRAKCRKQENQLHKG+L+
+Sbjct  81649585  VWFQNRRAKCRKQENQLHKGMLL  81649653
+
+
+
+
+>Acomys russatus chromosome 15, mAcoRus1.1
+Sequence ID: NC_067151.1 Length: 67302882
+Range 1: 42213336 to 42213680
+
+Score:144 bits(362), Expect:2e-34, 
+Method:Compositional matrix adjust., 
+Identities:112/115(97%), Positives:113/115(98%), Gaps:0/115(0%)
+
+Query  1         MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRaagg  60
+                 MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAK+PGCVEPGRDDRSSPAVRAAGG
+Sbjct  42213680  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKDPGCVEPGRDDRSSPAVRAAGG  42213501
+
+Query  61        gggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+                 GGGAGGGGGGGGGGGGGAGGGGAG GAGGGRSPVRELDMGA ERSREPGSPRLTE
+Sbjct  42213500  GGGAGGGGGGGGGGGGGAGGGGAGVGAGGGRSPVRELDMGAVERSREPGSPRLTE  42213336
+
+
+
+
+Range 2: 42210242 to 42210454
+
+Score:142 bits(358), Expect:6e-34, 
+Method:Compositional matrix adjust., 
+Identities:70/71(99%), Positives:71/71(100%), Gaps:0/71(0%)
+
+Query  116       VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                 VSPELKDRK+DAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ
+Sbjct  42210454  VSPELKDRKEDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  42210275
+
+Query  176       RLGLSEARVQV  186
+                 RLGLSEARVQV
+Sbjct  42210274  RLGLSEARVQV  42210242
+
+
+
+
+Range 3: 42205719 to 42205874
+
+Score:74.7 bits(182), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235       DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                 DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  42205874  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  42205719
+
+
+
+
+Range 4: 42207407 to 42207511
+
+Score:67.8 bits(164), Expect:1e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/35(89%), Positives:32/35(91%), Gaps:0/35(0%)
+
+Query  202       LHKGVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+                 +  GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  42207511  VFIGVLIGAASQFEACRVAPYVNVGALRMPFQQAS  42207407
+
+
+
+
+Range 5: 42207821 to 42207883
+
+Score:49.3 bits(116), Expect:0.009, 
+Method:Compositional matrix adjust., 
+Identities:20/21(95%), Positives:21/21(100%), Gaps:0/21(0%)
+
+Query  186       VWFQNRRAKCRKQENQLHKGV  206
+                 VWFQNRRAKCRKQENQLHKG+
+Sbjct  42207883  VWFQNRRAKCRKQENQLHKGI  42207821
+
+
+
+
+>Octodon degus isolate 3935 unplaced genomic scaffold, OctDeg1.0 scaffold00115
+Sequence ID: NW_004524691.1 Length: 10204928
+Range 1: 4555515 to 4555727
+
+Score:144 bits(362), Expect:2e-34, 
+Method:Compositional matrix adjust., 
+Identities:70/71(99%), Positives:71/71(100%), Gaps:0/71(0%)
+
+Query  116      VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                VSPELKDRK+DAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ
+Sbjct  4555727  VSPELKDRKEDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  4555548
+
+Query  176      RLGLSEARVQV  186
+                RLGLSEARVQV
+Sbjct  4555547  RLGLSEARVQV  4555515
+
+
+
+
+Range 2: 4558675 to 4559022
+
+Score:142 bits(357), Expect:1e-33, 
+Method:Compositional matrix adjust., 
+Identities:112/116(97%), Positives:112/116(96%), Gaps:1/116(0%)
+
+Query  1        MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEP-GCVEPGRDDRSSPAVRaag  59
+                MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEP GC EPGRDDRSSPAVRAAG
+Sbjct  4559022  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGGCAEPGRDDRSSPAVRAAG  4558843
+
+Query  60       ggggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+                GGGG GGGGGGGGGGGGGAGGGGAG GAGGGRSPVRELDMGAAERSREPGSPRLTE
+Sbjct  4558842  GGGGGGGGGGGGGGGGGGAGGGGAGAGAGGGRSPVRELDMGAAERSREPGSPRLTE  4558675
+
+
+
+
+Range 3: 4551125 to 4551280
+
+Score:74.7 bits(182), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235      DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  4551280  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  4551125
+
+
+
+
+Range 4: 4552745 to 4552864
+
+Score:68.2 bits(165), Expect:6e-09, 
+Method:Compositional matrix adjust., 
+Identities:34/45(76%), Positives:36/45(80%), Gaps:5/45(11%)
+
+Query  202      LHKGVLIGAASQFEACRVAPYVNVGALRMPFQQDSHCNVTPLSFQ  246
+                   GVLIGAASQFEACRVAPYVNVGALRMPFQQ     V+ +SFQ
+Sbjct  4552864  FFAGVLIGAASQFEACRVAPYVNVGALRMPFQQ-----VSIVSFQ  4552745
+
+
+
+
+Range 5: 4553141 to 4553203
+
+Score:48.9 bits(115), Expect:0.010, 
+Method:Compositional matrix adjust., 
+Identities:20/21(95%), Positives:21/21(100%), Gaps:0/21(0%)
+
+Query  187      WFQNRRAKCRKQENQLHKGVL  207
+                WFQNRRAKCRKQENQLHKG+L
+Sbjct  4553203  WFQNRRAKCRKQENQLHKGML  4553141
+
+
+
+
+>Jaculus jaculus isolate mJacJac1 chromosome 11, mJacJac1.mat.Y.cur
+Sequence ID: NC_059112.1 Length: 113411426
+Range 1: 66592684 to 66592896
+
+Score:143 bits(361), Expect:2e-34, 
+Method:Compositional matrix adjust., 
+Identities:70/71(99%), Positives:71/71(100%), Gaps:0/71(0%)
+
+Query  116       VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                 VSPELKDRK+DAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ
+Sbjct  66592896  VSPELKDRKEDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  66592717
+
+Query  176       RLGLSEARVQV  186
+                 RLGLSEARVQV
+Sbjct  66592716  RLGLSEARVQV  66592684
+
+
+
+
+Range 2: 66595791 to 66596096
+
+Score:110 bits(276), Expect:3e-23, 
+Method:Compositional matrix adjust., 
+Identities:95/109(87%), Positives:97/109(88%), Gaps:7/109(6%)
+
+Query  7         FVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSPAVRaagggggagg  66
+                 FVSKSFDQKVKEKKEAITYREVLESGPLRGAKEP   E GRD+RSSPAVR      G GG
+Sbjct  66596096  FVSKSFDQKVKEKKEAITYREVLESGPLRGAKEP---EAGRDERSSPAVR----AAGGGG  66595938
+
+Query  67        gggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+                 GGGGGGGGGGGAGGGGAGGGAGGGRSPV ELDMGAAERSREPGSPRLT+
+Sbjct  66595937  GGGGGGGGGGGAGGGGAGGGAGGGRSPVGELDMGAAERSREPGSPRLTD  66595791
+
+
+
+
+Range 3: 66588229 to 66588384
+
+Score:74.7 bits(182), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235       DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                 DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  66588384  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  66588229
+
+
+
+
+Range 4: 23150408 to 23150590
+
+Score:68.6 bits(166), Expect:5e-09, 
+Method:Compositional matrix adjust., 
+Identities:36/61(59%), Positives:42/61(68%), Gaps:2/61(3%)
+
+Query  128       KGMEDEG--QTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEARVQ  185
+                 K   D G    K KQRR RT FT  QL ELER+F ETHYPD + REEL+ ++ L+EARVQ
+Sbjct  23150408  KLFTDHGGLNEKRKQRRIRTTFTSAQLKELERVFAETHYPDIYTREELALKIDLTEARVQ  23150587
+
+Query  186       V  186
+                 V
+Sbjct  23150588  V  23150590
+
+
+
+
+Range 5: 66589865 to 66589990
+
+Score:68.6 bits(166), Expect:6e-09, 
+Method:Compositional matrix adjust., 
+Identities:32/42(76%), Positives:32/42(76%), Gaps:0/42(0%)
+
+Query  195       CRKQENQLHKGVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+                 C         GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  66589990  CLVSLYLCFAGVLIGAASQFEACRVAPYVNVGALRMPFQQAS  66589865
+
+
+
+
+Range 6: 56247600 to 56247782
+
+Score:62.0 bits(149), Expect:6e-07, 
+Method:Compositional matrix adjust., 
+Identities:31/61(51%), Positives:37/61(60%), Gaps:0/61(0%)
+
+Query  139       KQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEARVQVWFQNRRAKCRKQ  198
+                 K RR+RT FT EQL  LE  F  T Y     R  L+  L L+E +V+VWFQNRR K +KQ
+Sbjct  56247782  KPRRARTAFTYEQLVALENKFKATRYLSVCERLNLALSLSLTETQVKVWFQNRRTKWKKQ  56247603
+
+Query  199       E  199
+                  
+Sbjct  56247602  N  56247600
+
+
+
+
+Range 7: 14929334 to 14929507
+
+Score:55.8 bits(133), Expect:6e-05, 
+Method:Compositional matrix adjust., 
+Identities:28/58(48%), Positives:36/58(62%), Gaps:0/58(0%)
+
+Query  141       RRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEARVQVWFQNRRAKCRKQ  198
+                 +R RT FT  QL ELER F    Y     R E++  L LSE +V++WFQNRR K +K+
+Sbjct  14929507  KRVRTAFTSTQLLELEREFSSNMYLSRLRRIEIATYLNLSEKQVKIWFQNRRVKHKKE  14929334
+
+
+
+
+Range 8: 53651519 to 53651839
+
+Score:54.3 bits(129), Expect:2e-04, 
+Method:Compositional matrix adjust., 
+Identities:37/112(33%), Positives:60/112(53%), Gaps:8/112(7%)
+
+Query  91        RSPVRELDMGAAERSREPGSPRLTEVSPELKDRKDDAKGMEDEGQT---KIKQRRSRTNF  147
+                 RSP  E D   +E +R PG       S +       A  +++E +    K +++RSR  F
+Sbjct  53651519  RSPRVEDDGVGSEGARVPGF-----CSGDGSGNSGRAASVDEEAEPVAPKPRKKRSRAAF  53651683
+
+Query  148       TLEQLNELERLFDETHYPDAFMREELSQRLGLSEARVQVWFQNRRAKCRKQE  199
+                 +  Q+ ELER F+   Y     R +L+  L L+E +V++WFQNRR K ++++
+Sbjct  53651684  SHAQVFELERRFNHQRYLSGPERADLAASLKLTETQVKIWFQNRRYKTKRRQ  53651839
+
+
+
+
+Range 9: 66590312 to 66590386
+
+Score:52.0 bits(123), Expect:0.001, 
+Method:Compositional matrix adjust., 
+Identities:21/25(84%), Positives:24/25(96%), Gaps:0/25(0%)
+
+Query  184       VQVWFQNRRAKCRKQENQLHKGVLI  208
+                 +QVWFQNRRAKCRKQENQLHKG+ +
+Sbjct  66590386  LQVWFQNRRAKCRKQENQLHKGMFL  66590312
+
+
+
+
+Range 10: 59725189 to 59725404
+
+Score:50.8 bits(120), Expect:0.002, 
+Method:Compositional matrix adjust., 
+Identities:27/83(33%), Positives:47/83(56%), Gaps:11/83(13%)
+
+Query  139       KQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEARVQVWFQNRRAKCRKQ  198
+                 +++++RT F+  Q+ +LE  FD   Y  +  R  L+  L L+E +V++WFQNRR K ++Q
+Sbjct  59725189  RKKKTRTVFSRSQVFQLESTFDLKRYLSSAERAGLAASLQLTETQVKIWFQNRRNKWKRQ  59725368
+
+Query  199       ENQLHKGVLIGAASQFEACRVAP  221
+                             A++ EA  ++P
+Sbjct  59725369  -----------LAAELEAASLSP  59725404
+
+
+
+
+>Peromyscus maniculatus bairdii isolate BW chromosome 6, HU_Pman_2.1.3
+Sequence ID: NC_056013.1 Length: 134808455
+Range 1: 45810326 to 45810538
+
+Score:143 bits(361), Expect:2e-34, 
+Method:Compositional matrix adjust., 
+Identities:70/71(99%), Positives:71/71(100%), Gaps:0/71(0%)
+
+Query  116       VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                 VSPELKDRK+DAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ
+Sbjct  45810538  VSPELKDRKEDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  45810359
+
+Query  176       RLGLSEARVQV  186
+                 RLGLSEARVQV
+Sbjct  45810358  RLGLSEARVQV  45810326
+
+
+
+
+Range 2: 45813573 to 45813731
+
+Score:108 bits(269), Expect:4e-22, 
+Method:Compositional matrix adjust., 
+Identities:52/53(98%), Positives:53/53(100%), Gaps:0/53(0%)
+
+Query  1         MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCVEPGRDDRSSP  53
+                 MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGC+EPGRDDRSSP
+Sbjct  45813731  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGCLEPGRDDRSSP  45813573
+
+
+
+
+Range 3: 45805868 to 45806023
+
+Score:74.7 bits(182), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235       DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                 DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  45806023  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  45805868
+
+
+
+
+Range 4: 83543367 to 83543570
+
+Score:67.4 bits(163), Expect:1e-08, 
+Method:Compositional matrix adjust., 
+Identities:36/75(48%), Positives:50/75(66%), Gaps:7/75(9%)
+
+Query  112       RLTEVSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMRE  171
+                 R+  +SP L D  + AK       +K K+RR+RT F+  QL ELE++F +THYPD + RE
+Sbjct  83543367  RVVPLSPGLPDSMELAK-------SKSKKRRNRTTFSTFQLEELEKVFQKTHYPDVYARE  83543525
+
+Query  172       ELSQRLGLSEARVQV  186
+                 +L+ R  L+EARVQV
+Sbjct  83543526  QLALRTDLTEARVQV  83543570
+
+
+
+
+Range 5: 45807535 to 45807660
+
+Score:67.4 bits(163), Expect:1e-08, 
+Method:Compositional matrix adjust., 
+Identities:32/42(76%), Positives:32/42(76%), Gaps:0/42(0%)
+
+Query  195       CRKQENQLHKGVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+                 C         GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  45807660  C*PPPPFFFIGVLIGAASQFEACRVAPYVNVGALRMPFQQAS  45807535
+
+
+
+
+Range 6: 46964736 to 46964921
+
+Score:58.5 bits(140), Expect:8e-06, 
+Method:Compositional matrix adjust., 
+Identities:30/62(48%), Positives:43/62(69%), Gaps:0/62(0%)
+
+Query  142       RSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEARVQVWFQNRRAKCRKQENQ  201
+                 R+  +FTL Q+ E+E  F ET YPD F REEL++ L + E +V++ F NRRAK RK E++
+Sbjct  46964921  RTTFHFTLGQVEEMENPFRETQYPDVFSREELARALNVPEVKVKMGFVNRRAKDRKNESE  46964742
+
+Query  202       LH  203
+                  +
+Sbjct  46964741  QY  46964736
+
+
+
+
+Range 7: 104269860 to 104270045
+
+Score:55.5 bits(132), Expect:1e-04, 
+Method:Compositional matrix adjust., 
+Identities:30/63(48%), Positives:40/63(63%), Gaps:1/63(1%)
+
+Query  124        KDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEAR  183
+                  K++  G ED  + K +QRR RT+FT +QL ELE  F    YPD   REE++    L+EAR
+Sbjct  104269860  KNEDVGAEDPSKKK-RQRRQRTHFTSQQLQELEATFQRNRYPDMSTREEIAVWTNLTEAR  104270036
+
+Query  184        VQV  186
+                  V+V
+Sbjct  104270037  VRV  104270045
+
+
+
+
+Range 8: 45813358 to 45813432
+
+Score:52.0 bits(123), Expect:0.001, 
+Method:Compositional matrix adjust., 
+Identities:25/25(100%), Positives:25/25(100%), Gaps:0/25(0%)
+
+Query  91        RSPVRELDMGAAERSREPGSPRLTE  115
+                 RSPVRELDMGAAERSREPGSPRLTE
+Sbjct  45813432  RSPVRELDMGAAERSREPGSPRLTE  45813358
+
+
+
+
+Range 9: 45807903 to 45807965
+
+Score:48.1 bits(113), Expect:0.018, 
+Method:Compositional matrix adjust., 
+Identities:20/21(95%), Positives:21/21(100%), Gaps:0/21(0%)
+
+Query  186       VWFQNRRAKCRKQENQLHKGV  206
+                 VWFQNRRAKCRKQENQLHKG+
+Sbjct  45807965  VWFQNRRAKCRKQENQLHKGM  45807903
+
+
+
+
+>Marmota monax isolate L192 unplaced genomic scaffold, Marmota_monax_Labrador192_V1.0 WCK01_AAK20210901_F8-fsc00022
+Sequence ID: NW_025724924.1 Length: 29296028
+Range 1: 6233687 to 6233902
+
+Score:143 bits(360), Expect:3e-34, 
+Method:Compositional matrix adjust., 
+Identities:70/72(97%), Positives:71/72(98%), Gaps:0/72(0%)
+
+Query  116      VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                VSPELKDRK+DAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ
+Sbjct  6233902  VSPELKDRKEDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  6233723
+
+Query  176      RLGLSEARVQVW  187
+                RLGLSEARVQV 
+Sbjct  6233722  RLGLSEARVQVL  6233687
+
+
+
+
+Range 2: 6236752 to 6237096
+
+Score:127 bits(320), Expect:6e-29, 
+Method:Compositional matrix adjust., 
+Identities:108/116(93%), Positives:109/116(93%), Gaps:2/116(1%)
+
+Query  1        MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKE-PGCVEPGRDDRSSPAVRaag  59
+                MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKE  G  EPGR+DRSSPAVR A 
+Sbjct  6237096  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKELAGGCEPGREDRSSPAVR-AA  6236920
+
+Query  60       ggggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+                GGGG GGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE
+Sbjct  6236919  GGGGGGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE  6236752
+
+
+
+
+Range 3: 6229281 to 6229436
+
+Score:74.7 bits(182), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235      DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  6229436  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  6229281
+
+
+
+
+Range 4: 6230903 to 6231040
+
+Score:67.4 bits(163), Expect:1e-08, 
+Method:Compositional matrix adjust., 
+Identities:34/46(74%), Positives:36/46(78%), Gaps:3/46(6%)
+
+Query  194      KCRKQE---NQLHKGVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+                KCR      + +  GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  6231040  KCRPHIVFCSPVFTGVLIGAASQFEACRVAPYVNVGALRMPFQQAS  6230903
+
+
+
+
+Range 5: 6231271 to 6231378
+
+Score:50.4 bits(119), Expect:0.003, 
+Method:Compositional matrix adjust., 
+Identities:22/36(61%), Positives:27/36(75%), Gaps:0/36(0%)
+
+Query  173      LSQRLGLSEARVQVWFQNRRAKCRKQENQLHKGVLI  208
+                ++ R  L    + VWFQNRRAKCRKQENQLHKG+ +
+Sbjct  6231378  ITSRCFLPPPNL*VWFQNRRAKCRKQENQLHKGMFL  6231271
+
+
+
+
+>Ictidomys tridecemlineatus isolate GS200 unplaced genomic scaffold, HiC_Itri_2 Itri7
+Sequence ID: NW_024405602.1 Length: 155519715
+Range 1: 84918400 to 84918612
+
+Score:143 bits(360), Expect:4e-34, 
+Method:Compositional matrix adjust., 
+Identities:70/71(99%), Positives:71/71(100%), Gaps:0/71(0%)
+
+Query  116       VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                 VSPELKDRK+DAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ
+Sbjct  84918400  VSPELKDRKEDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  84918579
+
+Query  176       RLGLSEARVQV  186
+                 RLGLSEARVQV
+Sbjct  84918580  RLGLSEARVQV  84918612
+
+
+
+
+Range 2: 84915219 to 84915563
+
+Score:124 bits(310), Expect:1e-27, 
+Method:Compositional matrix adjust., 
+Identities:107/116(92%), Positives:108/116(93%), Gaps:2/116(1%)
+
+Query  1         MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPGC-VEPGRDDRSSPAVRaag  59
+                 MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKE     EPGR+DRSSPAVR A 
+Sbjct  84915219  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKELAVGGEPGREDRSSPAVR-AA  84915395
+
+Query  60        ggggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+                 GGGG GGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE
+Sbjct  84915396  GGGGGGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE  84915563
+
+
+
+
+Range 3: 84922864 to 84923019
+
+Score:74.7 bits(182), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235       DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                 DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  84922864  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  84923019
+
+
+
+
+Range 4: 84921297 to 84921401
+
+Score:67.0 bits(162), Expect:2e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/35(89%), Positives:32/35(91%), Gaps:0/35(0%)
+
+Query  202       LHKGVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+                 +  GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  84921297  VFTGVLIGAASQFEACRVAPYVNVGALRMPFQQAS  84921401
+
+
+
+
+Range 5: 24219911 to 24220084
+
+Score:53.9 bits(128), Expect:2e-04, 
+Method:Compositional matrix adjust., 
+Identities:27/58(47%), Positives:37/58(63%), Gaps:0/58(0%)
+
+Query  144       RTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEARVQVWFQNRRAKCRKQENQ  201
+                 RTNFT  QL ELE+ F    Y     R E++  L L+E +V++WFQNRR K +K+E +
+Sbjct  24220084  RTNFTTRQLTELEKEFHFNKYLSRARRVEIAATLELNETQVKIWFQNRRMKQKKRERE  24219911
+
+
+
+
+Range 6: 24279901 to 24280122
+
+Score:52.4 bits(124), Expect:8e-04, 
+Method:Compositional matrix adjust., 
+Identities:30/75(40%), Positives:44/75(58%), Gaps:1/75(1%)
+
+Query  141       RRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEARVQVWFQNRRAKCRKQEN  200
+                 +R+RT +T  Q  ELE+ F    Y     R E++  L LSE ++++WFQNRR K  K++N
+Sbjct  24280122  KRARTAYTRYQTLELEKEFHFNRYLTRRRRIEIAHALCLSERQIKIWFQNRRMK-WKKDN  24279946
+
+Query  201       QLHKGVLIGAASQFE  215
+                 +L    L  A S F+
+Sbjct  24279945  KLKSMSLATAGSAFQ  24279901
+
+
+
+
+Range 7: 24232107 to 24232319
+
+Score:51.2 bits(121), Expect:0.002, 
+Method:Compositional matrix adjust., 
+Identities:31/73(42%), Positives:41/73(56%), Gaps:2/73(2%)
+
+Query  126       DAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEARVQ  185
+                 D  G+ D G      RR RT +T  QL ELE+ F    Y     R E++  L L+E +V+
+Sbjct  24232319  DGPGLPDAGGGGA--RRLRTAYTNTQLLELEKEFHFNKYLCRPRRVEIAALLDLTERQVK  24232146
+
+Query  186       VWFQNRRAKCRKQ  198
+                 VWFQNRR K ++Q
+Sbjct  24232145  VWFQNRRMKHKRQ  24232107
+
+
+
+
+Range 8: 24264819 to 24264989
+
+Score:50.4 bits(119), Expect:0.003, 
+Method:Compositional matrix adjust., 
+Identities:25/57(44%), Positives:37/57(64%), Gaps:0/57(0%)
+
+Query  141       RRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEARVQVWFQNRRAKCRK  197
+                 +RSRT +T +Q+ ELE+ F    Y     R E++  L LSE ++++WFQNRR K +K
+Sbjct  24264989  KRSRTAYTRQQVLELEKEFHYNRYLTRRRRVEIAHALCLSERQIKIWFQNRRMKWKK  24264819
+
+
+
+
+Range 9: 24239296 to 24239472
+
+Score:50.4 bits(119), Expect:0.004, 
+Method:Compositional matrix adjust., 
+Identities:25/59(42%), Positives:37/59(62%), Gaps:0/59(0%)
+
+Query  141       RRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEARVQVWFQNRRAKCRKQE  199
+                 +R+RT +T  QL ELE+ F    Y     R E++  L LSE ++++WFQNRR K +K +
+Sbjct  24239472  KRARTAYTSAQLVELEKEFHFNRYLCRPRRVEMANLLNLSERQIKIWFQNRRMKYKKDQ  24239296
+
+
+
+
+Range 10: 84920965 to 84921033
+
+Score:49.7 bits(117), Expect:0.007, 
+Method:Compositional matrix adjust., 
+Identities:20/23(87%), Positives:22/23(95%), Gaps:0/23(0%)
+
+Query  186       VWFQNRRAKCRKQENQLHKGVLI  208
+                 VWFQNRRAKCRKQENQLHKG+ +
+Sbjct  84920965  VWFQNRRAKCRKQENQLHKGMFL  84921033
+
+
+
+
+>Urocitellus parryii isolate AGS 11-09-20 ecotype Arctic tundra unplaced genomic scaffold, ASM342692v1 scaffold_111
+Sequence ID: NW_020539999.1 Length: 5100295
+Range 1: 4115371 to 4115583
+
+Score:143 bits(360), Expect:4e-34, 
+Method:Compositional matrix adjust., 
+Identities:70/71(99%), Positives:71/71(100%), Gaps:0/71(0%)
+
+Query  116      VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                VSPELKDRK+DAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ
+Sbjct  4115583  VSPELKDRKEDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  4115404
+
+Query  176      RLGLSEARVQV  186
+                RLGLSEARVQV
+Sbjct  4115403  RLGLSEARVQV  4115371
+
+
+
+
+Range 2: 4118426 to 4118770
+
+Score:127 bits(319), Expect:8e-29, 
+Method:Compositional matrix adjust., 
+Identities:108/116(93%), Positives:109/116(93%), Gaps:2/116(1%)
+
+Query  1        MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKE-PGCVEPGRDDRSSPAVRaag  59
+                MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKE  G  EPGR+DRSSPAVR A 
+Sbjct  4118770  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKELAGGGEPGREDRSSPAVR-AA  4118594
+
+Query  60       ggggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+                GGGG GGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE
+Sbjct  4118593  GGGGGGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE  4118426
+
+
+
+
+Range 3: 4110940 to 4111095
+
+Score:74.7 bits(182), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235      DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  4111095  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  4110940
+
+
+
+
+Range 4: 4112558 to 4112662
+
+Score:67.0 bits(162), Expect:2e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/35(89%), Positives:32/35(91%), Gaps:0/35(0%)
+
+Query  202      LHKGVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+                +  GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  4112662  VFTGVLIGAASQFEACRVAPYVNVGALRMPFQQAS  4112558
+
+
+
+
+Range 5: 4112926 to 4112994
+
+Score:49.7 bits(117), Expect:0.007, 
+Method:Compositional matrix adjust., 
+Identities:20/23(87%), Positives:22/23(95%), Gaps:0/23(0%)
+
+Query  186      VWFQNRRAKCRKQENQLHKGVLI  208
+                VWFQNRRAKCRKQENQLHKG+ +
+Sbjct  4112994  VWFQNRRAKCRKQENQLHKGMFL  4112926
+
+
+
+
+>Dipodomys ordii isolate 6190 unplaced genomic scaffold, Dord_2.0 Scaffold30
+Sequence ID: NW_012267246.1 Length: 18288503
+Range 1: 3195274 to 3195492
+
+Score:142 bits(359), Expect:4e-34, 
+Method:Compositional matrix adjust., 
+Identities:69/73(95%), Positives:72/73(98%), Gaps:0/73(0%)
+
+Query  114      TEVSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREEL  173
+                + VSP+LK+RKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREEL
+Sbjct  3195492  SPVSPDLKERKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREEL  3195313
+
+Query  174      SQRLGLSEARVQV  186
+                SQRLGLSEARVQV
+Sbjct  3195312  SQRLGLSEARVQV  3195274
+
+
+
+
+Range 2: 3190892 to 3191047
+
+Score:75.9 bits(185), Expect:2e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235      DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  3191047  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  3190892
+
+
+
+
+Range 3: 3192576 to 3192719
+
+Score:70.1 bits(170), Expect:2e-09, 
+Method:Compositional matrix adjust., 
+Identities:34/48(71%), Positives:36/48(75%), Gaps:0/48(0%)
+
+Query  202      LHKGVLIGAASQFEACRVAPYVNVGALRMPFQQDSHCNVTPLSFQVQA  249
+                   GVLIGAASQFEACRVAPYVNVGALRMPFQQ S+  V  L   V+ 
+Sbjct  3192719  FFTGVLIGAASQFEACRVAPYVNVGALRMPFQQASYSLVPKLFLNVKG  3192576
+
+
+
+
+Range 4: 3192968 to 3193036
+
+Score:52.0 bits(123), Expect:0.001, 
+Method:Compositional matrix adjust., 
+Identities:21/23(91%), Positives:23/23(100%), Gaps:0/23(0%)
+
+Query  186      VWFQNRRAKCRKQENQLHKGVLI  208
+                VWFQNRRAKCRKQENQLHKG+L+
+Sbjct  3193036  VWFQNRRAKCRKQENQLHKGMLL  3192968
+
+
+
+
+>Chinchilla lanigera isolate Chin_1 unplaced genomic scaffold, ChiLan1.0 scaffold00047
+Sequence ID: NW_004955448.1 Length: 18889295
+Range 1: 8944189 to 8944401
+
+Score:142 bits(359), Expect:4e-34, 
+Method:Compositional matrix adjust., 
+Identities:70/71(99%), Positives:71/71(100%), Gaps:0/71(0%)
+
+Query  116      VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                VSPELKDRK+DAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ
+Sbjct  8944401  VSPELKDRKEDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  8944222
+
+Query  176      RLGLSEARVQV  186
+                RLGLSEARVQV
+Sbjct  8944221  RLGLSEARVQV  8944189
+
+
+
+
+Range 2: 8947358 to 8947705
+
+Score:142 bits(358), Expect:6e-34, 
+Method:Compositional matrix adjust., 
+Identities:113/116(97%), Positives:113/116(97%), Gaps:1/116(0%)
+
+Query  1        MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEP-GCVEPGRDDRSSPAVRaag  59
+                MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEP GC EPGRDDRSSPAVRAAG
+Sbjct  8947705  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPSGCAEPGRDDRSSPAVRAAG  8947526
+
+Query  60       ggggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+                GGGG GGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE
+Sbjct  8947525  GGGGGGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE  8947358
+
+
+
+
+Range 3: 8939745 to 8939900
+
+Score:74.7 bits(182), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235      DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  8939900  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  8939745
+
+
+
+
+Range 4: 8941405 to 8941524
+
+Score:68.6 bits(166), Expect:6e-09, 
+Method:Compositional matrix adjust., 
+Identities:34/45(76%), Positives:36/45(80%), Gaps:5/45(11%)
+
+Query  202      LHKGVLIGAASQFEACRVAPYVNVGALRMPFQQDSHCNVTPLSFQ  246
+                   GVLIGAASQFEACRVAPYVNVGALRMPFQQ     V+ +SFQ
+Sbjct  8941524  FFTGVLIGAASQFEACRVAPYVNVGALRMPFQQ-----VSIVSFQ  8941405
+
+
+
+
+Range 5: 8941806 to 8941904
+
+Score:51.2 bits(121), Expect:0.002, 
+Method:Compositional matrix adjust., 
+Identities:24/33(73%), Positives:28/33(84%), Gaps:1/33(3%)
+
+Query  177      LGLSEARVQ-VWFQNRRAKCRKQENQLHKGVLI  208
+                LG S + +  VWFQNRRAKCRKQENQLHKG+L+
+Sbjct  8941904  LGFSLSFIL*VWFQNRRAKCRKQENQLHKGMLL  8941806
+
+
+
+
+>Dipodomys spectabilis isolate Male_0828 unplaced genomic scaffold, ASM1905484v1 ptg000095l
+Sequence ID: NW_024870772.1 Length: 50155229
+Range 1: 48655701 to 48655931
+
+Score:142 bits(358), Expect:6e-34, 
+Method:Compositional matrix adjust., 
+Identities:71/79(90%), Positives:75/79(94%), Gaps:2/79(2%)
+
+Query  108       PGSPRLTEVSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDA  167
+                 P +P  + VSP+LK+RKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDA
+Sbjct  48655931  PAAP--SPVSPDLKERKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDA  48655758
+
+Query  168       FMREELSQRLGLSEARVQV  186
+                 FMREELSQRLGLSEARVQV
+Sbjct  48655757  FMREELSQRLGLSEARVQV  48655701
+
+
+
+
+Range 2: 48658705 to 48659028
+
+Score:135 bits(340), Expect:2e-31, 
+Method:Compositional matrix adjust., 
+Identities:94/116(81%), Positives:97/116(83%), Gaps:9/116(7%)
+
+Query  1         MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEP-GCVEPGRDDRSSPAVRaag  59
+                 MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGA+EP GC EPGRDDRSSPA+R   
+Sbjct  48659028  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAREPGGCAEPGRDDRSSPALR---  48658858
+
+Query  60        ggggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+                        G GGG GGG G GG G GGG GGGRSPVR+LDMGAAERSREPGSPRLTE
+Sbjct  48658857  -----APGVGGGVGGGVGGGGAGGGGGGGGGRSPVRDLDMGAAERSREPGSPRLTE  48658705
+
+
+
+
+Range 3: 48651298 to 48651453
+
+Score:75.9 bits(185), Expect:2e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235       DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                 DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  48651453  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  48651298
+
+
+
+
+Range 4: 48652989 to 48653132
+
+Score:70.1 bits(170), Expect:1e-09, 
+Method:Compositional matrix adjust., 
+Identities:34/48(71%), Positives:36/48(75%), Gaps:0/48(0%)
+
+Query  202       LHKGVLIGAASQFEACRVAPYVNVGALRMPFQQDSHCNVTPLSFQVQA  249
+                    GVLIGAASQFEACRVAPYVNVGALRMPFQQ S+  V  L   V+ 
+Sbjct  48653132  FFTGVLIGAASQFEACRVAPYVNVGALRMPFQQASYSLVPKLFLNVKG  48652989
+
+
+
+
+Range 5: 31148460 to 31148633
+
+Score:53.5 bits(127), Expect:3e-04, 
+Method:Compositional matrix adjust., 
+Identities:28/58(48%), Positives:36/58(62%), Gaps:0/58(0%)
+
+Query  141       RRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEARVQVWFQNRRAKCRKQ  198
+                 +R RT FT  QL ELER F    Y     R E++  L LSE +V++WFQNRR K +K+
+Sbjct  31148460  KRMRTAFTSTQLLELEREFASNMYLSRLRRIEIATYLNLSEKQVKIWFQNRRVKHKKE  31148633
+
+
+
+
+Range 6: 48653380 to 48653448
+
+Score:52.4 bits(124), Expect:0.001, 
+Method:Compositional matrix adjust., 
+Identities:21/23(91%), Positives:23/23(100%), Gaps:0/23(0%)
+
+Query  186       VWFQNRRAKCRKQENQLHKGVLI  208
+                 VWFQNRRAKCRKQENQLHKG+L+
+Sbjct  48653448  VWFQNRRAKCRKQENQLHKGMLL  48653380
+
+
+
+
+Range 7: 31256009 to 31256194
+
+Score:50.8 bits(120), Expect:0.002, 
+Method:Compositional matrix adjust., 
+Identities:26/62(42%), Positives:39/62(62%), Gaps:0/62(0%)
+
+Query  140       QRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEARVQVWFQNRRAKCRKQE  199
+                  +R+RT +T  QL ELE+ F    Y     R EL+  L L+E  +++WFQNRR K +K+E
+Sbjct  31256009  NKRTRTAYTRSQLLELEKEFLFNKYISRPRRVELAVMLNLTERHIKIWFQNRRMKWKKEE  31256188
+
+Query  200       NQ  201
+                 ++
+Sbjct  31256189  DK  31256194
+
+
+
+
+>Cricetulus griseus unplaced genomic scaffold, CriGri_1.0 scaffold2521
+Sequence ID: NW_003614587.1 Length: 635165
+Range 1: 591884 to 592096
+
+Score:142 bits(357), Expect:8e-34, 
+Method:Compositional matrix adjust., 
+Identities:70/71(99%), Positives:71/71(100%), Gaps:0/71(0%)
+
+Query  116     VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+               VSPELKDRK+DAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ
+Sbjct  592096  VSPELKDRKEDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  591917
+
+Query  176     RLGLSEARVQV  186
+               RLGLSEARVQV
+Sbjct  591916  RLGLSEARVQV  591884
+
+
+
+
+Range 2: 589091 to 589186
+
+Score:67.8 bits(164), Expect:1e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/32(97%), Positives:31/32(96%), Gaps:0/32(0%)
+
+Query  205     GVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+               GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  589186  GVLIGAASQFEACRVAPYVNVGALRMPFQQAS  589091
+
+
+
+
+Range 3: 587455 to 587589
+
+Score:58.5 bits(140), Expect:1e-05, 
+Method:Compositional matrix adjust., 
+Identities:45/45(100%), Positives:45/45(100%), Gaps:0/45(0%)
+
+Query  235     DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPA  279
+               DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPA
+Sbjct  587589  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPA  587455
+
+
+
+
+Range 4: 589485 to 589559
+
+Score:49.3 bits(116), Expect:0.007, 
+Method:Compositional matrix adjust., 
+Identities:21/25(84%), Positives:22/25(88%), Gaps:0/25(0%)
+
+Query  186     VWFQNRRAKCRKQENQLHKGVLIGA  210
+               VWFQNRRAKCRKQENQLHKG+   A
+Sbjct  589559  VWFQNRRAKCRKQENQLHKGMSYNA  589485
+
+
+
+
+>Fukomys damarensis isolate Sample0158 unplaced genomic scaffold, DMR_v1.0_HiC HiC_scaffold_37
+Sequence ID: NW_022900949.1 Length: 72031070
+Range 1: 61175996 to 61176208
+
+Score:141 bits(356), Expect:1e-33, 
+Method:Compositional matrix adjust., 
+Identities:70/71(99%), Positives:71/71(100%), Gaps:0/71(0%)
+
+Query  116       VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                 VSPELKDRK+DAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ
+Sbjct  61175996  VSPELKDRKEDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  61176175
+
+Query  176       RLGLSEARVQV  186
+                 RLGLSEARVQV
+Sbjct  61176176  RLGLSEARVQV  61176208
+
+
+
+
+Range 2: 61172711 to 61172830
+
+Score:80.9 bits(198), Expect:4e-13, 
+Method:Compositional matrix adjust., 
+Identities:40/40(100%), Positives:40/40(100%), Gaps:0/40(0%)
+
+Query  1         MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEP  40
+                 MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEP
+Sbjct  61172711  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEP  61172830
+
+
+
+
+Range 3: 61180488 to 61180634
+
+Score:68.9 bits(167), Expect:4e-09, 
+Method:Compositional matrix adjust., 
+Identities:49/49(100%), Positives:49/49(100%), Gaps:0/49(0%)
+
+Query  235       DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFG  283
+                 DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFG
+Sbjct  61180488  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFG  61180634
+
+
+
+
+Range 4: 61178851 to 61178955
+
+Score:67.8 bits(164), Expect:9e-09, 
+Method:Compositional matrix adjust., 
+Identities:31/35(89%), Positives:31/35(88%), Gaps:0/35(0%)
+
+Query  202       LHKGVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+                    GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  61178851  FFTGVLIGAASQFEACRVAPYVNVGALRMPFQQVS  61178955
+
+
+
+
+Range 5: 61172889 to 61172963
+
+Score:51.2 bits(121), Expect:0.002, 
+Method:Compositional matrix adjust., 
+Identities:25/25(100%), Positives:25/25(100%), Gaps:0/25(0%)
+
+Query  91        RSPVRELDMGAAERSREPGSPRLTE  115
+                 RSPVRELDMGAAERSREPGSPRLTE
+Sbjct  61172889  RSPVRELDMGAAERSREPGSPRLTE  61172963
+
+
+
+
+Range 6: 61178503 to 61178568
+
+Score:50.1 bits(118), Expect:0.005, 
+Method:Compositional matrix adjust., 
+Identities:21/22(95%), Positives:22/22(100%), Gaps:0/22(0%)
+
+Query  186       VWFQNRRAKCRKQENQLHKGVL  207
+                 VWFQNRRAKCRKQENQLHKG+L
+Sbjct  61178503  VWFQNRRAKCRKQENQLHKGML  61178568
+
+
+
+
+>Sciurus carolinensis chromosome 9, mSciCar1.2
+Sequence ID: NC_062221.1 Length: 141423999
+Range 1: 6821242 to 6821460
+
+Score:140 bits(353), Expect:3e-33, 
+Method:Compositional matrix adjust., 
+Identities:69/73(95%), Positives:71/73(97%), Gaps:0/73(0%)
+
+Query  116      VSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  175
+                V PELKDRK+DAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ
+Sbjct  6821460  VPPELKDRKEDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQ  6821281
+
+Query  176      RLGLSEARVQVWF  188
+                RLGLSEARVQV +
+Sbjct  6821280  RLGLSEARVQVLY  6821242
+
+
+
+
+Range 2: 6824336 to 6824680
+
+Score:130 bits(328), Expect:6e-30, 
+Method:Compositional matrix adjust., 
+Identities:109/116(94%), Positives:110/116(94%), Gaps:2/116(1%)
+
+Query  1        MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEP-GCVEPGRDDRSSPAVRaag  59
+                MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEP G  EPGR+DRSSPAVR A 
+Sbjct  6824680  MEELTAFVSKSFDQKVKEKKEAITYREVLESGPLRGAKEPAGGGEPGREDRSSPAVR-AA  6824504
+
+Query  60       ggggagggggggggggggaggggagggagggRSPVRELDMGAAERSREPGSPRLTE  115
+                GGGG GGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE
+Sbjct  6824503  GGGGGGGGGGGGGGGGGGAGGGGAGGGAGGGRSPVRELDMGAAERSREPGSPRLTE  6824336
+
+
+
+
+Range 3: 6816877 to 6817032
+
+Score:74.7 bits(182), Expect:5e-11, 
+Method:Compositional matrix adjust., 
+Identities:52/52(100%), Positives:52/52(100%), Gaps:0/52(0%)
+
+Query  235      DSHCNVTPLSFQVQAQLQLDSAVahahhhlhphlaahapYMMFPAPPFGLPL  286
+                DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL
+Sbjct  6817032  DSHCNVTPLSFQVQAQLQLDSAVAHAHHHLHPHLAAHAPYMMFPAPPFGLPL  6816877
+
+
+
+
+Range 4: 6818467 to 6818571
+
+Score:67.4 bits(163), Expect:1e-08, 
+Method:Compositional matrix adjust., 
+Identities:31/35(89%), Positives:32/35(91%), Gaps:0/35(0%)
+
+Query  202      LHKGVLIGAASQFEACRVAPYVNVGALRMPFQQDS  236
+                +  GVLIGAASQFEACRVAPYVNVGALRMPFQQ S
+Sbjct  6818571  VFSGVLIGAASQFEACRVAPYVNVGALRMPFQQAS  6818467
+
+
+
+
+Range 5: 6818839 to 6818907
+
+Score:49.7 bits(117), Expect:0.007, 
+Method:Compositional matrix adjust., 
+Identities:20/23(87%), Positives:22/23(95%), Gaps:0/23(0%)
+
+Query  186      VWFQNRRAKCRKQENQLHKGVLI  208
+                VWFQNRRAKCRKQENQLHKG+ +
+Sbjct  6818907  VWFQNRRAKCRKQENQLHKGMFL  6818839
+
+
+
+
+>Marmota flaviventris isolate SJ_83 unplaced genomic scaffold, GSC_YBM_2.0 scaffold312
+Sequence ID: NW_023144947.1 Length: 816568
+Range 1: 622912 to 623385
+
+Score:126 bits(317), Expect:2e-28, 
+Method:Compositional matrix adjust., 
+Identities:82/162(51%), Positives:99/162(61%), Gaps:15/162(9%)
+
+Query  98      DMGAAERSREPGSPRLTEVSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELER  157
+               D G A  S  P SP L     E KD+++D K  +++GQTK+KQRRSRTNFTLEQLNELER
+Sbjct  623385  DSGGAPLS--PVSPALPAGLYECKDKREDVKSEDEDGQTKLKQRRSRTNFTLEQLNELER  623212
+
+Query  158     LFDETHYPDAFMREELSQRLGLSEARVQVWFQNRRAKCRKQENQLHKGVLIGAAS-----  212
+               LFDETHYPDAFMREELSQRLGLSEARVQV     RA        L + +  G+AS     
+Sbjct  623211  LFDETHYPDAFMREELSQRLGLSEARVQV--GPTRAPAPGAAQGLARALGPGSASPRRSA  623038
+
+Query  213     ---QFEACRVAPYVNVGAL---RMPFQQDSHCNVTPLSFQVQ  248
+                  + +A R A +   G L   R P  +  +  V   S++VQ
+Sbjct  623037  GSLRGKAARAASWRRPGGLRDGRTPSARALNPGVAIRSWEVQ  622912
+
+
+
+
+Range 2: 618916 to 619170
+
+Score:81.3 bits(199), Expect:3e-13, 
+Method:Compositional matrix adjust., 
+Identities:41/85(48%), Positives:46/85(54%), Gaps:36/85(42%)
+
+Query  186     VWFQNRRAKCRKQENQLHK------------------------------------GVLIG  209
+               VWFQNRRAKCRKQENQ+HK                                    GV++G
+Sbjct  619170  VWFQNRRAKCRKQENQMHKGGWGRDGGGGGGGGGWAVGACGAAWVLTAPLRSSLVGVILG  618991
+
+Query  210     AASQFEACRVAPYVNVGALRMPFQQ  234
+                AS  +ACRVAPYVN+GALRMPFQQ
+Sbjct  618990  TASHLDACRVAPYVNMGALRMPFQQ  618916
+
+
+
+
+Range 3: 626593 to 626730
+
+Score:54.7 bits(130), Expect:1e-04, 
+Method:Compositional matrix adjust., 
+Identities:29/46(63%), Positives:31/46(67%), Gaps:14/46(30%)
+
+Query  1       MEELTAFVSKSFDQKVKE--------------KKEAITYREVLESG  32
+               MEELTAFVSKSFDQK KE              KK++ITYREVLESG
+Sbjct  626730  MEELTAFVSKSFDQKTKESGGGGGGGGGGGGGKKDSITYREVLESG  626593
+
+
+
+
+>Marmota monax isolate L192 unplaced genomic scaffold, Marmota_monax_Labrador192_V1.0 WCK01_AAK20210901_F8-fsc00168
+Sequence ID: NW_025722195.1 Length: 3989008
+Range 1: 3698481 to 3698954
+
+Score:125 bits(314), Expect:4e-28, 
+Method:Compositional matrix adjust., 
+Identities:82/162(51%), Positives:99/162(61%), Gaps:15/162(9%)
+
+Query  98       DMGAAERSREPGSPRLTEVSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELER  157
+                D G A  S  P SP L     E KD+++D K  +++GQTK+KQRRSRTNFTLEQLNELER
+Sbjct  3698954  DSGGAPLS--PVSPALPAGLYECKDKREDVKSEDEDGQTKLKQRRSRTNFTLEQLNELER  3698781
+
+Query  158      LFDETHYPDAFMREELSQRLGLSEARVQVWFQNRRAKCRKQENQLHKGVLIGAAS-----  212
+                LFDETHYPDAFMREELSQRLGLSEARVQV     RA        L + +  G+AS     
+Sbjct  3698780  LFDETHYPDAFMREELSQRLGLSEARVQV--GPPRALAPGAAQGLARALGPGSASPRRSA  3698607
+
+Query  213      ---QFEACRVAPYVNVGAL---RMPFQQDSHCNVTPLSFQVQ  248
+                   + +A R A +   G L   R P  +  +  V   S++VQ
+Sbjct  3698606  GRLRGKAARAASWRRPGGLRDGRTPSARALNPGVAIRSWEVQ  3698481
+
+
+
+
+Range 2: 3694442 to 3694531
+
+Score:56.2 bits(134), Expect:4e-05, 
+Method:Compositional matrix adjust., 
+Identities:23/30(77%), Positives:27/30(90%), Gaps:0/30(0%)
+
+Query  205      GVLIGAASQFEACRVAPYVNVGALRMPFQQ  234
+                GV++G AS  +ACRVAPYVN+GALRMPFQQ
+Sbjct  3694531  GVILGTASHLDACRVAPYVNMGALRMPFQQ  3694442
+
+
+
+
+Range 3: 3702102 to 3702254
+
+Score:56.2 bits(134), Expect:5e-05, 
+Method:Compositional matrix adjust., 
+Identities:34/52(65%), Positives:37/52(71%), Gaps:9/52(17%)
+
+Query  1        MEELTAFVSKSFDQKVKE--------KKEAITYREVLESGPLRGAKEPGCVE  44
+                MEELTAFVSKSFDQK KE        KK++ITYREVLESG  R A+E G  E
+Sbjct  3702254  MEELTAFVSKSFDQKTKESGGGGGGGKKDSITYREVLESGLAR-ARELGSSE  3702102
+
+
+
+
+>Urocitellus parryii isolate AGS 11-09-20 ecotype Arctic tundra unplaced genomic scaffold, ASM342692v1 scaffold_915
+Sequence ID: NW_020540803.1 Length: 335943
+Range 1: 141323 to 141601
+
+Score:120 bits(300), Expect:2e-26, 
+Method:Compositional matrix adjust., 
+Identities:63/94(67%), Positives:74/94(78%), Gaps:8/94(8%)
+
+Query  100     GAAERSREPGSPRLTEVSPEL-------KDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQL  152
+               G    +   G+P L+ VSP L       K++++D K  +++GQTK+KQRRSRTNFTLEQL
+Sbjct  141323  GGGTEAGHSGAP-LSPVSPALPAGLYDCKEKREDVKSEDEDGQTKLKQRRSRTNFTLEQL  141499
+
+Query  153     NELERLFDETHYPDAFMREELSQRLGLSEARVQV  186
+               NELERLFDETHYPDAFMREELSQRLGLSEARVQV
+Sbjct  141500  NELERLFDETHYPDAFMREELSQRLGLSEARVQV  141601
+
+
+
+
+Range 2: 145672 to 145923
+
+Score:81.6 bits(200), Expect:2e-13, 
+Method:Compositional matrix adjust., 
+Identities:41/84(49%), Positives:46/84(54%), Gaps:35/84(41%)
+
+Query  186     VWFQNRRAKCRKQENQLHK-----------------------------------GVLIGA  210
+               VWFQNRRAKCRKQENQ+HK                                   GV++G 
+Sbjct  145672  VWFQNRRAKCRKQENQMHKGGWGRGGGGGGGGWWVGRGRLRGGLGAHQLWSSLAGVILGT  145851
+
+Query  211     ASQFEACRVAPYVNVGALRMPFQQ  234
+               AS  +ACRVAPYVN+GALRMPFQQ
+Sbjct  145852  ASHLDACRVAPYVNMGALRMPFQQ  145923
+
+
+
+
+Range 3: 137998 to 138171
+
+Score:53.9 bits(128), Expect:2e-04, 
+Method:Compositional matrix adjust., 
+Identities:34/59(58%), Positives:37/59(62%), Gaps:16/59(27%)
+
+Query  1       MEELTAFVSKSFDQKVKE---------------KKEAITYREVLESGPLRGAKEPGCVE  44
+               MEELTAFVSKSFDQK KE               KK++ITYREVLESG  R A+E G  E
+Sbjct  137998  MEELTAFVSKSFDQKTKESGGGGGGGGGGGGGGKKDSITYREVLESGLAR-ARELGSSE  138171
+
+
+
+
+>Sciurus carolinensis chromosome X, mSciCar1.2
+Sequence ID: NC_062232.1 Length: 131720120
+Range 1: 416693 to 416896
+
+Score:118 bits(295), Expect:1e-25, 
+Method:Compositional matrix adjust., 
+Identities:56/68(82%), Positives:64/68(94%), Gaps:0/68(0%)
+
+Query  119     ELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLG  178
+               E K++++D K  +++GQTK+KQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLG
+Sbjct  416693  ECKEKREDVKSEDEDGQTKLKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLG  416872
+
+Query  179     LSEARVQV  186
+               LSEARVQV
+Sbjct  416873  LSEARVQV  416896
+
+
+
+
+Range 2: 420655 to 420915
+
+Score:85.5 bits(210), Expect:1e-14, 
+Method:Compositional matrix adjust., 
+Identities:45/87(52%), Positives:52/87(59%), Gaps:26/87(29%)
+
+Query  174     SQRLGLSEARVQVWFQNRRAKCRKQENQLHKG--------------------------VL  207
+               S+ +GL     QVWFQNRRAKCRKQENQ+HKG                          V+
+Sbjct  420655  SRPVGLCLFGPQVWFQNRRAKCRKQENQMHKGGLGPEGGRAGGAWRPGCSPPRFSLAGVI  420834
+
+Query  208     IGAASQFEACRVAPYVNVGALRMPFQQ  234
+               +G AS  +ACRVAPYVN+GALRMPFQQ
+Sbjct  420835  LGTASHLDACRVAPYVNMGALRMPFQQ  420915
+
+
+
+
+Range 3: 15680834 to 15680950
+
+Score:52.4 bits(124), Expect:9e-04, 
+Method:Compositional matrix adjust., 
+Identities:25/39(64%), Positives:27/39(69%), Gaps:0/39(0%)
+
+Query  132       DEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMR  170
+                 +EG  K KQRR RT FT  QL ELER F +THYPD F R
+Sbjct  15680834  EEGLLKRKQRRYRTTFTSYQLEELERAFQKTHYPDVFTR  15680950
+
+
+
+
+>Chinchilla lanigera isolate Chin_1 unplaced genomic scaffold, ChiLan1.0 scaffold00098
+Sequence ID: NW_004955499.1 Length: 8179692
+Range 1: 719647 to 719883
+
+Score:117 bits(293), Expect:2e-25, 
+Method:Compositional matrix adjust., 
+Identities:58/79(73%), Positives:67/79(84%), Gaps:0/79(0%)
+
+Query  108     PGSPRLTEVSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDA  167
+               P SP       + K++++D K  +++GQTK+KQRRSRTNFTLEQLNELERLFDETHYPDA
+Sbjct  719647  PASPARPAGIYDCKEKREDVKSEDEDGQTKLKQRRSRTNFTLEQLNELERLFDETHYPDA  719826
+
+Query  168     FMREELSQRLGLSEARVQV  186
+               FMREELSQRLGLSEARVQV
+Sbjct  719827  FMREELSQRLGLSEARVQV  719883
+
+
+
+
+Range 2: 723366 to 723593
+
+Score:85.1 bits(209), Expect:2e-14, 
+Method:Compositional matrix adjust., 
+Identities:42/76(55%), Positives:47/76(61%), Gaps:26/76(34%)
+
+Query  185     QVWFQNRRAKCRKQENQLHKG--------------------------VLIGAASQFEACR  218
+               QVWFQNRRAKCRKQENQ+HKG                          V++G AS  +ACR
+Sbjct  723366  QVWFQNRRAKCRKQENQMHKGGWARRVGGPGAGRSRRADLGLRLPAGVILGTASHLDACR  723545
+
+Query  219     VAPYVNVGALRMPFQQ  234
+               VAPYVN+GALRMPFQQ
+Sbjct  723546  VAPYVNMGALRMPFQQ  723593
+
+
+
+
+Range 3: 716589 to 716762
+
+Score:55.1 bits(131), Expect:1e-04, 
+Method:Compositional matrix adjust., 
+Identities:34/59(58%), Positives:39/59(66%), Gaps:11/59(18%)
+
+Query  1       MEELTAFVSKSFDQKVKE----------KKEAITYREVLESGPLRGAKEPGCVEPGRDD  49
+               MEELTAFVSKSFDQK KE          KK++ITYREVLESG  R ++E G  + G  D
+Sbjct  716589  MEELTAFVSKSFDQKSKENAGVGGGGVGKKDSITYREVLESGLAR-SRELGAADAGLQD  716762
+
+
+
+
+>Heterocephalus glaber isolate NMR 29 unplaced genomic scaffold, HetGla_female_1.0 scaffold00105
+Sequence ID: NW_004624834.1 Length: 7591030
+Range 1: 394183 to 394386
+
+Score:115 bits(287), Expect:1e-24, 
+Method:Compositional matrix adjust., 
+Identities:54/68(79%), Positives:64/68(94%), Gaps:0/68(0%)
+
+Query  119     ELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLG  178
+               + K+++++ K  +++GQTK+KQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLG
+Sbjct  394183  DCKEKREEVKSEDEDGQTKLKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLG  394362
+
+Query  179     LSEARVQV  186
+               LSEARVQV
+Sbjct  394363  LSEARVQV  394386
+
+
+
+
+Range 2: 397519 to 397791
+
+Score:87.4 bits(215), Expect:3e-15, 
+Method:Compositional matrix adjust., 
+Identities:47/91(52%), Positives:53/91(58%), Gaps:33/91(36%)
+
+Query  177     LGLS--EARVQVWFQNRRAKCRKQENQLHKG-----------------------------  205
+               LGLS    R+QVWFQNRRAKCRKQENQ+HKG                             
+Sbjct  397519  LGLSPLSLRLQVWFQNRRAKCRKQENQMHKGGWGPQGMARPGGAPDPR*RPPPRPSPSAS  397698
+
+Query  206     --VLIGAASQFEACRVAPYVNVGALRMPFQQ  234
+                 V++G AS  +ACRVAPYVN+GALRMPFQQ
+Sbjct  397699  AGVILGTASHLDACRVAPYVNMGALRMPFQQ  397791
+
+
+
+
+Range 3: 391912 to 392082
+
+Score:53.9 bits(128), Expect:3e-04, 
+Method:Compositional matrix adjust., 
+Identities:34/58(59%), Positives:38/58(65%), Gaps:10/58(17%)
+
+Query  1       MEELTAFVSKSFDQKVKE---------KKEAITYREVLESGPLRGAKEPGCVEPGRDD  49
+               MEELTAFVSKSFDQK KE         +K++ TYREVLESG  R A+E G  E G  D
+Sbjct  391912  MEELTAFVSKSFDQKSKENAGGGAGGGRKDSTTYREVLESGLAR-ARELGTSESGLQD  392082
+
+
+
+
+>Nannospalax galili isolate Female #2095 unplaced genomic scaffold, S.galili_v1.0 scaffold3027
+Sequence ID: NW_008355721.1 Length: 325771
+Range 1: 74543 to 74827
+
+Score:110 bits(274), Expect:7e-23, 
+Method:Compositional matrix adjust., 
+Identities:60/95(63%), Positives:69/95(72%), Gaps:0/95(0%)
+
+Query  92     SPVRELDMGAAERSREPGSPRLTEVSPELKDRKDDAKGMEDEGQTKIKQRRSRTNFTLEQ  151
+              SP    D G +E +R P +  L+   P   D+    +  ED+   ++KQRRSRTNFTLEQ
+Sbjct  74543  SPGSRGDGGESEGARVPPARPLSAAPPGPLDKDKREEPREDDDGQRLKQRRSRTNFTLEQ  74722
+
+Query  152    LNELERLFDETHYPDAFMREELSQRLGLSEARVQV  186
+              LNELERLFDETHYPDAFMREELSQRLGLSEARVQV
+Sbjct  74723  LNELERLFDETHYPDAFMREELSQRLGLSEARVQV  74827
+
+
+
+
+Range 2: 79017 to 79280
+
+Score:84.0 bits(206), Expect:4e-14, 
+Method:Compositional matrix adjust., 
+Identities:44/88(50%), Positives:49/88(55%), Gaps:33/88(37%)
+
+Query  180    SEARVQVWFQNRRAKCRKQENQLHKG---------------------------------V  206
+              S A  QVWFQNRRAKCRKQENQ+HKG                                 V
+Sbjct  79017  SSALPQVWFQNRRAKCRKQENQMHKGA*PGGGYRASSTRLIWGTKHTAPRSPQVCLFAGV  79196
+
+Query  207    LIGAASQFEACRVAPYVNVGALRMPFQQ  234
+              ++G AS  +ACRVAPYVN+GALRMPFQQ
+Sbjct  79197  ILGTASHLDACRVAPYVNMGALRMPFQQ  79280
+
+
+
+
+>Jaculus jaculus isolate mJacJac1 unplaced genomic scaffold, mJacJac1.mat.Y.cur uX1
+Sequence ID: NW_025423518.1 Length: 939969
+Range 1: 164432 to 164581
+
+Score:102 bits(253), Expect:4e-20, 
+Method:Compositional matrix adjust., 
+Identities:47/50(94%), Positives:50/50(100%), Gaps:0/50(0%)
+
+Query  137     KIKQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEARVQV  186
+               ++KQRRSRTNFTLEQL+ELERLFDETHYPDAFMREELSQRLGLSEARVQV
+Sbjct  164432  RLKQRRSRTNFTLEQLHELERLFDETHYPDAFMREELSQRLGLSEARVQV  164581
+
+
+
+
+Range 2: 179687 to 179776
+
+Score:54.7 bits(130), Expect:1e-04, 
+Method:Compositional matrix adjust., 
+Identities:22/30(73%), Positives:26/30(86%), Gaps:0/30(0%)
+
+Query  205     GVLIGAASQFEACRVAPYVNVGALRMPFQQ  234
+               GVL+G+    +ACRVAPYVN+GALRMPFQQ
+Sbjct  179687  GVLLGSPGHLDACRVAPYVNMGALRMPFQQ  179776
+
+
+
+
+Range 3: 177159 to 177221
+
+Score:49.7 bits(117), Expect:0.006, 
+Method:Compositional matrix adjust., 
+Identities:20/21(95%), Positives:21/21(100%), Gaps:0/21(0%)
+
+Query  185     QVWFQNRRAKCRKQENQLHKG  205
+               QVWFQNRRAKCRKQENQ+HKG
+Sbjct  177159  QVWFQNRRAKCRKQENQMHKG  177221
+
+
+
+
+>Marmota flaviventris isolate SJ_83 unplaced genomic scaffold, GSC_YBM_2.0 scaffold86
+Sequence ID: NW_023144721.1 Length: 8989498
+Range 1: 2206494 to 2206667
+
+Score:85.5 bits(210), Expect:1e-14, 
+Method:Compositional matrix adjust., 
+Identities:38/58(66%), Positives:46/58(79%), Gaps:0/58(0%)
+
+Query  139      KQRRSRTNFTLEQLNELERLFDETHYPDAFMREELSQRLGLSEARVQVWFQNRRAKCR  196
+                KQRR RT FT  QL+ LE LF +T YPD FMREE++ ++ L E+RVQVWF+NRRAKCR
+Sbjct  2206494  KQRRERTTFTRAQLDVLEALFAKTRYPDIFMREEVALKINLPESRVQVWFKNRRAKCR  2206667
+
+
+
+
+		
+
+

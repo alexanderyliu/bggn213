@@ -1,0 +1,82 @@
+---
+title: "Class09"
+format: pdf
+---
+
+```{r}
+PDB_Data <- read.csv("Data Export Summary.csv", row.names=1)
+head(PDB_Data)
+```
+
+
+Q1: What percentage of structures in the PDB are solved by X-Ray and Electron Microscopy.
+
+```{r}
+for (i in as.vector(colnames(PDB_Data))){
+  PDB_Data[,i] <- as.numeric(gsub(",","",PDB_Data[,i]))
+}
+
+sum(PDB_Data$X.ray)/sum(PDB_Data$Total)
+sum(PDB_Data$EM)/sum(PDB_Data$Total)
+```
+
+
+Q2: What proportion of structures in the PDB are protein?
+
+```{r}
+PDB_Data["Protein (only)", "Total"]/sum(PDB_Data$Total)
+```
+
+
+Q3: Type HIV in the PDB website search box on the home page and determine how many HIV-1 protease structures are in the current PDB?
+
+211,377 (PDB search for "HIV-1 protease")
+
+
+![](1HSG.png)
+
+
+Q4: Water molecules normally have 3 atoms. Why do we see just one atom per water molecule in this structure?
+
+Hydrogen atoms are not usually displayed in the default setting, because their size are smaller than the resolution of the data.
+
+
+Q5: There is a critical “conserved” water molecule in the binding site. Can you identify this water molecule? What residue number does this water molecule have
+
+HOH 308
+
+
+Q6: Generate and save a figure clearly showing the two distinct chains of HIV-protease along with the ligand. You might also consider showing the catalytic residues ASP 25 in each chain and the critical water (we recommend “Ball & Stick” for these side-chains). Add this figure to your Quarto document.
+
+![](1HSG (2).png)
+
+
+Discussion Topic: Can you think of a way in which indinavir, or even larger ligands and substrates, could enter the binding site?
+
+
+Q7: [Optional] As you have hopefully observed HIV protease is a homodimer (i.e. it is composed of two identical chains). With the aid of the graphic display can you identify secondary structure elements that are likely to only form in the dimer rather than the monomer?
+
+
+```{r}
+library(bio3d)
+```
+
+```{r}
+pdb <- read.pdb("1hsg")
+```
+
+```{r}
+pdb
+```
+
+Q7: How many amino acid residues are there in this pdb object? 
+
+198
+
+Q8: Name one of the two non-protein residues? 
+
+HOH (127)
+
+Q9: How many protein chains are in this structure? 
+
+2
