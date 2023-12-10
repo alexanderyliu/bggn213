@@ -7,13 +7,13 @@ My classwork from [BGGN213](https://bioboot.github.io/bggn213_F23) at UC San Die
 
 [Class 03](10112023/lab3.pdf)
 
-[Class 04](10042023/lab1.pdf)
+[Class 04](10132023/lab4.pdf)
 
 Class 05: [Data vis with GGPLOT](10182023/Class05_Data_Visualization_with_ggplot.pdf)
 
-[Class 06](10042023/lab1.pdf)
+[Class 06](10202023/BGGN213_class06/Class06.pdf)
 
-[Class 07](10042023/lab1.pdf)
+[Class 07](10252023/Class07/Class07.pdf)
 
 [Class 08](10042023/lab1.pdf)
 
