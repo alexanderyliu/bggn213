@@ -3,7 +3,7 @@ My classwork from [BGGN213](https://bioboot.github.io/bggn213_F23) at UC San Die
 
 [Class 01](10042023/lab1.pdf)
 
-Class 02: [Data vis with GGPLOT](10182023/Class05_Data_Visualization_with_ggplot.pdf)
+Class 02: [Data vis with GGPLOT](10062023/lab2.pdf)
 
 Class 03: [Data vis with GGPLOT](10182023/Class05_Data_Visualization_with_ggplot.pdf)
 
