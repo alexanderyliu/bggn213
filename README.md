@@ -21,20 +21,14 @@ Class 05: [Data vis with GGPLOT](10182023/Class05_Data_Visualization_with_ggplot
 
 [Class 09](11032023/Class09/Class09.pdf)
 
-[Class 11](11082023/Class10/AlphaFold2.pdf)
+[Class 10](11082023/Class10/AlphaFold2.pdf)
 
-[Class 12](10042023/lab1.pdf)
+[Class 13](11152023/Class13/Class13/Class13.pdf)
 
-[Class 13](10042023/lab1.pdf)
+[Class 14](11172023/Class14/Class14.pdf)
 
-[Class 14](10042023/lab1.pdf)
+[Class 17](class17/class17/class17.html)
 
-[Class 15](10042023/lab1.pdf)
+[Class 18](class18/class18.pdf)
 
-[Class 16](10042023/lab1.pdf)
-
-[Class 17](10042023/lab1.pdf)
-
-[Class 18](10042023/lab1.pdf)
-
-[Class 19](10042023/lab1.pdf)
+[Class 19](12062023/Class19/Class19.pdf)
