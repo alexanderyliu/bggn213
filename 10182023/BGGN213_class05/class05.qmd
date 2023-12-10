@@ -211,8 +211,7 @@ ggplot(gapminder, aes(gdpPercap, lifeExp, size = pop, colour = country)) +
 ```
 
 
-```{r}
-library(patchwork)
+#library(patchwork)
 
 # Setup some example plots 
 p1 <- ggplot(mtcars) + geom_point(aes(mpg, disp))
@@ -223,4 +222,3 @@ p4 <- ggplot(mtcars) + geom_bar(aes(carb))
 # Use patchwork to combine them here:
 (p1 | p2 | p3) /
       p4
-```

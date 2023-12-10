@@ -1,0 +1,3287 @@
+RID: R4A9CFFS013	
+Job Title:Panagrolaimus davidi Ddx6				
+Program: BLASTP 
+Query: unnamed protein product ID: lcl|Query_194753(amino acid) Length: 281
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+	
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+hypothetical protein FO519_002541 [Halicephalobus sp. NKZ332]     Halicephalob... NA              2598192    497    497   100%  8e-174 85.41  426        KAE9554242.1     
+unnamed protein product [Meloidogyne enterolobii]                 Meloidogyne ... NA              390850     483    483   96%   4e-168 82.66  417        CAD2123926.1     
+hypothetical protein Mgra_00002596 [Meloidogyne graminicola]      Meloidogyne ... NA              189291     479    479   96%   1e-166 82.29  417        KAF7637891.1     
+unnamed protein product [Haemonchus placei]                       Haemonchus p... NA              6290       474    474   97%   1e-164 80.59  430        VDO27004.1       
+DNA RNA helicase domain containing protein [Haemonchus contortus] Haemonchus c... barber pole ... 6289       474    474   97%   1e-164 80.59  431        CDJ84064.1       
+unnamed protein product [Nippostrongylus brasiliensis]            Nippostrongy... NA              27835      473    473   97%   2e-164 80.22  417        VDL83575.1       
+hypothetical protein Q1695_014152 [Nippostrongylus brasiliensis]  Nippostrongy... NA              27835      473    473   97%   4e-164 80.22  430        WKX99049.1       
+unnamed protein product [Heligmosomoides polygyrus]               Heligmosomoi... NA              6339       473    473   97%   4e-164 80.22  431        VDP01622.1       
+DEAD/DEAH box helicase [Ancylostoma ceylanicum]                   Ancylostoma ... NA              53326      471    471   97%   1e-163 79.85  430        EPB76037.1       
+unnamed protein product [Caenorhabditis bovis]                    Caenorhabdit... NA              2654633    471    471   99%   2e-163 79.57  427        CAB3403078.1     
+hypothetical protein PMAYCL1PPCAC_12668 [Pristionchus mayeri]     Pristionchus... NA              1317129    471    471   96%   3e-163 81.02  436        GMR42473.1       
+unnamed protein product [Bursaphelenchus okinawaensis]            Bursaphelenc... NA              465554     469    469   96%   4e-163 80.51  412        CAD5221139.1     
+unnamed protein product [Angiostrongylus costaricensis]           Angiostrongy... NA              334426     470    470   97%   5e-163 79.85  429        VDM62411.1       
+ATP-dependent RNA helicase cgh-1 [Toxocara canis]                 Toxocara canis  dog roundworm   6265       469    469   100%  2e-162 78.65  437        KHN80260.1       
+hypothetical protein Q1695_014152 [Nippostrongylus brasiliensis]  Nippostrongy... NA              27835      473    473   97%   2e-162 80.22  559        WKX99050.1       
+hypothetical protein Angca_003165 [Angiostrongylus cantonensis]   Angiostrongy... rat lungworm    6313       468    468   96%   3e-162 79.78  417        KAE9417031.1     
+ATP-dependent RNA helicase cgh-1 [Caenorhabditis elegans]         Caenorhabdit... NA              6239       468    468   97%   3e-162 78.91  430        NP_498646.1      
+Protein CBR-CGH-1 [Caenorhabditis briggsae]                       Caenorhabdit... NA              6238       468    468   96%   4e-162 79.41  429        XP_002642614.1   
+CRE-CGH-1 protein [Caenorhabditis remanei]                        Caenorhabdit... NA              31234      467    467   96%   8e-162 79.41  429        EFP10628.1       
+DEAD/DEAH box helicase domain-containing protein [Ditylenchus...  Ditylenchus ... NA              166010     467    467   96%   8e-162 79.78  441        KAI1708488.1     
+hypothetical protein GCK72_009011 [Caenorhabditis remanei]        Caenorhabdit... NA              31234      467    467   96%   9e-162 79.41  429        XP_003099486.2   
+RNA helicase [Aphelenchoides besseyi]                             Aphelenchoid... NA              269767     466    466   97%   1e-161 78.75  417        KAI6214418.1     
+CBN-CGH-1 protein [Caenorhabditis brenneri]                       Caenorhabdit... NA              135651     466    466   96%   2e-161 79.41  430        EGT56563.1       
+RNA helicase [Aphelenchoides fujianensis]                         Aphelenchoid... NA              1052528    465    465   97%   2e-161 77.66  405        KAI6217036.1     
+hypothetical protein M3Y94_00475300 [Aphelenchoides besseyi]      Aphelenchoid... NA              269767     466    466   98%   2e-161 76.90  419        KAI6202737.1     
+unnamed protein product [Cylicocyclus nassatus]                   Cylicocyclus... NA              53992      472    472   97%   2e-161 80.22  598        CAJ0599460.1     
+DEAD/DEAH box helicase domain-containing protein [Ditylenchus...  Ditylenchus ... NA              166010     466    466   96%   2e-161 79.41  441        KAI1707478.1     
+RNA helicase [Aphelenchoides besseyi]                             Aphelenchoid... NA              269767     465    465   97%   3e-161 78.75  417        KAI6200726.1     
+hypothetical protein B9Z55_011379 [Caenorhabditis nigoni]         Caenorhabdit... NA              1611254    468    468   96%   3e-161 79.41  501        PIC39805.1       
+unnamed protein product [Auanema sp. JU1783]                      Auanema sp. ... NA              2878363    465    465   97%   3e-161 79.12  428        CAI4229036.1     
+DEAD/DEAH box helicase [Dictyocaulus viviparus]                   Dictyocaulus... bovine lungworm 29172      466    466   97%   3e-161 79.49  434        KJH46407.1       
+hypothetical protein B9Z55_011379 [Caenorhabditis nigoni]         Caenorhabdit... NA              1611254    467    467   96%   3e-161 79.41  473        PIC39804.1       
+unnamed protein product [Mesorhabditis belari]                    Mesorhabditi... NA              2138241    465    465   99%   4e-161 79.08  430        CAJ0942156.1     
+unnamed protein product [Caenorhabditis angaria]                  Caenorhabdit... NA              860376     465    465   97%   4e-161 79.27  430        CAI5445062.1     
+hypothetical protein WR25_23421 [Diploscapter pachys]             Diploscapter... NA              2018661    465    465   96%   4e-161 79.41  425        PAV62788.1       
+unnamed protein product [Caenorhabditis auriculariae]             Caenorhabdit... NA              2777116    464    464   97%   6e-161 79.12  427        CAD6188436.1     
+hypothetical protein WR25_20970 [Diploscapter pachys]             Diploscapter... NA              2018661    464    464   96%   9e-161 79.41  425        PAV68791.1       
+unnamed protein product [Enterobius vermicularis]                 Enterobius v... human pinworm   51028      464    464   100%  1e-160 78.29  434        VDD85896.1       
+unnamed protein product [Caenorhabditis sp. 36 PRJEB53466]        Caenorhabdit... NA              2970133    463    463   97%   2e-160 77.82  430        CAI2348934.1     
+RNA helicase [Aphelenchoides besseyi]                             Aphelenchoid... NA              269767     463    463   97%   2e-160 77.29  419        KAI6178002.1     
+RNA helicase [Aphelenchoides bicaudatus]                          Aphelenchoid... NA              293665     461    461   97%   1e-159 78.39  417        KAI6176249.1     
+unnamed protein product [Bursaphelenchus xylophilus]              Bursaphelenc... pine wood ne... 6326       469    469   96%   7e-159 80.07  711        CAD5227973.1     
+hypothetical protein QR680_013082 [Steinernema hermaphroditum]    Steinernema ... NA              289476     455    455   98%   5e-157 76.98  432        KAK0417563.1     
+unnamed protein product [Bursaphelenchus okinawaensis]            Bursaphelenc... NA              465554     453    453   96%   1e-156 77.21  416        CAD5219018.1     
+RNA helicase [Aphelenchoides fujianensis]                         Aphelenchoid... NA              1052528    452    452   98%   2e-156 75.36  387        KAI6241079.1     
+Probable ATP-dependent RNA helicase DDX6 [Strongyloides ratti]    Strongyloide... NA              34506      452    452   100%  6e-156 74.38  433        XP_024503575.1   
+unnamed protein product [Thelazia callipaeda]                     Thelazia cal... thelaziosis ... 103827     451    451   100%  3e-155 74.38  432        VDN02728.1       
+ATP-dependent RNA helicase cgh-1 [Loa loa]                        Loa loa         African eye ... 7209       449    449   100%  8e-155 73.67  432        XP_020303523.1   
+unnamed protein product [Onchocerca ochengi]                      Onchocerca o... NA              42157      449    449   100%  9e-155 74.02  432        VDK80068.1       
+BMA-CGH-1 [Brugia malayi]                                         Brugia malayi   NA              6279       449    449   100%  1e-154 73.67  432        CDP93318.1       
+unnamed protein product [Acanthocheilonema viteae]                Acanthocheil... NA              6277       448    448   100%  2e-154 73.67  432        VBB30384.1       
+unnamed protein product [Wuchereria bancrofti]                    Wuchereria b... NA              6293       449    449   100%  2e-154 73.67  454        VDM19823.1       
+DEAD/DEAH box helicase [Onchocerca flexuosa]                      Onchocerca f... NA              387005     448    448   100%  2e-154 73.67  432        OZC06485.1       
+unnamed protein product [Cercopithifilaria johnstoni]             Cercopithifi... NA              2874296    447    447   98%   5e-154 75.54  432        CAG9536159.1     
+germline helicase protein 1, putative [Brugia malayi]             Brugia malayi   NA              6279       448    448   100%  7e-154 73.67  471        XP_001897479.2   
+unnamed protein product [Bursaphelenchus xylophilus]              Bursaphelenc... pine wood ne... 6326       447    447   96%   4e-153 76.10  487        CAD5226675.1     
+DEAD/DEAH box helicase [Necator americanus]                       Necator amer... New World ho... 51031      442    442   89%   4e-152 81.35  437        XP_013307512.1   
+unnamed protein product [Mesorhabditis belari]                    Mesorhabditi... NA              2138241    442    442   95%   4e-152 75.46  430        CAJ0944267.1     
+DEAD/DEAH box helicase domain-containing protein [Ditylenchus...  Ditylenchus ... NA              166010     437    437   96%   2e-150 74.17  424        KAI1722275.1     
+ATP-dependent RNA helicase cgh-1 [Trichinella patagoniensis]      Trichinella ... NA              990121     438    438   98%   5e-150 73.19  456        KRY09308.1       
+ATP-dependent RNA helicase cgh-1 [Trichinella nelsoni]            Trichinella ... NA              6336       438    438   98%   5e-150 73.19  456        KRX15691.1       
+ATP-dependent RNA helicase DHH1 [Trichinella spiralis]            Trichinella ... NA              6334       438    438   98%   5e-150 73.19  456        XP_003369945.1   
+ATP-dependent RNA helicase cgh-1 [Trichinella murrelli]           Trichinella ... NA              144512     437    437   98%   8e-150 73.19  456        KRX40840.1       
+unnamed protein product [Dracunculus medinensis]                  Dracunculus ... Guinea worm     318479     435    435   96%   2e-149 75.28  425        VDN57959.1       
+unnamed protein product [Anisakis simplex]                        Anisakis sim... herring worm    6269       435    435   91%   2e-149 80.23  429        VDK54911.1       
+ATP-dependent RNA helicase cgh-1 [Trichinella papuae]             Trichinella ... NA              268474     436    436   98%   3e-149 72.83  456        KRZ75200.1       
+ATP-dependent RNA helicase cgh-1 [Trichinella pseudospiralis]     Trichinella ... NA              6337       436    436   98%   4e-149 72.83  456        KRY70221.1       
+ATP-dependent RNA helicase cgh-1 [Trichinella zimbabwensis]       Trichinella ... NA              268475     436    436   98%   4e-149 72.83  456        KRZ05930.1       
+hypothetical protein KUF71_015939 [Frankliniella fusca]           Frankliniell... NA              407009     435    435   98%   5e-149 73.21  440        KAK3927654.1     
+ATP-dependent RNA helicase me31b [Frankliniella occidentalis]     Frankliniell... western flow... 133901     435    435   98%   5e-149 73.21  440        XP_026291730.1   
+putative ATP-dependent RNA helicase me31b [Bulinus truncatus]     Bulinus trun... NA              55810      431    431   97%   7e-149 72.73  336        KAH9504297.1     
+putative ATP-dependent RNA helicase me31b [Agrilus planipennis]   Agrilus plan... emerald ash ... 224129     434    434   100%  7e-149 72.34  436        XP_018325443.1   
+hypothetical protein FOCC_FOCC003004 [Frankliniella occidentalis] Frankliniell... western flow... 133901     435    435   98%   1e-148 73.21  462        KAE8750197.1     
+hypothetical protein M8J75_011609 [Diaphorina citri]              Diaphorina c... Asian citrus... 121845     434    434   99%   1e-148 73.12  457        KAI5710809.1     
+unnamed protein product [Callosobruchus maculatus]                Callosobruch... cowpea weevil   64391      432    432   99%   1e-148 73.21  402        VEN37828.1       
+unnamed protein product [Callosobruchus analis]                   Callosobruch... NA              380381     433    433   99%   4e-148 73.21  452        CAI5857758.1     
+ATP-dependent RNA helicase cgh-1-like [Biomphalaria glabrata]     Biomphalaria... NA              6526       428    428   97%   5e-148 72.73  335        KAI8747364.1     
+hypothetical protein NP493_668g00000 [Ridgeia piscesae]           Ridgeia pisc... NA              27915      433    433   96%   5e-148 73.72  459        KAK2176333.1     
+ATP-dependent RNA helicase me31b [Lamellibrachia satsuma]         Lamellibrach... NA              104711     433    433   96%   5e-148 73.72  457        KAI0242291.1     
+unnamed protein product [Callosobruchus analis]                   Callosobruch... NA              380381     432    432   99%   7e-148 73.21  448        CAI5857759.1     
+ATP-dependent RNA helicase cgh-1 [Trichinella pseudospiralis]     Trichinella ... NA              6337       434    434   98%   1e-147 72.83  514        KRZ30331.1       
+unnamed protein product [Acanthoscelides obtectus]                Acanthosceli... NA              200917     431    431   99%   2e-147 72.86  448        CAH1963156.1     
+ATP-dependent RNA helicase me31b isoform X2 [Pieris brassicae]    Pieris brass... large cabbag... 7116       431    431   97%   2e-147 73.65  442        XP_045532384.1   
+hypothetical protein WR25_10168 isoform A [Diploscapter pachys]   Diploscapter... NA              2018661    427    427   96%   2e-147 72.96  354        PAV74952.1       
+unnamed protein product [Timema bartmani]                         Timema bartmani NA              61472      429    429   95%   3e-147 73.61  396        CAD7444416.1     
+ATP-dependent RNA helicase me31b [Thrips palmi]                   Thrips palmi    NA              161013     431    431   95%   3e-147 74.72  442        XP_034250163.1   
+unnamed protein product [Pieris brassicae]                        Pieris brass... large cabbag... 7116       431    431   97%   3e-147 73.65  441        CAH4037785.1     
+hypothetical protein ONE63_004660 [Megalurothrips usitatus]       Megalurothri... bean blossom... 439358     430    430   95%   3e-147 74.72  430        KAJ1519364.1     
+ATP-dependent RNA helicase cgh-1 [Trichinella sp. T9]             Trichinella ... NA              181606     431    431   98%   3e-147 71.48  464        KRX63805.1       
+hypothetical protein ONE63_004660 [Megalurothrips usitatus]       Megalurothri... bean blossom... 439358     430    430   95%   4e-147 74.72  444        KAJ1519363.1     
+hypothetical protein [Lymnaea stagnalis]                          Lymnaea stag... great pond s... 6523       431    431   98%   4e-147 72.66  464        QOW64963.1       
+LOW QUALITY PROTEIN: putative ATP-dependent RNA helicase me31b... Ctenocephali... cat flea        7515       429    429   95%   4e-147 74.35  418        XP_026469178.1   
+unnamed protein product [Diatraea saccharalis]                    Diatraea sac... sugarcane borer 40085      430    430   97%   4e-147 72.92  439        CAG9785477.1     
+ATP-dependent RNA helicase me31b [Trichonephila clavata]          Trichonephil... NA              2740835    428    428   95%   4e-147 73.23  382        GFQ94584.1       
+hypothetical protein evm_002791 [Chilo suppressalis]              Chilo suppre... striped rice... 168631     430    430   97%   5e-147 72.92  441        RVE52672.1       
+putative ATP-dependent RNA helicase me31b [Ctenocephalides felis] Ctenocephali... cat flea        7515       430    430   95%   5e-147 74.35  443        XP_026461540.1   
+putative ATP-dependent RNA helicase me31b [Penaeus vannamei]      Penaeus vann... Pacific whit... 6689       430    430   97%   5e-147 72.83  443        XP_027228145.1   
+ATP-dependent RNA helicase cgh-1 [Trichinella murrelli]           Trichinella ... NA              144512     431    431   98%   5e-147 71.48  464        KRX40841.1       
+DEAD-box DDX6 [Locusta migratoria]                                Locusta migr... migratory lo... 7004       430    430   95%   5e-147 73.61  450        QOS47384.1       
+ATP-dependent RNA helicase me31b [Pectinophora gossypiella]       Pectinophora... pink bollworm   13191      430    430   97%   5e-147 72.92  441        XP_049868573.1   
+
+Alignments:
+
+>hypothetical protein FO519_002541 [Halicephalobus sp. NKZ332]
+Sequence ID: KAE9554242.1 Length: 426
+Range 1: 1 to 281
+
+Score:497 bits(1280), Expect:8e-174, 
+Method:Compositional matrix adjust., 
+Identities:240/281(85%), Positives:256/281(91%), Gaps:0/281(0%)
+
+Query  1    MAVEAQNKTNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERP  60
+            M+ E    ++ DWKA L LPAKD R+KT DVTNTRGL+FE+FSLSRDLLKGIFEKGWERP
+Sbjct  1    MSTEIATHSDADWKASLNLPAKDGRFKTQDVTNTRGLEFEDFSLSRDLLKGIFEKGWERP  60
+
+Query  61   SPIQEASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQ  120
+            SPIQEASIGIALSG DILARAKNGTGKTGAYCIPVI R+DTSK+ IQALI+VPTRELALQ
+Sbjct  61   SPIQEASIGIALSGHDILARAKNGTGKTGAYCIPVIGRIDTSKNEIQALIVVPTRELALQ  120
+
+Query  121  TSQICVELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDC  180
+            TSQIC+ELGKH+ LKVMVTTGGTDLRDDILRLNS VHLIVATPGRI+DLMEK VA V  C
+Sbjct  121  TSQICIELGKHMHLKVMVTTGGTDLRDDILRLNSVVHLIVATPGRILDLMEKDVAVVDKC  180
+
+Query  181  KMLVLDEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINL  240
+            KMLVLDEADKLLSQDFQGVLDRLV  LP GRQIMLYSATFPRTVASFM+ HM +P+EINL
+Sbjct  181  KMLVLDEADKLLSQDFQGVLDRLVDRLPLGRQIMLYSATFPRTVASFMQKHMHHPHEINL  240
+
+Query  241  MEELTLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            MEELTLLGVTQFYAFV E+QKVHCLNTLFRKLQINQSIIFC
+Sbjct  241  MEELTLLGVTQFYAFVQERQKVHCLNTLFRKLQINQSIIFC  281
+
+
+
+
+>unnamed protein product [Meloidogyne enterolobii]
+Sequence ID: CAD2123926.1 Length: 417
+>unnamed protein product [Meloidogyne enterolobii]
+Sequence ID: CAD2127129.1 Length: 417 
+Range 1: 12 to 282
+
+Score:483 bits(1242), Expect:4e-168, 
+Method:Compositional matrix adjust., 
+Identities:224/271(83%), Positives:248/271(91%), Gaps:0/271(0%)
+
+Query  11   DDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASIGI  70
+            DDWKA+L LP KD+R+KT DVT T+G++FEEF LSRDLLKGIFEKGWE+PSPIQEASI I
+Sbjct  12   DDWKAELNLPTKDLRFKTADVTATKGIEFEEFGLSRDLLKGIFEKGWEKPSPIQEASIAI  71
+
+Query  71   ALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVELGK  130
+            ALSGQD+LARAKNGTGKTGAYCIP IE++D S++ IQA+++VPTRELALQTSQICVEL K
+Sbjct  72   ALSGQDVLARAKNGTGKTGAYCIPCIEKIDPSREYIQAMVVVPTRELALQTSQICVELSK  131
+
+Query  131  HIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEADK  190
+            H+ +KVMVTTGGTDLRDDILRLN  VHL+VATPGRI+DLMEKGVA V  CK +VLDEADK
+Sbjct  132  HLKIKVMVTTGGTDLRDDILRLNGVVHLVVATPGRILDLMEKGVANVTRCKTIVLDEADK  191
+
+Query  191  LLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLGVT  250
+            LLSQDFQGVLDRLV F+PA RQIMLYSATFPRTV SFME HM+ PYEINLMEELTLLG+T
+Sbjct  192  LLSQDFQGVLDRLVHFMPADRQIMLYSATFPRTVESFMEKHMQRPYEINLMEELTLLGIT  251
+
+Query  251  QFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            QFYA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  252  QFYAYVQEKQKVHCLNTLFRKLQINQSIIFC  282
+
+
+
+
+>hypothetical protein Mgra_00002596 [Meloidogyne graminicola]
+Sequence ID: KAF7637891.1 Length: 417
+Range 1: 12 to 282
+
+Score:479 bits(1232), Expect:1e-166, 
+Method:Compositional matrix adjust., 
+Identities:223/271(82%), Positives:247/271(91%), Gaps:0/271(0%)
+
+Query  11   DDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASIGI  70
+            +DWKA+L LP KD+R+KT DVT T+G +FEEF LSRDLLKGIFEKGWE+PSPIQEASI I
+Sbjct  12   EDWKAELNLPTKDLRFKTADVTATKGTEFEEFGLSRDLLKGIFEKGWEKPSPIQEASIAI  71
+
+Query  71   ALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVELGK  130
+            ALSGQDILARAKNGTGKTGAYCIP IE++D S++ IQA+I+VPTRELALQTSQICVEL K
+Sbjct  72   ALSGQDILARAKNGTGKTGAYCIPCIEKIDPSREYIQAMIVVPTRELALQTSQICVELSK  131
+
+Query  131  HIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEADK  190
+            H+ +KVMVTTGGTDLRDDILRLN  VHL+VATPGRI+DLMEKGVA V  CK +VLDEADK
+Sbjct  132  HLKIKVMVTTGGTDLRDDILRLNGVVHLVVATPGRILDLMEKGVANVSRCKTIVLDEADK  191
+
+Query  191  LLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLGVT  250
+            LLSQDFQGVLDRLV F+P+ RQIMLYSATFPRTV +FME HM+ PYEINLMEELTLLG+T
+Sbjct  192  LLSQDFQGVLDRLVHFMPSDRQIMLYSATFPRTVETFMEKHMQRPYEINLMEELTLLGIT  251
+
+Query  251  QFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            QFYA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  252  QFYAYVQEKQKVHCLNTLFRKLQINQSIIFC  282
+
+
+
+
+>unnamed protein product [Haemonchus placei]
+Sequence ID: VDO27004.1 Length: 430
+Range 1: 13 to 285
+
+Score:474 bits(1220), Expect:1e-164, 
+Method:Compositional matrix adjust., 
+Identities:220/273(81%), Positives:251/273(91%), Gaps:0/273(0%)
+
+Query  9    TNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASI  68
+            T+++WKA L LPAKD R+KT DVT+T+G++FE+F LSRDLL GIFEKGWE+PSPIQEASI
+Sbjct  13   TDENWKAGLVLPAKDKRFKTADVTDTKGVEFEDFCLSRDLLMGIFEKGWEKPSPIQEASI  72
+
+Query  69   GIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVEL  128
+            G+ALSGQDILARAKNGTGKTGAYCIPVIE+++ S   IQAL+IVPTRELALQTSQICVEL
+Sbjct  73   GVALSGQDILARAKNGTGKTGAYCIPVIEKINPSIKKIQALVIVPTRELALQTSQICVEL  132
+
+Query  129  GKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEA  188
+             KHI LK+MVTTGGTDLRDDI+RLN +VH+++ATPGRI+DLMEKGVA++ +CKMLVLDEA
+Sbjct  133  SKHIKLKIMVTTGGTDLRDDIMRLNGSVHMVIATPGRILDLMEKGVADMSNCKMLVLDEA  192
+
+Query  189  DKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLG  248
+            DKLLSQDFQG+LDRL+SFLP  RQIMLYSATFP TV  FM+ HM+ PYEINLMEELTLLG
+Sbjct  193  DKLLSQDFQGILDRLISFLPKERQIMLYSATFPMTVTEFMQKHMRKPYEINLMEELTLLG  252
+
+Query  249  VTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            VTQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  253  VTQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  285
+
+
+
+
+>DNA RNA helicase domain containing protein [Haemonchus contortus]
+Sequence ID: CDJ84064.1 Length: 431
+Range 1: 13 to 285
+
+Score:474 bits(1219), Expect:1e-164, 
+Method:Compositional matrix adjust., 
+Identities:220/273(81%), Positives:251/273(91%), Gaps:0/273(0%)
+
+Query  9    TNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASI  68
+            T+++WKA L LPAKD R+KT DVT+T+G++FE+F LSRDLL GIFEKGWE+PSPIQEASI
+Sbjct  13   TDENWKAGLVLPAKDKRFKTADVTDTKGVEFEDFCLSRDLLMGIFEKGWEKPSPIQEASI  72
+
+Query  69   GIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVEL  128
+            G+ALSGQDILARAKNGTGKTGAYCIPVIE+++ S   IQAL+IVPTRELALQTSQICVEL
+Sbjct  73   GVALSGQDILARAKNGTGKTGAYCIPVIEKINPSIKKIQALVIVPTRELALQTSQICVEL  132
+
+Query  129  GKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEA  188
+             KHI LK+MVTTGGTDLRDDI+RLN +VH+++ATPGRI+DLMEKGVA++ +CKMLVLDEA
+Sbjct  133  SKHIKLKIMVTTGGTDLRDDIMRLNGSVHMVIATPGRILDLMEKGVADMSNCKMLVLDEA  192
+
+Query  189  DKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLG  248
+            DKLLSQDFQG+LDRL+SFLP  RQIMLYSATFP TV  FM+ HM+ PYEINLMEELTLLG
+Sbjct  193  DKLLSQDFQGILDRLISFLPKERQIMLYSATFPMTVTEFMQKHMRKPYEINLMEELTLLG  252
+
+Query  249  VTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            VTQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  253  VTQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  285
+
+
+
+
+>unnamed protein product [Nippostrongylus brasiliensis]
+Sequence ID: VDL83575.1 Length: 417
+Range 1: 62 to 334
+
+Score:473 bits(1218), Expect:2e-164, 
+Method:Compositional matrix adjust., 
+Identities:219/273(80%), Positives:251/273(91%), Gaps:0/273(0%)
+
+Query  9    TNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASI  68
+            T+++WKA L LPAKD R+KT DVT+T+G++FE+F LSRDLL GIFEKGWE+PSPIQEASI
+Sbjct  62   TDENWKAGLVLPAKDKRFKTADVTDTKGVEFEDFCLSRDLLMGIFEKGWEKPSPIQEASI  121
+
+Query  69   GIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVEL  128
+            G+ALSGQDILARAKNGTGKTGAYCIPVIE+++ + + IQAL+IVPTRELALQTSQICVEL
+Sbjct  122  GVALSGQDILARAKNGTGKTGAYCIPVIEKINPNVNKIQALVIVPTRELALQTSQICVEL  181
+
+Query  129  GKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEA  188
+             KHI LK+MVTTGGTDLRDDI+RLN +VH+++ATPGRI+DLMEKGVA++  CKMLVLDEA
+Sbjct  182  SKHIKLKIMVTTGGTDLRDDIMRLNGSVHMVIATPGRILDLMEKGVADMSHCKMLVLDEA  241
+
+Query  189  DKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLG  248
+            DKLLSQDFQG+LDRL+SFLP  RQIMLYSATFP TV  FM+ HM+ PYEINLMEELTLLG
+Sbjct  242  DKLLSQDFQGILDRLISFLPKERQIMLYSATFPMTVTEFMQKHMRKPYEINLMEELTLLG  301
+
+Query  249  VTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            VTQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  302  VTQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  334
+
+
+
+
+>hypothetical protein Q1695_014152 [Nippostrongylus brasiliensis]
+Sequence ID: WKX99049.1 Length: 430
+>unnamed protein product [Nippostrongylus brasiliensis]
+Sequence ID: VDL82454.1 Length: 430 
+Range 1: 13 to 285
+
+Score:473 bits(1216), Expect:4e-164, 
+Method:Compositional matrix adjust., 
+Identities:219/273(80%), Positives:251/273(91%), Gaps:0/273(0%)
+
+Query  9    TNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASI  68
+            T+++WKA L LPAKD R+KT DVT+T+G++FE+F LSRDLL GIFEKGWE+PSPIQEASI
+Sbjct  13   TDENWKAGLVLPAKDKRFKTADVTDTKGVEFEDFCLSRDLLMGIFEKGWEKPSPIQEASI  72
+
+Query  69   GIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVEL  128
+            G+ALSGQDILARAKNGTGKTGAYCIPVIE+++ + + IQAL+IVPTRELALQTSQICVEL
+Sbjct  73   GVALSGQDILARAKNGTGKTGAYCIPVIEKINPNVNKIQALVIVPTRELALQTSQICVEL  132
+
+Query  129  GKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEA  188
+             KHI LK+MVTTGGTDLRDDI+RLN +VH+++ATPGRI+DLMEKGVA++  CKMLVLDEA
+Sbjct  133  SKHIKLKIMVTTGGTDLRDDIMRLNGSVHMVIATPGRILDLMEKGVADMSHCKMLVLDEA  192
+
+Query  189  DKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLG  248
+            DKLLSQDFQG+LDRL+SFLP  RQIMLYSATFP TV  FM+ HM+ PYEINLMEELTLLG
+Sbjct  193  DKLLSQDFQGILDRLISFLPKERQIMLYSATFPMTVTEFMQKHMRKPYEINLMEELTLLG  252
+
+Query  249  VTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            VTQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  253  VTQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  285
+
+
+
+
+>unnamed protein product [Heligmosomoides polygyrus]
+Sequence ID: VDP01622.1 Length: 431
+Range 1: 13 to 285
+
+Score:473 bits(1216), Expect:4e-164, 
+Method:Compositional matrix adjust., 
+Identities:219/273(80%), Positives:251/273(91%), Gaps:0/273(0%)
+
+Query  9    TNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASI  68
+            T+++WKA L LPAKD R+KT DVT+T+G++FE+F LSRDLL GIFEKGWE+PSPIQEASI
+Sbjct  13   TDENWKAGLVLPAKDRRFKTADVTDTKGVEFEDFCLSRDLLMGIFEKGWEKPSPIQEASI  72
+
+Query  69   GIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVEL  128
+            G+ALSGQDILARAKNGTGKTGAYCIPVIE+++ +   IQAL+IVPTRELALQTSQICVEL
+Sbjct  73   GVALSGQDILARAKNGTGKTGAYCIPVIEKINPAVKKIQALVIVPTRELALQTSQICVEL  132
+
+Query  129  GKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEA  188
+             KHI LK+MVTTGGTDLRDDI+RLN +VH+++ATPGRI+DLMEKGVA++ +CKMLVLDEA
+Sbjct  133  SKHIKLKIMVTTGGTDLRDDIMRLNGSVHMVIATPGRILDLMEKGVADMSNCKMLVLDEA  192
+
+Query  189  DKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLG  248
+            DKLLSQDFQG+LDRL+SFLP  RQIMLYSATFP TV  FM+ HM+ PYEINLMEELTLLG
+Sbjct  193  DKLLSQDFQGILDRLISFLPKERQIMLYSATFPMTVTEFMQKHMRKPYEINLMEELTLLG  252
+
+Query  249  VTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            VTQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  253  VTQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  285
+
+
+
+
+>DEAD/DEAH box helicase [Ancylostoma ceylanicum]
+Sequence ID: EPB76037.1 Length: 430
+>hypothetical protein Y032_0003g1491 [Ancylostoma ceylanicum]
+Sequence ID: EYC32275.1 Length: 430 
+Range 1: 12 to 284
+
+Score:471 bits(1213), Expect:1e-163, 
+Method:Compositional matrix adjust., 
+Identities:218/273(80%), Positives:251/273(91%), Gaps:0/273(0%)
+
+Query  9    TNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASI  68
+            T+++WKA L LPAKD R+KT DVT+T+G++FE+F LSRDLL GIFEKGWE+PSPIQEASI
+Sbjct  12   TDENWKAGLVLPAKDKRFKTADVTDTKGVEFEDFCLSRDLLMGIFEKGWEKPSPIQEASI  71
+
+Query  69   GIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVEL  128
+            G+ALSGQDILARAKNGTGKTGAYCIPVIE+++ +   IQAL+IVPTRELALQTSQICVEL
+Sbjct  72   GVALSGQDILARAKNGTGKTGAYCIPVIEKINPAIKKIQALVIVPTRELALQTSQICVEL  131
+
+Query  129  GKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEA  188
+             KHI LK+MVTTGGTDLRDDI+RLN +VH+++ATPGRI+DLMEKGVA++ +CKMLVLDEA
+Sbjct  132  SKHIKLKIMVTTGGTDLRDDIMRLNGSVHMVIATPGRILDLMEKGVADMSNCKMLVLDEA  191
+
+Query  189  DKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLG  248
+            DKLLSQDFQG+LDRL+S+LP  RQIMLYSATFP TV  FM+ HM+ PYEINLMEELTLLG
+Sbjct  192  DKLLSQDFQGILDRLISYLPKERQIMLYSATFPMTVTEFMQKHMRKPYEINLMEELTLLG  251
+
+Query  249  VTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            VTQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  252  VTQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  284
+
+
+
+
+>unnamed protein product [Caenorhabditis bovis]
+Sequence ID: CAB3403078.1 Length: 427
+Range 1: 8 to 284
+
+Score:471 bits(1212), Expect:2e-163, 
+Method:Compositional matrix adjust., 
+Identities:222/279(80%), Positives:248/279(88%), Gaps:2/279(0%)
+
+Query  3    VEAQNKTNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSP  62
+            V A N  +D+WK  L LP KD R+KT DVT+T+G++FE+F LSRDLL GIFEKGWE+PSP
+Sbjct  8    VSANN--DDNWKTALVLPPKDRRFKTADVTDTKGVEFEDFCLSRDLLMGIFEKGWEKPSP  65
+
+Query  63   IQEASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTS  122
+            IQEASIG+ALSGQDILARAKNGTGKTGAYCIPVIE++  +   IQALIIVPTRELALQTS
+Sbjct  66   IQEASIGVALSGQDILARAKNGTGKTGAYCIPVIEKIQPALKAIQALIIVPTRELALQTS  125
+
+Query  123  QICVELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKM  182
+            QICVEL KH+GLKVMVTTGGTDLRDDI+RLN  VHL++ATPGRI+DLMEKGVA++ DCK 
+Sbjct  126  QICVELSKHVGLKVMVTTGGTDLRDDIMRLNGTVHLVIATPGRILDLMEKGVAKMDDCKT  185
+
+Query  183  LVLDEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLME  242
+            LVLDEADKLLSQDFQG+LDRL+ FLP  RQ+MLYSATFP TV +FM+ HM  PYEINLME
+Sbjct  186  LVLDEADKLLSQDFQGILDRLIHFLPKERQVMLYSATFPHTVTAFMQKHMHKPYEINLME  245
+
+Query  243  ELTLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            ELTLLGVTQ+YAFV EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  246  ELTLLGVTQYYAFVQEKQKVHCLNTLFRKLQINQSIIFC  284
+
+
+
+
+>hypothetical protein PMAYCL1PPCAC_12668 [Pristionchus mayeri]
+Sequence ID: GMR42473.1 Length: 436
+Range 1: 7 to 280
+
+Score:471 bits(1211), Expect:3e-163, 
+Method:Compositional matrix adjust., 
+Identities:222/274(81%), Positives:247/274(90%), Gaps:2/274(0%)
+
+Query  10   NDD--WKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEAS  67
+            N+D  WK  LQLP KD R+KT DVT T+G+DFE+F L RDLL GIFEKGWE+PSPIQEAS
+Sbjct  7    NEDQSWKQNLQLPPKDKRFKTADVTETKGIDFEDFCLGRDLLMGIFEKGWEKPSPIQEAS  66
+
+Query  68   IGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVE  127
+            IGIA+SGQDILARAKNGTGKTGAYCIPVIE++D +K  IQA+IIVPTRELALQTSQICVE
+Sbjct  67   IGIAMSGQDILARAKNGTGKTGAYCIPVIEKIDPNKKKIQAMIIVPTRELALQTSQICVE  126
+
+Query  128  LGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDE  187
+            L KHI LKVMVTTGGTDLRDDI+RLN  VHL++ATPGRI+DLMEKGVA V++C +LVLDE
+Sbjct  127  LSKHIKLKVMVTTGGTDLRDDIMRLNGTVHLVIATPGRILDLMEKGVANVEECNVLVLDE  186
+
+Query  188  ADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLL  247
+            ADKLLSQDFQGVLDRL++F+P  RQIMLYSATFP TVA FM+ HM+ PYEINLMEELTLL
+Sbjct  187  ADKLLSQDFQGVLDRLIAFMPKQRQIMLYSATFPLTVAEFMKKHMRKPYEINLMEELTLL  246
+
+Query  248  GVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            GVTQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  247  GVTQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  280
+
+
+
+
+>unnamed protein product [Bursaphelenchus okinawaensis]
+Sequence ID: CAD5221139.1 Length: 412
+>unnamed protein product [Bursaphelenchus okinawaensis]
+Sequence ID: CAG9114636.1 Length: 412 
+Range 1: 2 to 273
+
+Score:469 bits(1208), Expect:4e-163, 
+Method:Compositional matrix adjust., 
+Identities:219/272(81%), Positives:246/272(90%), Gaps:0/272(0%)
+
+Query  10   NDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASIG  69
+            +DDWK++LQLP +D R++T DVT T+GL+FE+F LSR+LLKGIFEKGWERPSPIQEASI 
+Sbjct  2    SDDWKSELQLPERDRRFRTADVTETKGLEFEQFGLSRNLLKGIFEKGWERPSPIQEASIA  61
+
+Query  70   IALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVELG  129
+             ALSGQDILARAKNGTGKTGAYCIP IE++D + + IQ LIIVPTRELALQTSQICVEL 
+Sbjct  62   YALSGQDILARAKNGTGKTGAYCIPCIEKIDNTLNAIQGLIIVPTRELALQTSQICVELS  121
+
+Query  130  KHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEAD  189
+            KH+ LKVMVTTGGTDLRDD++RLN  VHLI+ATPGRI+DLM+KGVA+++ CKML+LDEAD
+Sbjct  122  KHLNLKVMVTTGGTDLRDDLMRLNGVVHLIIATPGRILDLMDKGVAKMERCKMLILDEAD  181
+
+Query  190  KLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLGV  249
+            KLLSQDFQ +LDRLV+ LP  RQIMLYSATFPRTVA+FM  HM  PYEINLMEELTLLGV
+Sbjct  182  KLLSQDFQSMLDRLVAHLPEDRQIMLYSATFPRTVATFMTKHMHKPYEINLMEELTLLGV  241
+
+Query  250  TQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            TQFYAFV EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  242  TQFYAFVQEKQKVHCLNTLFRKLQINQSIIFC  273
+
+
+
+
+>unnamed protein product [Angiostrongylus costaricensis]
+Sequence ID: VDM62411.1 Length: 429
+Range 1: 12 to 284
+
+Score:470 bits(1209), Expect:5e-163, 
+Method:Compositional matrix adjust., 
+Identities:218/273(80%), Positives:250/273(91%), Gaps:0/273(0%)
+
+Query  9    TNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASI  68
+            T+++WK+ L LPAKD R+KT DVT+T+G++FE+F LSRDLL GIFEKGWE+PSPIQEASI
+Sbjct  12   TDENWKSGLVLPAKDKRFKTADVTDTKGVEFEDFCLSRDLLMGIFEKGWEKPSPIQEASI  71
+
+Query  69   GIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVEL  128
+            G+ALSGQDILARAKNGTGKTGAYCIPVIE+++     IQAL+IVPTRELALQTSQICVEL
+Sbjct  72   GVALSGQDILARAKNGTGKTGAYCIPVIEKINPGLKKIQALVIVPTRELALQTSQICVEL  131
+
+Query  129  GKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEA  188
+             KHI LK+MVTTGGTDLRDDI+RLN +VH+++ATPGRI+DLMEKGVA++ +CKMLVLDEA
+Sbjct  132  SKHIKLKIMVTTGGTDLRDDIMRLNGSVHMVIATPGRILDLMEKGVADMSNCKMLVLDEA  191
+
+Query  189  DKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLG  248
+            DKLLSQDFQG+LDRL+SFLP  RQIMLYSATFP TV  FM+ HM+ PYEINLMEELTLLG
+Sbjct  192  DKLLSQDFQGILDRLISFLPKERQIMLYSATFPMTVTEFMQKHMRKPYEINLMEELTLLG  251
+
+Query  249  VTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            VTQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  252  VTQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  284
+
+
+
+
+>ATP-dependent RNA helicase cgh-1 [Toxocara canis]
+Sequence ID: KHN80260.1 Length: 437
+>unnamed protein product [Toxocara canis]
+Sequence ID: VDM38220.1 Length: 437 
+Range 1: 1 to 281
+
+Score:469 bits(1206), Expect:2e-162, 
+Method:Compositional matrix adjust., 
+Identities:221/281(79%), Positives:249/281(88%), Gaps:0/281(0%)
+
+Query  1    MAVEAQNKTNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERP  60
+            M+ EA + ++  WK  L++PAKDMRYKT DVT+T+G++FE+F L RDLL GIFEKGWE+P
+Sbjct  1    MSSEAVSHSDHSWKEGLKVPAKDMRYKTADVTDTKGIEFEDFCLKRDLLMGIFEKGWEKP  60
+
+Query  61   SPIQEASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQ  120
+            SPIQEASI IALSGQDILARAKNGTGKTGAYCIP IE++D     IQALIIVPTRELALQ
+Sbjct  61   SPIQEASIAIALSGQDILARAKNGTGKTGAYCIPCIEKIDPELKKIQALIIVPTRELALQ  120
+
+Query  121  TSQICVELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDC  180
+            TSQICVEL KH+ LKVMVTTGGTDLRDDI+RLN  VHL+VATPGRI+DLM+KGVA++  C
+Sbjct  121  TSQICVELSKHLKLKVMVTTGGTDLRDDIMRLNGIVHLVVATPGRILDLMDKGVADMSRC  180
+
+Query  181  KMLVLDEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINL  240
+              LVLDEADKLLSQDFQG+LDR++ FLP  RQIMLYSATFP TVA+FM+ HM+NPYEINL
+Sbjct  181  ATLVLDEADKLLSQDFQGILDRVIKFLPPERQIMLYSATFPLTVATFMQKHMRNPYEINL  240
+
+Query  241  MEELTLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            MEELTLLGVTQFYA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  241  MEELTLLGVTQFYAYVQEKQKVHCLNTLFRKLQINQSIIFC  281
+
+
+
+
+>hypothetical protein Q1695_014152 [Nippostrongylus brasiliensis]
+Sequence ID: WKX99050.1 Length: 559
+Range 1: 142 to 414
+
+Score:473 bits(1217), Expect:2e-162, 
+Method:Compositional matrix adjust., 
+Identities:219/273(80%), Positives:251/273(91%), Gaps:0/273(0%)
+
+Query  9    TNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASI  68
+            T+++WKA L LPAKD R+KT DVT+T+G++FE+F LSRDLL GIFEKGWE+PSPIQEASI
+Sbjct  142  TDENWKAGLVLPAKDKRFKTADVTDTKGVEFEDFCLSRDLLMGIFEKGWEKPSPIQEASI  201
+
+Query  69   GIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVEL  128
+            G+ALSGQDILARAKNGTGKTGAYCIPVIE+++ + + IQAL+IVPTRELALQTSQICVEL
+Sbjct  202  GVALSGQDILARAKNGTGKTGAYCIPVIEKINPNVNKIQALVIVPTRELALQTSQICVEL  261
+
+Query  129  GKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEA  188
+             KHI LK+MVTTGGTDLRDDI+RLN +VH+++ATPGRI+DLMEKGVA++  CKMLVLDEA
+Sbjct  262  SKHIKLKIMVTTGGTDLRDDIMRLNGSVHMVIATPGRILDLMEKGVADMSHCKMLVLDEA  321
+
+Query  189  DKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLG  248
+            DKLLSQDFQG+LDRL+SFLP  RQIMLYSATFP TV  FM+ HM+ PYEINLMEELTLLG
+Sbjct  322  DKLLSQDFQGILDRLISFLPKERQIMLYSATFPMTVTEFMQKHMRKPYEINLMEELTLLG  381
+
+Query  249  VTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            VTQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  382  VTQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  414
+
+
+
+
+>hypothetical protein Angca_003165, partial [Angiostrongylus cantonensis]
+Sequence ID: KAE9417031.1 Length: 417
+Range 1: 1 to 272
+
+Score:468 bits(1203), Expect:3e-162, 
+Method:Compositional matrix adjust., 
+Identities:217/272(80%), Positives:249/272(91%), Gaps:0/272(0%)
+
+Query  10   NDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASIG  69
+            +++WK+ L LPAKD R+KT DVT+T+G++FE+F LSRDLL GIFEKGWE+PSPIQEASIG
+Sbjct  1    DENWKSGLVLPAKDKRFKTADVTDTKGVEFEDFCLSRDLLMGIFEKGWEKPSPIQEASIG  60
+
+Query  70   IALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVELG  129
+            +ALSGQDILARAKNGTGKTGAYCIPVIE+++     IQAL+IVPTRELALQTSQICVEL 
+Sbjct  61   VALSGQDILARAKNGTGKTGAYCIPVIEKINPGIKKIQALVIVPTRELALQTSQICVELS  120
+
+Query  130  KHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEAD  189
+            KHI LK+MVTTGGTDLRDDI+RLN +VH+++ATPGRI+DLMEKGVA++ +CKMLVLDEAD
+Sbjct  121  KHIKLKIMVTTGGTDLRDDIMRLNGSVHMVIATPGRILDLMEKGVADMSNCKMLVLDEAD  180
+
+Query  190  KLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLGV  249
+            KLLSQDFQG+LDRL+SFLP  RQIMLYSATFP TV  FM+ HM+ PYEINLMEELTLLGV
+Sbjct  181  KLLSQDFQGILDRLISFLPKERQIMLYSATFPMTVTEFMQKHMRKPYEINLMEELTLLGV  240
+
+Query  250  TQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            TQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  241  TQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  272
+
+
+
+
+>ATP-dependent RNA helicase cgh-1 [Caenorhabditis elegans]
+Sequence ID: NP_498646.1 Length: 430
+>RecName: Full=ATP-dependent RNA helicase cgh-1; AltName: Full=Conserved germline helicase 1 [Caenorhabditis elegans]
+Sequence ID: Q95YF3.1 Length: 430
+>ATP-dependent RNA helicase cgh-1 [Caenorhabditis elegans]
+Sequence ID: CCD63592.1 Length: 430 
+Range 1: 13 to 287
+
+Score:468 bits(1204), Expect:3e-162, 
+Method:Compositional matrix adjust., 
+Identities:217/275(79%), Positives:247/275(89%), Gaps:0/275(0%)
+
+Query  7    NKTNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEA  66
+            N  +++WKA L LPAKD R+KT DVT+T+G++FE+F L RDLL GIFEKGWE+PSPIQEA
+Sbjct  13   NNGDENWKAGLNLPAKDRRFKTADVTDTKGVEFEDFCLGRDLLMGIFEKGWEKPSPIQEA  72
+
+Query  67   SIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICV  126
+            SIG+AL+GQDILARAKNGTGKTGAYCIPVIE++  +   IQA++IVPTRELALQTSQICV
+Sbjct  73   SIGVALTGQDILARAKNGTGKTGAYCIPVIEKIQPALKAIQAMVIVPTRELALQTSQICV  132
+
+Query  127  ELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLD  186
+            EL KHI LKVMVTTGGTDLRDDI+RLN  VHL++ATPGRI+DLMEKGVA+++ CK LVLD
+Sbjct  133  ELSKHIQLKVMVTTGGTDLRDDIMRLNGTVHLVIATPGRILDLMEKGVAKMEHCKTLVLD  192
+
+Query  187  EADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTL  246
+            EADKLLSQDFQG+LDRL++FLP  RQ+MLYSATFP TV SFM+ HM  PYEINLMEELTL
+Sbjct  193  EADKLLSQDFQGILDRLINFLPKERQVMLYSATFPNTVTSFMQKHMHKPYEINLMEELTL  252
+
+Query  247  LGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            LGVTQ+YAFV EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  253  LGVTQYYAFVQEKQKVHCLNTLFRKLQINQSIIFC  287
+
+
+
+
+>Protein CBR-CGH-1 [Caenorhabditis briggsae]
+Sequence ID: XP_002642614.1 Length: 429
+>hypothetical protein L3Y34_002394 [Caenorhabditis briggsae]
+Sequence ID: ULU02768.1 Length: 429
+>hypothetical protein L5515_005235 [Caenorhabditis briggsae]
+Sequence ID: UMM25389.1 Length: 429
+>Protein CBR-CGH-1 [Caenorhabditis briggsae]
+Sequence ID: CAP28848.1 Length: 429 
+Range 1: 15 to 286
+
+Score:468 bits(1203), Expect:4e-162, 
+Method:Compositional matrix adjust., 
+Identities:216/272(79%), Positives:248/272(91%), Gaps:0/272(0%)
+
+Query  10   NDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASIG  69
+            +++WKA L LPAKD R+KT DVT+T+G++FE+F L RDLL GIFEKGWE+PSPIQEASIG
+Sbjct  15   DENWKAALNLPAKDRRFKTADVTDTKGVEFEDFCLGRDLLMGIFEKGWEKPSPIQEASIG  74
+
+Query  70   IALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVELG  129
+            +AL+GQDILARAKNGTGKTGAYCIPVIE++  +   IQA++IVPTRELALQTSQICVEL 
+Sbjct  75   VALTGQDILARAKNGTGKTGAYCIPVIEKIQPALKAIQAMVIVPTRELALQTSQICVELS  134
+
+Query  130  KHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEAD  189
+            KHI LKVMVTTGGTDLRDDI+RLN  VHL++ATPGRI+DLMEKGVA++++CK LVLDEAD
+Sbjct  135  KHIQLKVMVTTGGTDLRDDIMRLNGTVHLVIATPGRILDLMEKGVAKMENCKTLVLDEAD  194
+
+Query  190  KLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLGV  249
+            KLLSQDFQG+LDRL++FLP  RQIMLYSATFP+TV +FM+ HM  PYEINLMEELTLLGV
+Sbjct  195  KLLSQDFQGILDRLINFLPKERQIMLYSATFPQTVTTFMQKHMHKPYEINLMEELTLLGV  254
+
+Query  250  TQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            TQ+YAFV EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  255  TQYYAFVQEKQKVHCLNTLFRKLQINQSIIFC  286
+
+
+
+
+>CRE-CGH-1 protein [Caenorhabditis remanei]
+Sequence ID: EFP10628.1 Length: 429
+Range 1: 15 to 286
+
+Score:467 bits(1201), Expect:8e-162, 
+Method:Compositional matrix adjust., 
+Identities:216/272(79%), Positives:247/272(90%), Gaps:0/272(0%)
+
+Query  10   NDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASIG  69
+            +++WK+ L LPAKD R+KT DVT+T+G++FE+F L RDLL GIFEKGWE+PSPIQEASIG
+Sbjct  15   DENWKSSLNLPAKDRRFKTADVTDTKGVEFEDFCLGRDLLMGIFEKGWEKPSPIQEASIG  74
+
+Query  70   IALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVELG  129
+            +AL+GQDILARAKNGTGKTGAYCIPVIE++  +   IQA++IVPTRELALQTSQICVEL 
+Sbjct  75   VALTGQDILARAKNGTGKTGAYCIPVIEKIQPALKAIQAMVIVPTRELALQTSQICVELS  134
+
+Query  130  KHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEAD  189
+            KHI LKVMVTTGGTDLRDDI+RLN  VHL++ATPGRI+DLMEKGVA++ +CK LVLDEAD
+Sbjct  135  KHIQLKVMVTTGGTDLRDDIMRLNGTVHLVIATPGRILDLMEKGVAKMDNCKTLVLDEAD  194
+
+Query  190  KLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLGV  249
+            KLLSQDFQG+LDRL++FLP  RQIMLYSATFP+TV SFM+ HM  PYEINLMEELTLLGV
+Sbjct  195  KLLSQDFQGILDRLINFLPKERQIMLYSATFPQTVTSFMQKHMHKPYEINLMEELTLLGV  254
+
+Query  250  TQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            TQ+YAFV EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  255  TQYYAFVQEKQKVHCLNTLFRKLQINQSIIFC  286
+
+
+
+
+>DEAD/DEAH box helicase domain-containing protein [Ditylenchus destructor]
+Sequence ID: KAI1708488.1 Length: 441
+Range 1: 16 to 287
+
+Score:467 bits(1202), Expect:8e-162, 
+Method:Compositional matrix adjust., 
+Identities:217/272(80%), Positives:246/272(90%), Gaps:0/272(0%)
+
+Query  10   NDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASIG  69
+            ++ WK +L LPAKDMR+KT DVTNT+GL+FE+FSL+RDLLKGIFEKGWE PSPIQE SI 
+Sbjct  16   DNSWKNELNLPAKDMRFKTADVTNTKGLEFEQFSLTRDLLKGIFEKGWESPSPIQENSIP  75
+
+Query  70   IALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVELG  129
+            IALSGQDILARAKNGTGKTGAY IP IE++D +   IQA+IIVPTRELALQTSQ+C+EL 
+Sbjct  76   IALSGQDILARAKNGTGKTGAYSIPTIEKIDPNNPVIQAMIIVPTRELALQTSQVCIELS  135
+
+Query  130  KHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEAD  189
+            KH+ LKVMVTTGGTDLRDDILR+N  VHL+VATPGRI+DLM+KGVA V  CKM+VLDEAD
+Sbjct  136  KHLKLKVMVTTGGTDLRDDILRMNGPVHLVVATPGRILDLMDKGVANVSHCKMMVLDEAD  195
+
+Query  190  KLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLGV  249
+            KLLSQDFQGVLDRLV FLP+ RQI+L+SATFP TV SF++ HM+NPYEINLMEELTLLG+
+Sbjct  196  KLLSQDFQGVLDRLVHFLPSDRQILLFSATFPLTVTSFVKKHMRNPYEINLMEELTLLGI  255
+
+Query  250  TQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            TQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  256  TQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  287
+
+
+
+
+>hypothetical protein GCK72_009011 [Caenorhabditis remanei]
+Sequence ID: XP_003099486.2 Length: 429
+>hypothetical protein GCK72_009011 [Caenorhabditis remanei]
+Sequence ID: KAF1760761.1 Length: 429 
+Range 1: 15 to 286
+
+Score:467 bits(1201), Expect:9e-162, 
+Method:Compositional matrix adjust., 
+Identities:216/272(79%), Positives:247/272(90%), Gaps:0/272(0%)
+
+Query  10   NDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASIG  69
+            +++WK+ L LPAKD R+KT DVT+T+G++FE+F L RDLL GIFEKGWE+PSPIQEASIG
+Sbjct  15   DENWKSSLNLPAKDRRFKTADVTDTKGVEFEDFCLGRDLLMGIFEKGWEKPSPIQEASIG  74
+
+Query  70   IALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVELG  129
+            +AL+GQDILARAKNGTGKTGAYCIPVIE++  +   IQA++IVPTRELALQTSQICVEL 
+Sbjct  75   VALTGQDILARAKNGTGKTGAYCIPVIEKIQPALKAIQAMVIVPTRELALQTSQICVELS  134
+
+Query  130  KHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEAD  189
+            KHI LKVMVTTGGTDLRDDI+RLN  VHL++ATPGRI+DLMEKGVA++ +CK LVLDEAD
+Sbjct  135  KHIQLKVMVTTGGTDLRDDIMRLNGTVHLVIATPGRILDLMEKGVAKMDNCKTLVLDEAD  194
+
+Query  190  KLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLGV  249
+            KLLSQDFQG+LDRL++FLP  RQIMLYSATFP+TV SFM+ HM  PYEINLMEELTLLGV
+Sbjct  195  KLLSQDFQGILDRLINFLPKERQIMLYSATFPQTVTSFMQKHMHKPYEINLMEELTLLGV  254
+
+Query  250  TQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            TQ+YAFV EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  255  TQYYAFVQEKQKVHCLNTLFRKLQINQSIIFC  286
+
+
+
+
+>RNA helicase [Aphelenchoides besseyi]
+Sequence ID: KAI6214418.1 Length: 417
+>RNA helicase [Aphelenchoides besseyi]
+Sequence ID: KAI6236128.1 Length: 417 
+Range 1: 7 to 279
+
+Score:466 bits(1199), Expect:1e-161, 
+Method:Compositional matrix adjust., 
+Identities:215/273(79%), Positives:249/273(91%), Gaps:0/273(0%)
+
+Query  9    TNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASI  68
+             +DDWK+QL+LP +D+R+KT DVT+T+GL+FE+F LSR+LLKGIFEKGWE PSPIQEAS+
+Sbjct  7    NDDDWKSQLKLPTRDLRFKTADVTDTKGLNFEQFKLSRELLKGIFEKGWEMPSPIQEASL  66
+
+Query  69   GIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVEL  128
+             ++LSGQD+LARAKNGTGKTGAYCIP IE++D +   IQ LIIVPTRELALQTSQICVEL
+Sbjct  67   DVSLSGQDVLARAKNGTGKTGAYCIPCIEKIDANLPAIQGLIIVPTRELALQTSQICVEL  126
+
+Query  129  GKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEA  188
+             KH+ +K+MVTTGGTDLRDD+LRLN  VH+I+ATPGRI+DLM+KGVA++  CKMLVLDEA
+Sbjct  127  SKHLKIKIMVTTGGTDLRDDLLRLNGTVHMIIATPGRILDLMDKGVAKMDKCKMLVLDEA  186
+
+Query  189  DKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLG  248
+            DKLLSQDFQ +LDRLV+ LPA RQIML+SATFP TVA+FM+ HMKNPYEINLMEELTLLG
+Sbjct  187  DKLLSQDFQSMLDRLVAHLPANRQIMLFSATFPCTVATFMQKHMKNPYEINLMEELTLLG  246
+
+Query  249  VTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            VTQFYAFV EKQKVHCLNTLFRKLQINQ+IIFC
+Sbjct  247  VTQFYAFVQEKQKVHCLNTLFRKLQINQAIIFC  279
+
+
+
+
+>CBN-CGH-1 protein [Caenorhabditis brenneri]
+Sequence ID: EGT56563.1 Length: 430
+Range 1: 16 to 287
+
+Score:466 bits(1199), Expect:2e-161, 
+Method:Compositional matrix adjust., 
+Identities:216/272(79%), Positives:245/272(90%), Gaps:0/272(0%)
+
+Query  10   NDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASIG  69
+            +++WKA L LPAKD R+KT DVT+T+G++FE+F L RDLL GIFEKGWE+PSPIQEASIG
+Sbjct  16   DENWKASLNLPAKDRRFKTADVTDTKGVEFEDFCLGRDLLMGIFEKGWEKPSPIQEASIG  75
+
+Query  70   IALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVELG  129
+            +AL+GQDILARAKNGTGKTGAYCIPVIE++  +   IQA++IVPTRELALQTSQICVEL 
+Sbjct  76   VALTGQDILARAKNGTGKTGAYCIPVIEKIQPALKAIQAMVIVPTRELALQTSQICVELS  135
+
+Query  130  KHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEAD  189
+            KHI LKVMVTTGGTDLRDDI+RLN  VHL++ATPGRI+DLMEKGVA++  CK LVLDEAD
+Sbjct  136  KHIQLKVMVTTGGTDLRDDIMRLNGTVHLVIATPGRILDLMEKGVAKMDHCKTLVLDEAD  195
+
+Query  190  KLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLGV  249
+            KLLSQDFQG+LDRL++FLP  RQIMLYSATFP TV +FM+ HM  PYEINLMEELTLLGV
+Sbjct  196  KLLSQDFQGILDRLINFLPKERQIMLYSATFPNTVTTFMQKHMHKPYEINLMEELTLLGV  255
+
+Query  250  TQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            TQ+YAFV EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  256  TQYYAFVQEKQKVHCLNTLFRKLQINQSIIFC  287
+
+
+
+
+>RNA helicase [Aphelenchoides fujianensis]
+Sequence ID: KAI6217036.1 Length: 405
+Range 1: 7 to 279
+
+Score:465 bits(1196), Expect:2e-161, 
+Method:Compositional matrix adjust., 
+Identities:212/273(78%), Positives:249/273(91%), Gaps:0/273(0%)
+
+Query  9    TNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASI  68
+             ++DWK+QL+LP +D+R+KT DVTNT+G++FE+F LSR+LLKGIFEKGWE PSPIQEAS+
+Sbjct  7    NDEDWKSQLKLPTRDLRFKTADVTNTKGMNFEQFDLSRNLLKGIFEKGWETPSPIQEASL  66
+
+Query  69   GIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVEL  128
+             ++LSGQD+LARAKNGTGKTGAYCIP I+++D S   IQALIIVPTRELALQTSQICVEL
+Sbjct  67   EVSLSGQDVLARAKNGTGKTGAYCIPCIQKIDVSLHAIQALIIVPTRELALQTSQICVEL  126
+
+Query  129  GKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEA  188
+             KH+ +K+MVTTGGTDLR+D+LRLN  VHL++ATPGRI+DLM+KGVA+++ CKML+LDEA
+Sbjct  127  TKHLDIKIMVTTGGTDLREDLLRLNGIVHLVIATPGRILDLMDKGVAKMEKCKMLILDEA  186
+
+Query  189  DKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLG  248
+            DKLLSQDFQ +LDRLV+ LP  RQIML+SATFPRTVA+FM  HM NPYEINLMEELTLLG
+Sbjct  187  DKLLSQDFQSMLDRLVAHLPPTRQIMLFSATFPRTVATFMHKHMNNPYEINLMEELTLLG  246
+
+Query  249  VTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            VTQFYAFV EKQKVHCLNTLFRKLQINQ+IIFC
+Sbjct  247  VTQFYAFVQEKQKVHCLNTLFRKLQINQAIIFC  279
+
+
+
+
+>hypothetical protein M3Y94_00475300 [Aphelenchoides besseyi]
+Sequence ID: KAI6202737.1 Length: 419
+Range 1: 3 to 279
+
+Score:466 bits(1198), Expect:2e-161, 
+Method:Compositional matrix adjust., 
+Identities:213/277(77%), Positives:251/277(90%), Gaps:0/277(0%)
+
+Query  5    AQNKTNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQ  64
+            A +  +DDWK+ L+LP +D+R KT DVTNT+G++FE F +SRDLLKG+FEKGWE+PSPIQ
+Sbjct  3    AAHINDDDWKSHLKLPPRDLRIKTADVTNTKGMNFEHFKISRDLLKGVFEKGWEQPSPIQ  62
+
+Query  65   EASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQI  124
+            EAS+ ++LSGQD+LARAKNGTGKTGAYCIP IE++D +   IQALIIVPTRELALQTSQI
+Sbjct  63   EASLEVSLSGQDVLARAKNGTGKTGAYCIPCIEKIDPTLPAIQALIIVPTRELALQTSQI  122
+
+Query  125  CVELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLV  184
+            CVEL KH+ +K+MVTTGGTDLRDD+LRLN  VH+I+ATPGRI+DLM+KGVA+++ CKMLV
+Sbjct  123  CVELSKHLKIKIMVTTGGTDLRDDLLRLNGTVHMIIATPGRILDLMDKGVAKMEKCKMLV  182
+
+Query  185  LDEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEEL  244
+            LDEADKLLSQDFQ +LDRLV+ LP  RQIML+SATFPRTVA+FM+ HMKNPYEINLMEEL
+Sbjct  183  LDEADKLLSQDFQSMLDRLVAHLPENRQIMLFSATFPRTVATFMQKHMKNPYEINLMEEL  242
+
+Query  245  TLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            TLLGVTQ+YAFV EKQKVHCLNTLFRKL+INQ+IIFC
+Sbjct  243  TLLGVTQYYAFVQEKQKVHCLNTLFRKLKINQAIIFC  279
+
+
+
+
+>unnamed protein product [Cylicocyclus nassatus]
+Sequence ID: CAJ0599460.1 Length: 598
+Range 1: 12 to 284
+
+Score:472 bits(1214), Expect:2e-161, 
+Method:Compositional matrix adjust., 
+Identities:219/273(80%), Positives:251/273(91%), Gaps:0/273(0%)
+
+Query  9    TNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASI  68
+            T+++WKA L LPAKD R+KT DVT+T+G++FE+F LSRDLL GIFEKGWE+PSPIQEASI
+Sbjct  12   TDENWKAGLVLPAKDKRFKTADVTDTKGVEFEDFCLSRDLLMGIFEKGWEKPSPIQEASI  71
+
+Query  69   GIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVEL  128
+            G+ALSGQDILARAKNGTGKTGAYCIPVIE+++ +   IQAL+IVPTRELALQTSQICVEL
+Sbjct  72   GVALSGQDILARAKNGTGKTGAYCIPVIEKINPAIKKIQALVIVPTRELALQTSQICVEL  131
+
+Query  129  GKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEA  188
+             KHI LK+MVTTGGTDLRDDI+RLN AVH+++ATPGRI+DLMEKGVA++ +CKMLVLDEA
+Sbjct  132  SKHIKLKIMVTTGGTDLRDDIMRLNGAVHMVIATPGRILDLMEKGVADMSNCKMLVLDEA  191
+
+Query  189  DKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLG  248
+            DKLLSQDFQG+LDRL+S+LP  RQIMLYSATFP TV  FM+ HM+ PYEINLMEELTLLG
+Sbjct  192  DKLLSQDFQGILDRLISYLPKERQIMLYSATFPMTVTEFMQKHMRKPYEINLMEELTLLG  251
+
+Query  249  VTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            VTQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  252  VTQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  284
+
+
+
+
+>DEAD/DEAH box helicase domain-containing protein [Ditylenchus destructor]
+Sequence ID: KAI1707478.1 Length: 441
+Range 1: 16 to 287
+
+Score:466 bits(1199), Expect:2e-161, 
+Method:Compositional matrix adjust., 
+Identities:216/272(79%), Positives:246/272(90%), Gaps:0/272(0%)
+
+Query  10   NDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASIG  69
+            ++ WK +L LPAKDMR+KT DVTNT+G++FE+FSL+RDLLKGIFEKGWE PSPIQE SI 
+Sbjct  16   DNSWKNELNLPAKDMRFKTADVTNTKGIEFEQFSLTRDLLKGIFEKGWESPSPIQENSIP  75
+
+Query  70   IALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVELG  129
+            IALSGQDILARAKNGTGKTGAY IP IER+D +   IQA+IIVPTRELALQTSQ+C+EL 
+Sbjct  76   IALSGQDILARAKNGTGKTGAYSIPTIERIDPNNPVIQAMIIVPTRELALQTSQVCIELS  135
+
+Query  130  KHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEAD  189
+            KH+ LKVMVTTGGTDLRDDILR+N  VHL+VATPGRI+DLM+KGVA V  CKM+VLDEAD
+Sbjct  136  KHLKLKVMVTTGGTDLRDDILRMNGPVHLVVATPGRILDLMDKGVANVTQCKMMVLDEAD  195
+
+Query  190  KLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLGV  249
+            KLLSQDFQGVLDRLV FLP+ RQI+L+SATFP TV +F++ HM+NPYEINLMEELTLLG+
+Sbjct  196  KLLSQDFQGVLDRLVHFLPSDRQILLFSATFPLTVTTFVKKHMRNPYEINLMEELTLLGI  255
+
+Query  250  TQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            TQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  256  TQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  287
+
+
+
+
+>RNA helicase [Aphelenchoides besseyi]
+Sequence ID: KAI6200726.1 Length: 417
+Range 1: 7 to 279
+
+Score:465 bits(1196), Expect:3e-161, 
+Method:Compositional matrix adjust., 
+Identities:215/273(79%), Positives:249/273(91%), Gaps:0/273(0%)
+
+Query  9    TNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASI  68
+             ++DWK+QL+LP +D+R+KT DVT+T+GL+FE+F LSRDLLKGIFEKGWE PSPIQEAS+
+Sbjct  7    NDEDWKSQLKLPTRDLRFKTADVTDTKGLNFEQFKLSRDLLKGIFEKGWEMPSPIQEASL  66
+
+Query  69   GIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVEL  128
+             ++LSGQD+LARAKNGTGKTGAYCIP IE++D +   IQALIIVPTRELALQTSQICVEL
+Sbjct  67   DVSLSGQDVLARAKNGTGKTGAYCIPCIEKIDPTLPAIQALIIVPTRELALQTSQICVEL  126
+
+Query  129  GKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEA  188
+             KH+ +K+MVTTGGTDLRDD+LRLN  VHLI+ATPGRI+DLM+KGVA++  CKML+LDEA
+Sbjct  127  SKHLKIKIMVTTGGTDLRDDLLRLNGTVHLIIATPGRILDLMDKGVAKMDKCKMLILDEA  186
+
+Query  189  DKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLG  248
+            DKLLSQDFQ +LDRLV+ LP  RQIML+SATFP TVA+FM+ HMKNPYEINLMEELTLLG
+Sbjct  187  DKLLSQDFQSMLDRLVAHLPDNRQIMLFSATFPCTVATFMQKHMKNPYEINLMEELTLLG  246
+
+Query  249  VTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            VTQFYAFV EKQKVHCLNTLFRKLQINQ+IIFC
+Sbjct  247  VTQFYAFVQEKQKVHCLNTLFRKLQINQAIIFC  279
+
+
+
+
+>hypothetical protein B9Z55_011379 [Caenorhabditis nigoni]
+Sequence ID: PIC39805.1 Length: 501
+Range 1: 87 to 358
+
+Score:468 bits(1205), Expect:3e-161, 
+Method:Compositional matrix adjust., 
+Identities:216/272(79%), Positives:248/272(91%), Gaps:0/272(0%)
+
+Query  10   NDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASIG  69
+            +++WKA L LPAKD R+KT DVT+T+G++FE+F L RDLL GIFEKGWE+PSPIQEASIG
+Sbjct  87   DENWKAALNLPAKDRRFKTADVTDTKGVEFEDFCLGRDLLMGIFEKGWEKPSPIQEASIG  146
+
+Query  70   IALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVELG  129
+            +AL+GQDILARAKNGTGKTGAYCIPVIE++  +   IQA++IVPTRELALQTSQICVEL 
+Sbjct  147  VALTGQDILARAKNGTGKTGAYCIPVIEKIQPALKAIQAMVIVPTRELALQTSQICVELS  206
+
+Query  130  KHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEAD  189
+            KHI LKVMVTTGGTDLRDDI+RLN  VHL++ATPGRI+DLMEKGVA++++CK LVLDEAD
+Sbjct  207  KHIQLKVMVTTGGTDLRDDIMRLNGTVHLVIATPGRILDLMEKGVAKMENCKTLVLDEAD  266
+
+Query  190  KLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLGV  249
+            KLLSQDFQG+LDRL++FLP  RQIMLYSATFP+TV +FM+ HM  PYEINLMEELTLLGV
+Sbjct  267  KLLSQDFQGILDRLINFLPKERQIMLYSATFPQTVTTFMQKHMHKPYEINLMEELTLLGV  326
+
+Query  250  TQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            TQ+YAFV EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  327  TQYYAFVQEKQKVHCLNTLFRKLQINQSIIFC  358
+
+
+
+
+>unnamed protein product [Auanema sp. JU1783]
+Sequence ID: CAI4229036.1 Length: 428
+Range 1: 13 to 285
+
+Score:465 bits(1197), Expect:3e-161, 
+Method:Compositional matrix adjust., 
+Identities:216/273(79%), Positives:246/273(90%), Gaps:0/273(0%)
+
+Query  9    TNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASI  68
+            T D+WKA L +P KD R+KT DVT+T+G++FE+F LSRDLL GIFEKGWE+PSPIQEASI
+Sbjct  13   TEDNWKANLNIPDKDRRFKTADVTDTKGVEFEDFCLSRDLLMGIFEKGWEKPSPIQEASI  72
+
+Query  69   GIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVEL  128
+            G+ALSGQDILARAKNGTGKTGAYCIPVIE+++ S + IQALIIVPTRELALQTSQIC+EL
+Sbjct  73   GVALSGQDILARAKNGTGKTGAYCIPVIEKIEPSLNKIQALIIVPTRELALQTSQICIEL  132
+
+Query  129  GKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEA  188
+             KH+ LK+MVTTGGTDLRDDI+RLN  VHL++ATPGRI+DLMEK VA+V  CK LVLDEA
+Sbjct  133  SKHLKLKIMVTTGGTDLRDDIMRLNGPVHLVIATPGRILDLMEKSVADVTKCKTLVLDEA  192
+
+Query  189  DKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLG  248
+            DKLLSQDFQG+LDR++SFLP  RQIMLYSATFP TV  FM+ HM+ PYEINLMEELTL+G
+Sbjct  193  DKLLSQDFQGILDRMISFLPKERQIMLYSATFPMTVTEFMKKHMRKPYEINLMEELTLIG  252
+
+Query  249  VTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            VTQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  253  VTQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  285
+
+
+
+
+>DEAD/DEAH box helicase [Dictyocaulus viviparus]
+Sequence ID: KJH46407.1 Length: 434
+Range 1: 12 to 284
+
+Score:466 bits(1198), Expect:3e-161, 
+Method:Compositional matrix adjust., 
+Identities:217/273(79%), Positives:249/273(91%), Gaps:0/273(0%)
+
+Query  9    TNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASI  68
+            T+++WK+ L +PAKD R+KT DVT+T+G++FE+F LSRDLL GIFEKGWE+PSPIQEASI
+Sbjct  12   TDENWKSSLVIPAKDKRFKTADVTDTKGVEFEDFCLSRDLLMGIFEKGWEKPSPIQEASI  71
+
+Query  69   GIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVEL  128
+            G+ALSGQDILARAKNGTGKTGAYCIPVIE+++ +   IQAL+IVPTRELALQTSQICVEL
+Sbjct  72   GVALSGQDILARAKNGTGKTGAYCIPVIEKINPAIKKIQALVIVPTRELALQTSQICVEL  131
+
+Query  129  GKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEA  188
+             KHI LK+MVTTGGTDLRDDI+RLN +VH+++ATPGRI+DLMEKGVA++  CKMLVLDEA
+Sbjct  132  SKHIKLKIMVTTGGTDLRDDIMRLNGSVHMVIATPGRILDLMEKGVADMSHCKMLVLDEA  191
+
+Query  189  DKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLG  248
+            DKLLSQDFQG+LDRL+SFL   RQIMLYSATFP TV  FM+ HM+ PYEINLMEELTLLG
+Sbjct  192  DKLLSQDFQGILDRLISFLLKERQIMLYSATFPMTVTEFMQKHMRKPYEINLMEELTLLG  251
+
+Query  249  VTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            VTQ+YAFV EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  252  VTQYYAFVQEKQKVHCLNTLFRKLQINQSIIFC  284
+
+
+
+
+>hypothetical protein B9Z55_011379 [Caenorhabditis nigoni]
+Sequence ID: PIC39804.1 Length: 473
+Range 1: 59 to 330
+
+Score:467 bits(1202), Expect:3e-161, 
+Method:Compositional matrix adjust., 
+Identities:216/272(79%), Positives:248/272(91%), Gaps:0/272(0%)
+
+Query  10   NDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASIG  69
+            +++WKA L LPAKD R+KT DVT+T+G++FE+F L RDLL GIFEKGWE+PSPIQEASIG
+Sbjct  59   DENWKAALNLPAKDRRFKTADVTDTKGVEFEDFCLGRDLLMGIFEKGWEKPSPIQEASIG  118
+
+Query  70   IALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVELG  129
+            +AL+GQDILARAKNGTGKTGAYCIPVIE++  +   IQA++IVPTRELALQTSQICVEL 
+Sbjct  119  VALTGQDILARAKNGTGKTGAYCIPVIEKIQPALKAIQAMVIVPTRELALQTSQICVELS  178
+
+Query  130  KHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEAD  189
+            KHI LKVMVTTGGTDLRDDI+RLN  VHL++ATPGRI+DLMEKGVA++++CK LVLDEAD
+Sbjct  179  KHIQLKVMVTTGGTDLRDDIMRLNGTVHLVIATPGRILDLMEKGVAKMENCKTLVLDEAD  238
+
+Query  190  KLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLGV  249
+            KLLSQDFQG+LDRL++FLP  RQIMLYSATFP+TV +FM+ HM  PYEINLMEELTLLGV
+Sbjct  239  KLLSQDFQGILDRLINFLPKERQIMLYSATFPQTVTTFMQKHMHKPYEINLMEELTLLGV  298
+
+Query  250  TQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            TQ+YAFV EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  299  TQYYAFVQEKQKVHCLNTLFRKLQINQSIIFC  330
+
+
+
+
+>unnamed protein product, partial [Mesorhabditis belari]
+Sequence ID: CAJ0942156.1 Length: 430
+Range 1: 3 to 284
+
+Score:465 bits(1197), Expect:4e-161, 
+Method:Compositional matrix adjust., 
+Identities:223/282(79%), Positives:245/282(86%), Gaps:2/282(0%)
+
+Query  2    AVEAQNKTNDD--WKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWER  59
+            A   +N  NDD  WK+ L+LP KD R KT DVTNT+G++FE+F LSRDLL GIFEKGWE+
+Sbjct  3    ATTTENPVNDDASWKSNLKLPPKDNRVKTADVTNTKGVEFEDFCLSRDLLMGIFEKGWEK  62
+
+Query  60   PSPIQEASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELAL  119
+            PSPIQEASI IALSGQDILARAKNGTGKTGAYCIPVIE++D +   IQ LIIVPTRELAL
+Sbjct  63   PSPIQEASIAIALSGQDILARAKNGTGKTGAYCIPVIEKIDPNLKKIQTLIIVPTRELAL  122
+
+Query  120  QTSQICVELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQD  179
+            QTSQICVEL KHI LKVMVTTGGTDLRDDI+RLN  VHL++ATPGRI+DLMEKGVA+V  
+Sbjct  123  QTSQICVELSKHIKLKVMVTTGGTDLRDDIMRLNGVVHLVIATPGRILDLMEKGVADVTS  182
+
+Query  180  CKMLVLDEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEIN  239
+            CK LVLDEADKLLSQDFQGVLDRL+++LP   QIMLYSATFP TV  FM  HM+ PYEIN
+Sbjct  183  CKTLVLDEADKLLSQDFQGVLDRLIAYLPKQPQIMLYSATFPITVTEFMSKHMRKPYEIN  242
+
+Query  240  LMEELTLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            LMEELTLLGVTQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  243  LMEELTLLGVTQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  284
+
+
+
+
+>unnamed protein product [Caenorhabditis angaria]
+Sequence ID: CAI5445062.1 Length: 430
+Range 1: 12 to 286
+
+Score:465 bits(1197), Expect:4e-161, 
+Method:Compositional matrix adjust., 
+Identities:218/275(79%), Positives:246/275(89%), Gaps:1/275(0%)
+
+Query  8    KTNDD-WKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEA  66
+            ++ND+ WK  L LP KD R+KT DVT+T+G++FE+F LSRDLL GIFEKGWE+PSPIQEA
+Sbjct  12   QSNDEGWKTALNLPPKDRRFKTADVTDTKGVEFEDFCLSRDLLMGIFEKGWEKPSPIQEA  71
+
+Query  67   SIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICV  126
+            SIG+ALSGQDILARAKNGTGKTGAYCIPVIE++  +   IQA+IIVPTRELALQTSQICV
+Sbjct  72   SIGVALSGQDILARAKNGTGKTGAYCIPVIEKIQPALKAIQAMIIVPTRELALQTSQICV  131
+
+Query  127  ELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLD  186
+            EL KHI LKVMVTTGGTDLRDDI+RLN  VHL++ATPGRI+DLMEKGVA++ DCK +VLD
+Sbjct  132  ELSKHIQLKVMVTTGGTDLRDDIMRLNGTVHLVIATPGRILDLMEKGVAKMDDCKTIVLD  191
+
+Query  187  EADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTL  246
+            EADKLLSQDFQG+LDRL++FLP  RQ+MLYSATFP+TV  FM  HM  PYEINLMEELTL
+Sbjct  192  EADKLLSQDFQGILDRLINFLPKERQVMLYSATFPQTVTQFMAKHMHKPYEINLMEELTL  251
+
+Query  247  LGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            LGVTQ+YAFV EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  252  LGVTQYYAFVQEKQKVHCLNTLFRKLQINQSIIFC  286
+
+
+
+
+>hypothetical protein WR25_23421 [Diploscapter pachys]
+Sequence ID: PAV62788.1 Length: 425
+Range 1: 9 to 280
+
+Score:465 bits(1196), Expect:4e-161, 
+Method:Compositional matrix adjust., 
+Identities:216/272(79%), Positives:246/272(90%), Gaps:0/272(0%)
+
+Query  10   NDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASIG  69
+            +D+WK +L LPAKD R++T DVT T+G++FE+F LSR+LL GIFEKGWE+PSPIQEASIG
+Sbjct  9    DDNWKTKLNLPAKDRRFRTADVTETKGVEFEDFCLSRNLLMGIFEKGWEKPSPIQEASIG  68
+
+Query  70   IALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVELG  129
+            +ALSGQDILARAKNGTGKTGAYCIPVIE+++     IQA+IIVPTRELALQTSQIC+EL 
+Sbjct  69   VALSGQDILARAKNGTGKTGAYCIPVIEKINPELKKIQAMIIVPTRELALQTSQICIELS  128
+
+Query  130  KHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEAD  189
+            KHIGLKVMVTTGGTDLR+DI+RL+ AVHLI+ATPGRI+DLMEKG+A+ + CK LVLDEAD
+Sbjct  129  KHIGLKVMVTTGGTDLREDIMRLSQAVHLIIATPGRILDLMEKGIADCKFCKTLVLDEAD  188
+
+Query  190  KLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLGV  249
+            KLLSQDFQG+LDRL+ FLP  RQ+MLYSATFP TV  FME HM+ PYEINLMEELTLLGV
+Sbjct  189  KLLSQDFQGILDRLIEFLPKERQVMLYSATFPHTVTVFMEKHMRKPYEINLMEELTLLGV  248
+
+Query  250  TQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            TQ+YAFV EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  249  TQYYAFVQEKQKVHCLNTLFRKLQINQSIIFC  280
+
+
+
+
+>unnamed protein product [Caenorhabditis auriculariae]
+Sequence ID: CAD6188436.1 Length: 427
+Range 1: 12 to 284
+
+Score:464 bits(1195), Expect:6e-161, 
+Method:Compositional matrix adjust., 
+Identities:216/273(79%), Positives:244/273(89%), Gaps:0/273(0%)
+
+Query  9    TNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASI  68
+            T+++WK  L LP KD R+KT DVT+T+G++FE+F LSRDLL GIFEKGWE+PSPIQEASI
+Sbjct  12   TDENWKTALALPPKDRRFKTADVTDTKGVEFEDFCLSRDLLMGIFEKGWEKPSPIQEASI  71
+
+Query  69   GIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVEL  128
+            G+ALSGQDILARAKNGTGKTGAYCIPV+E++  S   IQALIIVPTRELALQTSQICVEL
+Sbjct  72   GVALSGQDILARAKNGTGKTGAYCIPVLEKIQNSLKKIQALIIVPTRELALQTSQICVEL  131
+
+Query  129  GKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEA  188
+             KHI LKVMVTTGGTDLRDDI+RLN  VHL++ATPGRI+DLMEKGVA++ +CK +VLDEA
+Sbjct  132  SKHIQLKVMVTTGGTDLRDDIMRLNGTVHLVIATPGRILDLMEKGVADMSNCKTIVLDEA  191
+
+Query  189  DKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLG  248
+            DKLLSQDFQG+LDR++ FLP  RQ+MLYSATFP TV  FM+ HM  PYEINLMEELTLLG
+Sbjct  192  DKLLSQDFQGILDRMIEFLPKERQVMLYSATFPHTVTEFMQKHMHKPYEINLMEELTLLG  251
+
+Query  249  VTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            VTQ+YAFV EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  252  VTQYYAFVQEKQKVHCLNTLFRKLQINQSIIFC  284
+
+
+
+
+>hypothetical protein WR25_20970 [Diploscapter pachys]
+Sequence ID: PAV68791.1 Length: 425
+Range 1: 9 to 280
+
+Score:464 bits(1194), Expect:9e-161, 
+Method:Compositional matrix adjust., 
+Identities:216/272(79%), Positives:245/272(90%), Gaps:0/272(0%)
+
+Query  10   NDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASIG  69
+            +D+WK +L LPAKD R++T DVT T+G++FE+F LSR+LL GIFEKGWE+PSPIQEASIG
+Sbjct  9    DDNWKTKLNLPAKDRRFRTADVTETKGVEFEDFCLSRNLLMGIFEKGWEKPSPIQEASIG  68
+
+Query  70   IALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVELG  129
+            +ALSGQDILARAKNGTGKTGAYCIPVIE+++     IQA+IIVPTRELALQTSQIC+EL 
+Sbjct  69   VALSGQDILARAKNGTGKTGAYCIPVIEKINPELKKIQAMIIVPTRELALQTSQICIELS  128
+
+Query  130  KHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEAD  189
+            KHIGLKVMVTTGGTDLR+DI+RLN AVHLI+ATPGRI+DLMEKG+A+ + CK LVLDEAD
+Sbjct  129  KHIGLKVMVTTGGTDLREDIMRLNQAVHLIIATPGRILDLMEKGIADCKLCKTLVLDEAD  188
+
+Query  190  KLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLGV  249
+            KLLSQDFQG+LDRL+ FLP  RQ+MLYSATFP TV  FME HM+ PYEINLMEEL LLGV
+Sbjct  189  KLLSQDFQGILDRLIEFLPKERQVMLYSATFPHTVTIFMEKHMRKPYEINLMEELALLGV  248
+
+Query  250  TQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            TQ+YAFV EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  249  TQYYAFVQEKQKVHCLNTLFRKLQINQSIIFC  280
+
+
+
+
+>unnamed protein product [Enterobius vermicularis]
+Sequence ID: VDD85896.1 Length: 434
+Range 1: 1 to 281
+
+Score:464 bits(1194), Expect:1e-160, 
+Method:Compositional matrix adjust., 
+Identities:220/281(78%), Positives:245/281(87%), Gaps:0/281(0%)
+
+Query  1    MAVEAQNKTNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERP  60
+            M+V+ Q + +  WK +L LPAKD RYKT DVT+T+G++FE+F L RDLL GIFEKGWE+P
+Sbjct  1    MSVDTQTQPDHSWKTKLNLPAKDRRYKTADVTDTKGIEFEDFCLKRDLLMGIFEKGWEKP  60
+
+Query  61   SPIQEASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQ  120
+            SPIQEASI IALSGQDILARAKNGTGKTGAYCIP IE +      IQALIIVPTRELALQ
+Sbjct  61   SPIQEASIAIALSGQDILARAKNGTGKTGAYCIPCIETIKPELPKIQALIIVPTRELALQ  120
+
+Query  121  TSQICVELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDC  180
+            TSQICVEL KH+ LK+MVTTGGTDLRDDI+RLN  VHLIVATPGRI+DLM KGVA + +C
+Sbjct  121  TSQICVELSKHLKLKIMVTTGGTDLRDDIMRLNGVVHLIVATPGRILDLMNKGVAVMSEC  180
+
+Query  181  KMLVLDEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINL  240
+              LVLDEADKLLSQDFQGVLDR++ FLP  RQIMLYSATFP TV++FM+ HMKNPYEINL
+Sbjct  181  SKLVLDEADKLLSQDFQGVLDRVIKFLPPNRQIMLYSATFPLTVSTFMQKHMKNPYEINL  240
+
+Query  241  MEELTLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            MEELTLLGVTQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  241  MEELTLLGVTQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  281
+
+
+
+
+>unnamed protein product [Caenorhabditis sp. 36 PRJEB53466]
+Sequence ID: CAI2348934.1 Length: 430
+Range 1: 13 to 287
+
+Score:463 bits(1192), Expect:2e-160, 
+Method:Compositional matrix adjust., 
+Identities:214/275(78%), Positives:245/275(89%), Gaps:0/275(0%)
+
+Query  7    NKTNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEA  66
+            N  +++WK+ L LPAKD R+KT DVT+T+G++FE+F L RDLL GIFEKGWE+PSPIQEA
+Sbjct  13   NNGDENWKSALNLPAKDRRFKTADVTDTKGVEFEDFCLGRDLLMGIFEKGWEKPSPIQEA  72
+
+Query  67   SIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICV  126
+            SIG+AL+GQDILARAKNGTGKTGAYCIPVIE++  +   IQA++IVPTRELALQTSQICV
+Sbjct  73   SIGVALTGQDILARAKNGTGKTGAYCIPVIEKIQPAIKAIQAVVIVPTRELALQTSQICV  132
+
+Query  127  ELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLD  186
+            EL KHI LKVMVTTGGTDLRDDI+RLN  VH+++ATPGRI+DLMEKGVA++  CK LVLD
+Sbjct  133  ELSKHIQLKVMVTTGGTDLRDDIMRLNGTVHMVIATPGRILDLMEKGVAKMDQCKTLVLD  192
+
+Query  187  EADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTL  246
+            EADKLLSQDFQG+LDRL+ FLP  RQ+MLYSATFP TV +FM+ HM  PYEINLMEELTL
+Sbjct  193  EADKLLSQDFQGILDRLIHFLPKERQVMLYSATFPHTVTAFMQKHMHKPYEINLMEELTL  252
+
+Query  247  LGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            LGVTQ+YAFV EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  253  LGVTQYYAFVQEKQKVHCLNTLFRKLQINQSIIFC  287
+
+
+
+
+>RNA helicase [Aphelenchoides besseyi]
+Sequence ID: KAI6178002.1 Length: 419
+>RNA helicase [Aphelenchoides besseyi]
+Sequence ID: KAI6207420.1 Length: 419 
+Range 1: 7 to 279
+
+Score:463 bits(1191), Expect:2e-160, 
+Method:Compositional matrix adjust., 
+Identities:211/273(77%), Positives:249/273(91%), Gaps:0/273(0%)
+
+Query  9    TNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASI  68
+             +DDWK+ L+LP +D+R KT DVT+T+G++FE F +SRDLLKG+FEKGWE+PSPIQEAS+
+Sbjct  7    NDDDWKSHLKLPPRDLRIKTADVTDTKGMNFEHFKISRDLLKGVFEKGWEQPSPIQEASL  66
+
+Query  69   GIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVEL  128
+             ++LSGQD+LARAKNGTGKTGAYCIP IE++D +   IQALIIVPTRELALQTSQICVEL
+Sbjct  67   EVSLSGQDVLARAKNGTGKTGAYCIPCIEKIDPTLPAIQALIIVPTRELALQTSQICVEL  126
+
+Query  129  GKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEA  188
+             KH+ +K+MVTTGGTDLRDD+LRLN  VH+I+ATPGRI+DLM+KGVA+++ CKMLVLDEA
+Sbjct  127  SKHLKIKIMVTTGGTDLRDDLLRLNGTVHMIIATPGRILDLMDKGVAKMEKCKMLVLDEA  186
+
+Query  189  DKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLG  248
+            DKLLSQDFQ +LDRLV+ LP  RQIML+SATFPRTVA+FM+ HMKNPYEINLMEELTLLG
+Sbjct  187  DKLLSQDFQSMLDRLVAHLPENRQIMLFSATFPRTVATFMQKHMKNPYEINLMEELTLLG  246
+
+Query  249  VTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            VTQ+YAFV EKQKVHCLNTLFRKL+INQ+IIFC
+Sbjct  247  VTQYYAFVQEKQKVHCLNTLFRKLKINQAIIFC  279
+
+
+
+
+>RNA helicase [Aphelenchoides bicaudatus]
+Sequence ID: KAI6176249.1 Length: 417
+Range 1: 7 to 279
+
+Score:461 bits(1186), Expect:1e-159, 
+Method:Compositional matrix adjust., 
+Identities:214/273(78%), Positives:245/273(89%), Gaps:0/273(0%)
+
+Query  9    TNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASI  68
+             +DDWK QL+LPA+D+RY+T DVT T+G  FE+FSLSRDLLKGIFEKGWE PSPIQEAS+
+Sbjct  7    NDDDWKTQLKLPARDLRYRTADVTQTKGQTFEDFSLSRDLLKGIFEKGWEAPSPIQEASL  66
+
+Query  69   GIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVEL  128
+             +AL GQDILARAKNGTGKTGAYCIP +E+++T    IQALI+VPTRELALQTSQICVEL
+Sbjct  67   DVALKGQDILARAKNGTGKTGAYCIPCLEKINTDLAVIQALILVPTRELALQTSQICVEL  126
+
+Query  129  GKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEA  188
+             KH+ +K+MVTTGGTDLRDD+LRLN+ VHLI+ATPGRI+DLM+KGVA++ +C ML+LDEA
+Sbjct  127  SKHLKIKIMVTTGGTDLRDDLLRLNATVHLIIATPGRILDLMDKGVAKMDNCNMLILDEA  186
+
+Query  189  DKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLG  248
+            DKLLSQDFQ +LDRLV+ LP  RQIMLYSATFPRTVA+FM  HM  P+EINLMEELTLLG
+Sbjct  187  DKLLSQDFQLMLDRLVAHLPKKRQIMLYSATFPRTVATFMAKHMHTPFEINLMEELTLLG  246
+
+Query  249  VTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            VTQFYAFV EKQKVHCLNTLFRKLQINQ+IIFC
+Sbjct  247  VTQFYAFVQEKQKVHCLNTLFRKLQINQAIIFC  279
+
+
+
+
+>unnamed protein product [Bursaphelenchus xylophilus]
+Sequence ID: CAD5227973.1 Length: 711
+>unnamed protein product [Bursaphelenchus xylophilus]
+Sequence ID: CAG9118382.1 Length: 711 
+Range 1: 303 to 573
+
+Score:469 bits(1208), Expect:7e-159, 
+Method:Compositional matrix adjust., 
+Identities:217/271(80%), Positives:246/271(90%), Gaps:0/271(0%)
+
+Query  11   DDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASIGI  70
+            + WK+ L LP +D R++T DVT T+G++FE+F LSR+LLKGIFEKGWERPSPIQEASI  
+Sbjct  303  ESWKSSLVLPERDRRFRTADVTETKGIEFEQFGLSRNLLKGIFEKGWERPSPIQEASIAY  362
+
+Query  71   ALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVELGK  130
+            ALSGQDILARAKNGTGKTGAYCIP IE++D+S + IQ LIIVPTRELALQTSQICVEL K
+Sbjct  363  ALSGQDILARAKNGTGKTGAYCIPCIEKIDSSINAIQGLIIVPTRELALQTSQICVELSK  422
+
+Query  131  HIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEADK  190
+            H+ LKVMVTTGGTDLRDD++RLN  VHLI+ATPGRI+DLM+KGVA++++CKML+LDEADK
+Sbjct  423  HLSLKVMVTTGGTDLRDDLMRLNGVVHLIIATPGRILDLMDKGVAKMENCKMLILDEADK  482
+
+Query  191  LLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLGVT  250
+            LLSQDFQ +LDRLV+ LPA RQIMLYSATFPRTVA+FM  HMK PYE+NLMEELTLLGVT
+Sbjct  483  LLSQDFQSMLDRLVAHLPADRQIMLYSATFPRTVATFMNKHMKKPYEVNLMEELTLLGVT  542
+
+Query  251  QFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            QFYAFV EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  543  QFYAFVQEKQKVHCLNTLFRKLQINQSIIFC  573
+
+
+
+
+>hypothetical protein QR680_013082 [Steinernema hermaphroditum]
+Sequence ID: KAK0417563.1 Length: 432
+Range 1: 8 to 285
+
+Score:455 bits(1170), Expect:5e-157, 
+Method:Compositional matrix adjust., 
+Identities:214/278(77%), Positives:244/278(87%), Gaps:2/278(0%)
+
+Query  6    QNKTNDD--WKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPI  63
+            Q  +++D  WK  L LPAKD+RYKT DVT+T+G+DFE+F L RDLL GIFEKGWE+PSPI
+Sbjct  8    QQSSSEDGLWKQGLNLPAKDLRYKTADVTDTKGIDFEDFHLKRDLLMGIFEKGWEKPSPI  67
+
+Query  64   QEASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQ  123
+            QEASI +ALSGQDILARAKNGTGKTGAY IP IE++D SK  +QA+I+VPTRELALQTSQ
+Sbjct  68   QEASIPVALSGQDILARAKNGTGKTGAYSIPCIEKVDPSKPYLQAMIVVPTRELALQTSQ  127
+
+Query  124  ICVELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKML  183
+            ICVEL KH+ LKVMVTTGGTDLRDDI+R N  VH++VATPGRI+DL+EK VA  ++C  L
+Sbjct  128  ICVELSKHLKLKVMVTTGGTDLRDDIMRFNGIVHIVVATPGRILDLLEKRVASAENCNTL  187
+
+Query  184  VLDEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEE  243
+            VLDEADKLLSQDFQG+LD+L++F P  RQIMLYSATFPRTVASFM+ HMK PYEINLMEE
+Sbjct  188  VLDEADKLLSQDFQGILDKLIAFFPLERQIMLYSATFPRTVASFMQKHMKKPYEINLMEE  247
+
+Query  244  LTLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            LTLLGVTQ+YA+V EKQKVHCLNTLFRKL INQSIIFC
+Sbjct  248  LTLLGVTQYYAYVQEKQKVHCLNTLFRKLNINQSIIFC  285
+
+
+
+
+>unnamed protein product [Bursaphelenchus okinawaensis]
+Sequence ID: CAD5219018.1 Length: 416
+>unnamed protein product [Bursaphelenchus okinawaensis]
+Sequence ID: CAG9112283.1 Length: 416 
+Range 1: 8 to 279
+
+Score:453 bits(1166), Expect:1e-156, 
+Method:Compositional matrix adjust., 
+Identities:210/272(77%), Positives:242/272(88%), Gaps:0/272(0%)
+
+Query  10   NDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASIG  69
+            N+DWK  L+LP KD+R KT DVT+T+GL+FEEF LSRDLL+GIFEKGW++PSPIQE ++ 
+Sbjct  8    NEDWKKDLKLPPKDLRRKTADVTSTKGLEFEEFGLSRDLLRGIFEKGWDKPSPIQEGTVK  67
+
+Query  70   IALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVELG  129
+             AL+GQDILARAKNGTGKTGAYCIPVI+++D + + IQ LI+VPTRELALQTSQICVEL 
+Sbjct  68   AALAGQDILARAKNGTGKTGAYCIPVIQKIDLTLNAIQGLIVVPTRELALQTSQICVELS  127
+
+Query  130  KHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEAD  189
+            +H+ LKVMVTTGGTDLRDD++RLN  VHLI+ATPGRI+DLM+KGVA++  CKMLVLDEAD
+Sbjct  128  RHLNLKVMVTTGGTDLRDDLMRLNGVVHLIIATPGRILDLMDKGVAKMAKCKMLVLDEAD  187
+
+Query  190  KLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLGV  249
+            KLLSQDFQ +LDRLV  LP  RQIMLYSATFPR+VA+FM  HM N YE+NLMEELTLLGV
+Sbjct  188  KLLSQDFQSMLDRLVDHLPNDRQIMLYSATFPRSVATFMNKHMTNRYEVNLMEELTLLGV  247
+
+Query  250  TQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            TQ+YAFV E QKVHCLNTLFRKLQINQSIIFC
+Sbjct  248  TQYYAFVQETQKVHCLNTLFRKLQINQSIIFC  279
+
+
+
+
+>RNA helicase [Aphelenchoides fujianensis]
+Sequence ID: KAI6241079.1 Length: 387
+Range 1: 12 to 287
+
+Score:452 bits(1162), Expect:2e-156, 
+Method:Compositional matrix adjust., 
+Identities:208/276(75%), Positives:245/276(88%), Gaps:0/276(0%)
+
+Query  6    QNKTNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQE  65
+            Q +  +DWK  L+LP +D+R+KT DVT T+GL F+ F +SR+LLKGIFEKGWE PSPIQE
+Sbjct  12   QQQDGEDWKKDLKLPPRDLRFKTKDVTETQGLTFDHFGVSRNLLKGIFEKGWEMPSPIQE  71
+
+Query  66   ASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQIC  125
+            AS+  ALSG+DILARAKNGTGKTGAYCIP I+++D + + IQALIIVPTRELALQTSQIC
+Sbjct  72   ASLEAALSGKDILARAKNGTGKTGAYCIPCIQKIDPAVNAIQALIIVPTRELALQTSQIC  131
+
+Query  126  VELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVL  185
+            VEL KH+ +K+MVTTGGTDLRDD+LRLN  VHL++ATPGRI+DLM+KGVA +++CKMLVL
+Sbjct  132  VELTKHMSIKIMVTTGGTDLRDDLLRLNGVVHLVIATPGRILDLMDKGVAHMENCKMLVL  191
+
+Query  186  DEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELT  245
+            DEADKLLSQDFQ +LDRLV+ +P  RQI+LYSATFPRTVA+FM+ HM  P+EINLMEELT
+Sbjct  192  DEADKLLSQDFQSMLDRLVAHMPPNRQILLYSATFPRTVATFMQKHMDKPHEINLMEELT  251
+
+Query  246  LLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            LLGVTQ+YAFV EKQKVHCLNTLFRKLQINQ+IIFC
+Sbjct  252  LLGVTQYYAFVQEKQKVHCLNTLFRKLQINQAIIFC  287
+
+
+
+
+>Probable ATP-dependent RNA helicase DDX6 [Strongyloides ratti]
+Sequence ID: XP_024503575.1 Length: 433
+>Probable ATP-dependent RNA helicase DDX6 [Strongyloides ratti]
+Sequence ID: CEF64374.1 Length: 433 
+Range 1: 1 to 281
+
+Score:452 bits(1163), Expect:6e-156, 
+Method:Compositional matrix adjust., 
+Identities:209/281(74%), Positives:245/281(87%), Gaps:0/281(0%)
+
+Query  1    MAVEAQNKTNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERP  60
+            M+V   +  ND+WK  L+LPAKD+RY+T DVT T+G++FE+F L R+LLKGIFEKGWE+P
+Sbjct  1    MSVVKSDNQNDEWKKDLKLPAKDLRYRTKDVTETKGIEFEDFCLKRELLKGIFEKGWEKP  60
+
+Query  61   SPIQEASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQ  120
+            SPIQEASI +ALSGQDILARAKNGTGKTGAYCIP +E++D + D IQA+I+VPTRELALQ
+Sbjct  61   SPIQEASIAVALSGQDILARAKNGTGKTGAYCIPCVEKIDPTVDSIQAIIVVPTRELALQ  120
+
+Query  121  TSQICVELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDC  180
+            TSQICVEL KH+ +KVMVTTGGT L DDI+RLN  VHL+VATPGR++DL+EK +A+V  C
+Sbjct  121  TSQICVELCKHLPIKVMVTTGGTVLSDDIMRLNGTVHLVVATPGRVLDLIEKKIAKVDKC  180
+
+Query  181  KMLVLDEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINL  240
+              +VLDEADKLLSQDFQG+LDRL+  LP GRQIMLYSATFP TV  FM+ HMK PYEINL
+Sbjct  181  NTIVLDEADKLLSQDFQGILDRLIESLPKGRQIMLYSATFPLTVEQFMKQHMKRPYEINL  240
+
+Query  241  MEELTLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            M+ELTLLGVTQ+YA+V EKQKVHCLNTLFRKL+INQSIIFC
+Sbjct  241  MDELTLLGVTQYYAYVQEKQKVHCLNTLFRKLRINQSIIFC  281
+
+
+
+
+>unnamed protein product [Thelazia callipaeda]
+Sequence ID: VDN02728.1 Length: 432
+Range 1: 1 to 281
+
+Score:451 bits(1159), Expect:3e-155, 
+Method:Compositional matrix adjust., 
+Identities:209/281(74%), Positives:243/281(86%), Gaps:0/281(0%)
+
+Query  1    MAVEAQNKTNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERP  60
+            M  E  ++ +  WK  L LPAKD+R+KT DVT+T+G+DFE+F L R LL GIFEKGWE+P
+Sbjct  1    MTSETDSQNDHAWKENLNLPAKDLRFKTSDVTDTKGIDFEDFCLKRALLMGIFEKGWEKP  60
+
+Query  61   SPIQEASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQ  120
+            SPIQEASI IALSGQDILARAKNGTGKTGAYCIP IE++D S    Q+LI+VPTRELA Q
+Sbjct  61   SPIQEASIAIALSGQDILARAKNGTGKTGAYCIPCIEKIDASVKYPQSLIVVPTRELAFQ  120
+
+Query  121  TSQICVELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDC  180
+            TS ICV+L KH+ LKVMVTTGGT+LR+DI+RLN  VH+IVATPGRI+DLM+K VA++  C
+Sbjct  121  TSNICVDLSKHMNLKVMVTTGGTELRNDIMRLNGTVHIIVATPGRILDLMDKNVADMSHC  180
+
+Query  181  KMLVLDEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINL  240
+              LVLDEADKLLSQDFQG+LDR++ FLP+ RQIMLYSATFP TVA+FM+ HM+NPYEINL
+Sbjct  181  TTLVLDEADKLLSQDFQGILDRVIKFLPSDRQIMLYSATFPLTVATFMQKHMRNPYEINL  240
+
+Query  241  MEELTLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            MEELTL+GVTQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  241  MEELTLVGVTQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  281
+
+
+
+
+>ATP-dependent RNA helicase cgh-1 [Loa loa]
+Sequence ID: XP_020303523.1 Length: 432
+>ATP-dependent RNA helicase cgh-1 [Loa loa]
+Sequence ID: EFO25790.1 Length: 432 
+Range 1: 1 to 281
+
+Score:449 bits(1155), Expect:8e-155, 
+Method:Compositional matrix adjust., 
+Identities:207/281(74%), Positives:244/281(86%), Gaps:0/281(0%)
+
+Query  1    MAVEAQNKTNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERP  60
+            M  + +++++  WK  L LPAKD+R+KT DVT+T+G++FE+F L R LL GIFEKGWE+P
+Sbjct  1    MTSKTESQSDQSWKENLNLPAKDLRFKTTDVTDTKGIEFEDFCLKRPLLMGIFEKGWEKP  60
+
+Query  61   SPIQEASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQ  120
+            SPIQEASI IALSGQDILARAKNGTGKTGAYCIP I+++D  K   Q+LIIVPTRELA Q
+Sbjct  61   SPIQEASISIALSGQDILARAKNGTGKTGAYCIPCIDKVDVEKKYPQSLIIVPTRELAFQ  120
+
+Query  121  TSQICVELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDC  180
+            TS ICV+L KH+ LKVMVTTGGT+LR+DI+RLN  VH+IVATPGRI+DLM+K VA++  C
+Sbjct  121  TSNICVDLSKHMNLKVMVTTGGTELRNDIMRLNGTVHIIVATPGRILDLMDKNVADMSHC  180
+
+Query  181  KMLVLDEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINL  240
+              LVLDEADKLLSQDFQG+LDR++ FLP  RQIMLYSATFP TVA+FM+ HM+NPYEINL
+Sbjct  181  TTLVLDEADKLLSQDFQGILDRVIKFLPPDRQIMLYSATFPLTVATFMQKHMRNPYEINL  240
+
+Query  241  MEELTLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            MEELTL+GVTQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  241  MEELTLVGVTQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  281
+
+
+
+
+>unnamed protein product [Onchocerca ochengi]
+Sequence ID: VDK80068.1 Length: 432
+Range 1: 1 to 281
+
+Score:449 bits(1155), Expect:9e-155, 
+Method:Compositional matrix adjust., 
+Identities:208/281(74%), Positives:243/281(86%), Gaps:0/281(0%)
+
+Query  1    MAVEAQNKTNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERP  60
+            M  + +++ +  WK  L LPAKD+R+KT DVT+T+G++FE+F L R LL GIFEKGWE+P
+Sbjct  1    MTSKTESQNDQSWKENLNLPAKDLRFKTTDVTDTKGIEFEDFCLKRPLLMGIFEKGWEKP  60
+
+Query  61   SPIQEASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQ  120
+            SPIQEASI IALSGQDILARAKNGTGKTGAYCIP I+++D  K   Q+LIIVPTRELA Q
+Sbjct  61   SPIQEASISIALSGQDILARAKNGTGKTGAYCIPCIDKVDVEKKYPQSLIIVPTRELAFQ  120
+
+Query  121  TSQICVELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDC  180
+            TS ICV+L KH+ LKVMVTTGGT+LR+DILRLN  VH+IVATPGRI+DLM+K VA++  C
+Sbjct  121  TSNICVDLSKHLNLKVMVTTGGTELRNDILRLNGTVHIIVATPGRILDLMDKNVADMSHC  180
+
+Query  181  KMLVLDEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINL  240
+              LVLDEADKLLSQDFQG+LDR++ FLP  RQIMLYSATFP TVA+FM+ HM+NPYEINL
+Sbjct  181  TTLVLDEADKLLSQDFQGILDRVIKFLPPDRQIMLYSATFPLTVATFMQKHMRNPYEINL  240
+
+Query  241  MEELTLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            MEELTL+GVTQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  241  MEELTLVGVTQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  281
+
+
+
+
+>BMA-CGH-1 [Brugia malayi]
+Sequence ID: CDP93318.1 Length: 432
+>unnamed protein product [Brugia pahangi]
+Sequence ID: VDN93275.1 Length: 432 
+Range 1: 1 to 281
+
+Score:449 bits(1155), Expect:1e-154, 
+Method:Compositional matrix adjust., 
+Identities:207/281(74%), Positives:244/281(86%), Gaps:0/281(0%)
+
+Query  1    MAVEAQNKTNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERP  60
+            M  + +++++  WK  L LPAKD+R+KT DVT+T+G++FE+F L R LL GIFEKGWE+P
+Sbjct  1    MTNKTESQSDQSWKENLNLPAKDLRFKTTDVTDTKGIEFEDFCLKRPLLMGIFEKGWEKP  60
+
+Query  61   SPIQEASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQ  120
+            SPIQEASI IALSGQDILARAKNGTGKTGAYCIP I+++D  K   Q+LIIVPTRELA Q
+Sbjct  61   SPIQEASISIALSGQDILARAKNGTGKTGAYCIPCIDKIDVEKKYPQSLIIVPTRELAFQ  120
+
+Query  121  TSQICVELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDC  180
+            TS ICV+L KH+ LKVMVTTGGT+LR+DI+RLN  VH+IVATPGRI+DLM+K VA++  C
+Sbjct  121  TSNICVDLSKHLNLKVMVTTGGTELRNDIMRLNGTVHIIVATPGRILDLMDKNVADMSHC  180
+
+Query  181  KMLVLDEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINL  240
+              LVLDEADKLLSQDFQG+LDR++ FLP  RQIMLYSATFP TVA+FM+ HM+NPYEINL
+Sbjct  181  TTLVLDEADKLLSQDFQGILDRVIKFLPPDRQIMLYSATFPLTVATFMQKHMRNPYEINL  240
+
+Query  241  MEELTLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            MEELTL+GVTQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  241  MEELTLVGVTQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  281
+
+
+
+
+>unnamed protein product [Acanthocheilonema viteae]
+Sequence ID: VBB30384.1 Length: 432
+Range 1: 1 to 281
+
+Score:448 bits(1153), Expect:2e-154, 
+Method:Compositional matrix adjust., 
+Identities:207/281(74%), Positives:243/281(86%), Gaps:0/281(0%)
+
+Query  1    MAVEAQNKTNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERP  60
+            M  + +++ +  WK  L LPAKD+R+KT DVT+T+G++FE+F L R LL GIFEKGWE+P
+Sbjct  1    MTNKTESQNDQSWKESLNLPAKDLRFKTTDVTDTKGIEFEDFCLKRPLLMGIFEKGWEKP  60
+
+Query  61   SPIQEASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQ  120
+            SPIQEASI IALSGQDILARAKNGTGKTGAYCIP I+++D  K   Q+LIIVPTRELA Q
+Sbjct  61   SPIQEASISIALSGQDILARAKNGTGKTGAYCIPCIDKIDVEKKYPQSLIIVPTRELAFQ  120
+
+Query  121  TSQICVELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDC  180
+            TS ICV+L KH+ LKVMVTTGGT+LR+DI+RLN  VH+IVATPGRI+DLM+K VA++  C
+Sbjct  121  TSNICVDLSKHLNLKVMVTTGGTELRNDIMRLNGTVHIIVATPGRILDLMDKNVADMSHC  180
+
+Query  181  KMLVLDEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINL  240
+              LVLDEADKLLSQDFQG+LDR++ FLP  RQIMLYSATFP TVA+FM+ HM+NPYEINL
+Sbjct  181  TTLVLDEADKLLSQDFQGILDRVIKFLPPDRQIMLYSATFPLTVATFMQKHMRNPYEINL  240
+
+Query  241  MEELTLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            MEELTL+GVTQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  241  MEELTLVGVTQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  281
+
+
+
+
+>unnamed protein product [Wuchereria bancrofti]
+Sequence ID: VDM19823.1 Length: 454
+Range 1: 23 to 303
+
+Score:449 bits(1155), Expect:2e-154, 
+Method:Compositional matrix adjust., 
+Identities:207/281(74%), Positives:244/281(86%), Gaps:0/281(0%)
+
+Query  1    MAVEAQNKTNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERP  60
+            M  + +++++  WK  L LPAKD+R+KT DVT+T+G++FE+F L R LL GIFEKGWE+P
+Sbjct  23   MTNKTESQSDQSWKENLNLPAKDLRFKTTDVTDTKGIEFEDFCLKRPLLMGIFEKGWEKP  82
+
+Query  61   SPIQEASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQ  120
+            SPIQEASI IALSGQDILARAKNGTGKTGAYCIP I+++D  K   Q+LIIVPTRELA Q
+Sbjct  83   SPIQEASISIALSGQDILARAKNGTGKTGAYCIPCIDKIDVEKKYPQSLIIVPTRELAFQ  142
+
+Query  121  TSQICVELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDC  180
+            TS ICV+L KH+ LKVMVTTGGT+LR+DI+RLN  VH+IVATPGRI+DLM+K VA++  C
+Sbjct  143  TSNICVDLSKHLNLKVMVTTGGTELRNDIMRLNGTVHIIVATPGRILDLMDKNVADMSHC  202
+
+Query  181  KMLVLDEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINL  240
+              LVLDEADKLLSQDFQG+LDR++ FLP  RQIMLYSATFP TVA+FM+ HM+NPYEINL
+Sbjct  203  TTLVLDEADKLLSQDFQGILDRVIKFLPPDRQIMLYSATFPLTVATFMQKHMRNPYEINL  262
+
+Query  241  MEELTLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            MEELTL+GVTQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  263  MEELTLVGVTQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  303
+
+
+
+
+>DEAD/DEAH box helicase [Onchocerca flexuosa]
+Sequence ID: OZC06485.1 Length: 432
+Range 1: 1 to 281
+
+Score:448 bits(1153), Expect:2e-154, 
+Method:Compositional matrix adjust., 
+Identities:207/281(74%), Positives:243/281(86%), Gaps:0/281(0%)
+
+Query  1    MAVEAQNKTNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERP  60
+            M  + +++ +  WK  L LPAKD+R+KT DVT+T+G++FE+F L R LL GIFEKGWE+P
+Sbjct  1    MTSKTESQNDQSWKENLNLPAKDLRFKTTDVTDTKGIEFEDFCLKRPLLMGIFEKGWEKP  60
+
+Query  61   SPIQEASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQ  120
+            SPIQEASI IALSGQDILARAKNGTGKTGAYCIP I+++D  K   Q+LIIVPTRELA Q
+Sbjct  61   SPIQEASISIALSGQDILARAKNGTGKTGAYCIPCIDKVDVEKKYPQSLIIVPTRELAFQ  120
+
+Query  121  TSQICVELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDC  180
+            TS ICV+L KH+ LKVMVTTGGT+LR+DI+RLN  VH+IVATPGRI+DLM+K VA++  C
+Sbjct  121  TSNICVDLSKHLNLKVMVTTGGTELRNDIMRLNGTVHIIVATPGRILDLMDKNVADMSHC  180
+
+Query  181  KMLVLDEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINL  240
+              LVLDEADKLLSQDFQG+LDR++ FLP  RQIMLYSATFP TVA+FM+ HM+NPYEINL
+Sbjct  181  TTLVLDEADKLLSQDFQGILDRVIKFLPPDRQIMLYSATFPLTVATFMQKHMRNPYEINL  240
+
+Query  241  MEELTLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            MEELTL+GVTQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  241  MEELTLVGVTQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  281
+
+
+
+
+>unnamed protein product [Cercopithifilaria johnstoni]
+Sequence ID: CAG9536159.1 Length: 432
+Range 1: 6 to 281
+
+Score:447 bits(1150), Expect:5e-154, 
+Method:Compositional matrix adjust., 
+Identities:210/278(76%), Positives:242/278(87%), Gaps:2/278(0%)
+
+Query  4    EAQNKTNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPI  63
+            EAQN  +  WK  L LPAKD+R+KT DVT+T+G++FE+F L R LL GIFEKGWE+PSPI
+Sbjct  6    EAQN--DQCWKENLNLPAKDLRFKTTDVTDTKGIEFEDFCLKRPLLMGIFEKGWEKPSPI  63
+
+Query  64   QEASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQ  123
+            QEASI IALSGQDILARAKNGTGKTGAYCIP I+++D  K   Q+LIIVPTRELA QTS 
+Sbjct  64   QEASISIALSGQDILARAKNGTGKTGAYCIPCIDKVDVEKKYPQSLIIVPTRELAFQTSN  123
+
+Query  124  ICVELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKML  183
+            ICV+L KH+ LKVMVTTGGT+LR+DI+RLN  VH+IVATPGRI+DLM+K VA++  C  L
+Sbjct  124  ICVDLSKHLNLKVMVTTGGTELRNDIMRLNGTVHIIVATPGRILDLMDKNVADMSHCTTL  183
+
+Query  184  VLDEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEE  243
+            VLDEADKLLSQDFQG+LDR++ FLP  RQIMLYSATFP TVA+FM+ HM+NPYEINLMEE
+Sbjct  184  VLDEADKLLSQDFQGILDRVIKFLPPDRQIMLYSATFPLTVATFMQKHMRNPYEINLMEE  243
+
+Query  244  LTLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            LTL+GVTQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  244  LTLVGVTQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  281
+
+
+
+
+>germline helicase protein 1, putative [Brugia malayi]
+Sequence ID: XP_001897479.2 Length: 471
+>germline helicase protein 1, putative [Brugia malayi]
+Sequence ID: VIO92048.1 Length: 471 
+Range 1: 1 to 281
+
+Score:448 bits(1153), Expect:7e-154, 
+Method:Compositional matrix adjust., 
+Identities:207/281(74%), Positives:244/281(86%), Gaps:0/281(0%)
+
+Query  1    MAVEAQNKTNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERP  60
+            M  + +++++  WK  L LPAKD+R+KT DVT+T+G++FE+F L R LL GIFEKGWE+P
+Sbjct  1    MTNKTESQSDQSWKENLNLPAKDLRFKTTDVTDTKGIEFEDFCLKRPLLMGIFEKGWEKP  60
+
+Query  61   SPIQEASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQ  120
+            SPIQEASI IALSGQDILARAKNGTGKTGAYCIP I+++D  K   Q+LIIVPTRELA Q
+Sbjct  61   SPIQEASISIALSGQDILARAKNGTGKTGAYCIPCIDKIDVEKKYPQSLIIVPTRELAFQ  120
+
+Query  121  TSQICVELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDC  180
+            TS ICV+L KH+ LKVMVTTGGT+LR+DI+RLN  VH+IVATPGRI+DLM+K VA++  C
+Sbjct  121  TSNICVDLSKHLNLKVMVTTGGTELRNDIMRLNGTVHIIVATPGRILDLMDKNVADMSHC  180
+
+Query  181  KMLVLDEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINL  240
+              LVLDEADKLLSQDFQG+LDR++ FLP  RQIMLYSATFP TVA+FM+ HM+NPYEINL
+Sbjct  181  TTLVLDEADKLLSQDFQGILDRVIKFLPPDRQIMLYSATFPLTVATFMQKHMRNPYEINL  240
+
+Query  241  MEELTLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            MEELTL+GVTQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  241  MEELTLVGVTQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  281
+
+
+
+
+>unnamed protein product [Bursaphelenchus xylophilus]
+Sequence ID: CAD5226675.1 Length: 487
+>unnamed protein product [Bursaphelenchus xylophilus]
+Sequence ID: CAG9116076.1 Length: 487 
+Range 1: 60 to 331
+
+Score:447 bits(1150), Expect:4e-153, 
+Method:Compositional matrix adjust., 
+Identities:207/272(76%), Positives:245/272(90%), Gaps:0/272(0%)
+
+Query  10   NDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASIG  69
+            +DDWK  L+LP +DMR +T DVT T+G++FE+F LSRDLLKGIFEKGW++PSPIQE++I 
+Sbjct  60   SDDWKKDLKLPPRDMRIRTADVTATQGIEFEQFGLSRDLLKGIFEKGWDKPSPIQESTIK  119
+
+Query  70   IALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVELG  129
+             A+SGQDILARAKNGTGKTGAYCIPVIE+++   + IQALI+VPTRELALQTSQICVEL 
+Sbjct  120  AAMSGQDILARAKNGTGKTGAYCIPVIEKINPGLNAIQALIVVPTRELALQTSQICVELS  179
+
+Query  130  KHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEAD  189
+            KH+ LK+MVTTGGTDLRDD+LRLN  VHLI+ATPGRI+DLM+KGVA++ +CK LVLDEAD
+Sbjct  180  KHLKLKIMVTTGGTDLRDDLLRLNGVVHLIIATPGRILDLMDKGVAKMNECKTLVLDEAD  239
+
+Query  190  KLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLGV  249
+            KLLSQDFQ +LDRLVS LP  RQIM++SATFPRTVA+FM++HM+  +E+NLM+ELTLLGV
+Sbjct  240  KLLSQDFQAMLDRLVSHLPGDRQIMMFSATFPRTVATFMQNHMRKAFEVNLMDELTLLGV  299
+
+Query  250  TQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            +QFYA V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  300  SQFYACVQEKQKVHCLNTLFRKLQINQSIIFC  331
+
+
+
+
+>DEAD/DEAH box helicase [Necator americanus]
+Sequence ID: XP_013307512.1 Length: 437
+>DEAD/DEAH box helicase [Necator americanus]
+Sequence ID: ETN85285.1 Length: 437 
+Range 1: 40 to 291
+
+Score:442 bits(1138), Expect:4e-152, 
+Method:Compositional matrix adjust., 
+Identities:205/252(81%), Positives:234/252(92%), Gaps:0/252(0%)
+
+Query  30   DVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASIGIALSGQDILARAKNGTGKTG  89
+            DVT+T+G++FE+F LSRDLL GIFEKGWE+PSPIQEASIG+ALSGQDILARAKNGTGKTG
+Sbjct  40   DVTDTKGVEFEDFCLSRDLLMGIFEKGWEKPSPIQEASIGVALSGQDILARAKNGTGKTG  99
+
+Query  90   AYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVELGKHIGLKVMVTTGGTDLRDDI  149
+            AYCIPVIE+++ +   IQAL+IVPTRELALQTSQICVEL KHI LK+MVTTGGTDLRDDI
+Sbjct  100  AYCIPVIEKINPAIKKIQALVIVPTRELALQTSQICVELSKHIKLKIMVTTGGTDLRDDI  159
+
+Query  150  LRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEADKLLSQDFQGVLDRLVSFLPA  209
+            +RLN +VH+++ATPGRI+DLMEKGVA++ +CKMLVLDEADKLLSQDFQG+LDRL+S+LP 
+Sbjct  160  MRLNGSVHMVIATPGRILDLMEKGVADMSNCKMLVLDEADKLLSQDFQGILDRLISYLPK  219
+
+Query  210  GRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLGVTQFYAFVTEKQKVHCLNTLF  269
+             RQIMLYSATFP TV  FM+ HM+ PYEINLMEELTLLGVTQ+YA+V EKQKVHCLNTLF
+Sbjct  220  ERQIMLYSATFPMTVTEFMQKHMRKPYEINLMEELTLLGVTQYYAYVQEKQKVHCLNTLF  279
+
+Query  270  RKLQINQSIIFC  281
+            RKLQINQSIIFC
+Sbjct  280  RKLQINQSIIFC  291
+
+
+
+
+>unnamed protein product, partial [Mesorhabditis belari]
+Sequence ID: CAJ0944267.1 Length: 430
+Range 1: 8 to 276
+
+Score:442 bits(1137), Expect:4e-152, 
+Method:Compositional matrix adjust., 
+Identities:203/269(75%), Positives:241/269(89%), Gaps:0/269(0%)
+
+Query  13   WKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASIGIAL  72
+            WK  L LP KD+R+KT+DVT T+G++FE+FSL RDLLKG+FEKGWE+PSP+QEA+IG AL
+Sbjct  8    WKQSLTLPPKDLRFKTVDVTKTKGMEFEDFSLKRDLLKGVFEKGWEKPSPVQEAAIGPAL  67
+
+Query  73   SGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVELGKHI  132
+            SGQD+LARAKNGTGKTGA+ IPVIE++D +   +QA+I+VPTRELALQTSQICVELGKH+
+Sbjct  68   SGQDVLARAKNGTGKTGAFAIPVIEKIDVNIKKVQAIIMVPTRELALQTSQICVELGKHM  127
+
+Query  133  GLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEADKLL  192
+             +KVMVTTGGTDLRDDI+RLN  VHLIVATPGRI+DL+EK VA+V  CKMLVLDEADKLL
+Sbjct  128  NIKVMVTTGGTDLRDDIMRLNGTVHLIVATPGRILDLIEKTVADVSLCKMLVLDEADKLL  187
+
+Query  193  SQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLGVTQF  252
+            S DFQG LD+++S+LP  RQIML+SATFP TV +FM+ +MK PYEINLMEELTL G+TQ+
+Sbjct  188  SIDFQGALDKMISYLPRERQIMLFSATFPLTVTNFMQKYMKKPYEINLMEELTLHGITQY  247
+
+Query  253  YAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            YA+V EKQKVHCLNTLFRKLQ+NQ+IIFC
+Sbjct  248  YAYVQEKQKVHCLNTLFRKLQVNQAIIFC  276
+
+
+
+
+>DEAD/DEAH box helicase domain-containing protein [Ditylenchus destructor]
+Sequence ID: KAI1722275.1 Length: 424
+Range 1: 12 to 282
+
+Score:437 bits(1125), Expect:2e-150, 
+Method:Compositional matrix adjust., 
+Identities:201/271(74%), Positives:236/271(87%), Gaps:0/271(0%)
+
+Query  11   DDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASIGI  70
+            D+WK  L++P KD+RYKT DVTN +G++FE+  LSRDLLKGI+EKGWE PSPIQE +I +
+Sbjct  12   DNWKKYLKVPPKDLRYKTSDVTNRKGVEFEDLHLSRDLLKGIYEKGWESPSPIQENAIPM  71
+
+Query  71   ALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVELGK  130
+            ALSG DILARAKNGTGKTGAY IP I+R+D SK+ IQA+IIVPTRELALQTSQICVEL K
+Sbjct  72   ALSGHDILARAKNGTGKTGAYSIPCIQRIDPSKNAIQAMIIVPTRELALQTSQICVELSK  131
+
+Query  131  HIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEADK  190
+            H+ LK+MV TGGTDLR D +R+N AVH+++ATPGRIIDLMEKG A V  CKMLVLDEADK
+Sbjct  132  HLKLKIMVATGGTDLRSDFIRMNGAVHMVIATPGRIIDLMEKGAANVSHCKMLVLDEADK  191
+
+Query  191  LLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLGVT  250
+            LLS DF+GVLD LVSF+P  RQI+L+SATFP TV SF+  H+++P+E+NLMEELTL+GVT
+Sbjct  192  LLSLDFRGVLDHLVSFMPRDRQILLFSATFPLTVTSFVNKHLRDPHEVNLMEELTLIGVT  251
+
+Query  251  QFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            Q+YA+V EKQKVHCLNTLFRKL INQSIIFC
+Sbjct  252  QYYAYVQEKQKVHCLNTLFRKLHINQSIIFC  282
+
+
+
+
+>ATP-dependent RNA helicase cgh-1 [Trichinella patagoniensis]
+Sequence ID: KRY09308.1 Length: 456
+Range 1: 40 to 315
+
+Score:438 bits(1126), Expect:5e-150, 
+Method:Compositional matrix adjust., 
+Identities:202/276(73%), Positives:239/276(86%), Gaps:0/276(0%)
+
+Query  6    QNKTNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQE  65
+            QN T +DWK  L+LP KD R +T DVT T+G +FE+F L R+LL G++EKGWE+PSP+QE
+Sbjct  40   QNHTAEDWKKSLKLPPKDKRIQTADVTRTKGNEFEDFCLKRELLMGLYEKGWEKPSPVQE  99
+
+Query  66   ASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQIC  125
+            ASI +ALSGQDILARAKNGTGKTGAY IP++ER+D     IQALIIVPTRELA+QTSQIC
+Sbjct  100  ASIPVALSGQDILARAKNGTGKTGAYSIPLLERIDPELHSIQALIIVPTRELAMQTSQIC  159
+
+Query  126  VELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVL  185
+            +EL KH+ +KVMVTTGGT L+DDI+ L+  VHLI+ATPGRI+DLM+K +A V  CKMLVL
+Sbjct  160  IELSKHLKIKVMVTTGGTSLKDDIVNLSGTVHLIIATPGRILDLMDKNIANVNKCKMLVL  219
+
+Query  186  DEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELT  245
+            DEADKLLSQDF+G+LD+++SFLP  RQIMLYSATFP TV +FM+ HM+ PYEINLM+ELT
+Sbjct  220  DEADKLLSQDFKGILDKMISFLPEDRQIMLYSATFPITVEAFMKKHMRTPYEINLMDELT  279
+
+Query  246  LLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            LLGVTQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  280  LLGVTQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  315
+
+
+
+
+>ATP-dependent RNA helicase cgh-1 [Trichinella nelsoni]
+Sequence ID: KRX15691.1 Length: 456
+>ATP-dependent RNA helicase cgh-1 [Trichinella sp. T9]
+Sequence ID: KRX63806.1 Length: 456
+>ATP-dependent RNA helicase cgh-1 [Trichinella britovi]
+Sequence ID: KRY46662.1 Length: 456
+>ATP-dependent RNA helicase cgh-1 [Trichinella nativa]
+Sequence ID: KRZ48874.1 Length: 456
+>ATP-dependent RNA helicase cgh-1 [Trichinella sp. T8]
+Sequence ID: KRZ85720.1 Length: 456 
+Range 1: 40 to 315
+
+Score:438 bits(1126), Expect:5e-150, 
+Method:Compositional matrix adjust., 
+Identities:202/276(73%), Positives:239/276(86%), Gaps:0/276(0%)
+
+Query  6    QNKTNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQE  65
+            QN T +DWK  L+LP KD R +T DVT T+G +FE+F L R+LL G++EKGWE+PSP+QE
+Sbjct  40   QNHTAEDWKKSLKLPPKDKRIQTADVTRTKGNEFEDFCLKRELLMGLYEKGWEKPSPVQE  99
+
+Query  66   ASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQIC  125
+            ASI +ALSGQDILARAKNGTGKTGAY IP++ER+D     IQALIIVPTRELA+QTSQIC
+Sbjct  100  ASIPVALSGQDILARAKNGTGKTGAYSIPLLERIDPELHSIQALIIVPTRELAMQTSQIC  159
+
+Query  126  VELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVL  185
+            +EL KH+ +KVMVTTGGT L+DDI+ L+  VHLI+ATPGRI+DLM+K +A V  CKMLVL
+Sbjct  160  IELSKHLKIKVMVTTGGTSLKDDIVNLSGTVHLIIATPGRILDLMDKNIANVNKCKMLVL  219
+
+Query  186  DEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELT  245
+            DEADKLLSQDF+G+LD+++SFLP  RQIMLYSATFP TV +FM+ HM+ PYEINLM+ELT
+Sbjct  220  DEADKLLSQDFKGILDKMISFLPEDRQIMLYSATFPITVEAFMKKHMRTPYEINLMDELT  279
+
+Query  246  LLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            LLGVTQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  280  LLGVTQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  315
+
+
+
+
+>ATP-dependent RNA helicase DHH1 [Trichinella spiralis]
+Sequence ID: XP_003369945.1 Length: 456
+Range 1: 40 to 315
+
+Score:438 bits(1126), Expect:5e-150, 
+Method:Compositional matrix adjust., 
+Identities:202/276(73%), Positives:239/276(86%), Gaps:0/276(0%)
+
+Query  6    QNKTNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQE  65
+            QN T +DWK  L+LP KD R +T DVT T+G +FE+F L R+LL G++EKGWE+PSP+QE
+Sbjct  40   QNHTAEDWKKSLKLPPKDKRIQTADVTRTKGNEFEDFCLKRELLMGLYEKGWEKPSPVQE  99
+
+Query  66   ASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQIC  125
+            ASI +ALSGQDILARAKNGTGKTGAY IP++ER+D     IQALIIVPTRELA+QTSQIC
+Sbjct  100  ASIPVALSGQDILARAKNGTGKTGAYSIPLLERIDPELHSIQALIIVPTRELAMQTSQIC  159
+
+Query  126  VELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVL  185
+            +EL KH+ +KVMVTTGGT L+DDI+ L+  VHLI+ATPGRI+DLM+K +A V  CKMLVL
+Sbjct  160  IELSKHLKIKVMVTTGGTSLKDDIVNLSGTVHLIIATPGRILDLMDKNIANVNKCKMLVL  219
+
+Query  186  DEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELT  245
+            DEADKLLSQDF+G+LD+++SFLP  RQIMLYSATFP TV +FM+ HM+ PYEINLM+ELT
+Sbjct  220  DEADKLLSQDFKGILDKMISFLPEDRQIMLYSATFPITVEAFMKKHMRTPYEINLMDELT  279
+
+Query  246  LLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            LLGVTQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  280  LLGVTQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  315
+
+
+
+
+>ATP-dependent RNA helicase cgh-1 [Trichinella murrelli]
+Sequence ID: KRX40840.1 Length: 456
+Range 1: 40 to 315
+
+Score:437 bits(1125), Expect:8e-150, 
+Method:Compositional matrix adjust., 
+Identities:202/276(73%), Positives:239/276(86%), Gaps:0/276(0%)
+
+Query  6    QNKTNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQE  65
+            QN T +DWK  L+LP KD R +T DVT T+G +FE+F L R+LL G++EKGWE+PSP+QE
+Sbjct  40   QNYTAEDWKKSLKLPPKDKRIQTADVTRTKGNEFEDFCLKRELLMGLYEKGWEKPSPVQE  99
+
+Query  66   ASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQIC  125
+            ASI +ALSGQDILARAKNGTGKTGAY IP++ER+D     IQALIIVPTRELA+QTSQIC
+Sbjct  100  ASIPVALSGQDILARAKNGTGKTGAYSIPLLERIDPELHSIQALIIVPTRELAMQTSQIC  159
+
+Query  126  VELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVL  185
+            +EL KH+ +KVMVTTGGT L+DDI+ L+  VHLI+ATPGRI+DLM+K +A V  CKMLVL
+Sbjct  160  IELSKHLKIKVMVTTGGTSLKDDIVNLSGTVHLIIATPGRILDLMDKNIANVNKCKMLVL  219
+
+Query  186  DEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELT  245
+            DEADKLLSQDF+G+LD+++SFLP  RQIMLYSATFP TV +FM+ HM+ PYEINLM+ELT
+Sbjct  220  DEADKLLSQDFKGILDKMISFLPEDRQIMLYSATFPITVEAFMKKHMRTPYEINLMDELT  279
+
+Query  246  LLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            LLGVTQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  280  LLGVTQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  315
+
+
+
+
+>unnamed protein product [Dracunculus medinensis]
+Sequence ID: VDN57959.1 Length: 425
+Range 1: 7 to 277
+
+Score:435 bits(1119), Expect:2e-149, 
+Method:Compositional matrix adjust., 
+Identities:204/271(75%), Positives:234/271(86%), Gaps:0/271(0%)
+
+Query  11   DDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASIGI  70
+            +DWKA ++ P KDMRYKT DVT T+G+DFEEF L R LL  IFEKGWE+PSPIQE++I +
+Sbjct  7    EDWKANIKRPEKDMRYKTADVTLTKGIDFEEFCLKRPLLMAIFEKGWEKPSPIQESAISV  66
+
+Query  71   ALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVELGK  130
+            ALSG+DILARAKNGTGKTGAYCIP IE+++     IQALIIVPTRELALQTSQICVEL K
+Sbjct  67   ALSGKDILARAKNGTGKTGAYCIPCIEKINPDLKQIQALIIVPTRELALQTSQICVELSK  126
+
+Query  131  HIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEADK  190
+            H+ LK+MVTTGGTDLRDDI+RLN +VH+IVATPGRI+DLM+KGVA +  C  LVLDEADK
+Sbjct  127  HLDLKIMVTTGGTDLRDDIMRLNGSVHIIVATPGRILDLMDKGVANMSYCSTLVLDEADK  186
+
+Query  191  LLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLGVT  250
+            LLS DFQ VLD+ + FLP  RQIML+SATFP TV  FME HM+ P+EINLM+ELTL+GVT
+Sbjct  187  LLSHDFQRVLDKAIPFLPEDRQIMLFSATFPITVTKFMEKHMREPHEINLMDELTLIGVT  246
+
+Query  251  QFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            Q+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  247  QYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  277
+
+
+
+
+>unnamed protein product [Anisakis simplex]
+Sequence ID: VDK54911.1 Length: 429
+Range 1: 1 to 258
+
+Score:435 bits(1119), Expect:2e-149, 
+Method:Compositional matrix adjust., 
+Identities:207/258(80%), Positives:229/258(88%), Gaps:0/258(0%)
+
+Query  24   MRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASIGIALSGQDILARAKN  83
+            M+    DVT+T+G++FE+F L RDLL GIFEKGWE+PSPIQEASI IALSGQDILARAKN
+Sbjct  1    MKINFQDVTDTKGIEFEDFCLKRDLLMGIFEKGWEKPSPIQEASIAIALSGQDILARAKN  60
+
+Query  84   GTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVELGKHIGLKVMVTTGGT  143
+            GTGKTGAYCIP IE++D     IQALIIVPTRELALQTSQICVEL KH+  KVMVTTGGT
+Sbjct  61   GTGKTGAYCIPCIEKIDPELKRIQALIIVPTRELALQTSQICVELSKHLKFKVMVTTGGT  120
+
+Query  144  DLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEADKLLSQDFQGVLDRL  203
+            DLRDDILRLN  VHL+VATPGRI+DLM+KGVA++  C  L+LDEADKLLSQDFQG+LDR+
+Sbjct  121  DLRDDILRLNGVVHLVVATPGRILDLMDKGVADMSHCITLILDEADKLLSQDFQGILDRV  180
+
+Query  204  VSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLGVTQFYAFVTEKQKVH  263
+            + FLP  RQIMLYSATFP TVA+FM+ HMKNPYEINLMEELTLLGVTQFYA+V EKQKVH
+Sbjct  181  IKFLPPERQIMLYSATFPLTVATFMQRHMKNPYEINLMEELTLLGVTQFYAYVQEKQKVH  240
+
+Query  264  CLNTLFRKLQINQSIIFC  281
+            CLNTLFRKLQINQSIIFC
+Sbjct  241  CLNTLFRKLQINQSIIFC  258
+
+
+
+
+>ATP-dependent RNA helicase cgh-1 [Trichinella papuae]
+Sequence ID: KRZ75200.1 Length: 456
+Range 1: 40 to 315
+
+Score:436 bits(1121), Expect:3e-149, 
+Method:Compositional matrix adjust., 
+Identities:201/276(73%), Positives:238/276(86%), Gaps:0/276(0%)
+
+Query  6    QNKTNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQE  65
+            QN T +DWK  L+LP KD R +T DVT T+G +FE+F L R+LL G++EKGWE+PSP+QE
+Sbjct  40   QNHTAEDWKKALKLPPKDKRIQTADVTRTKGNEFEDFCLKRELLMGLYEKGWEKPSPVQE  99
+
+Query  66   ASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQIC  125
+            ASI +ALSGQDILARAKNGTGKTGAY IP++ER+D     IQALIIVPTRELA+QTSQIC
+Sbjct  100  ASIPVALSGQDILARAKNGTGKTGAYSIPLLERIDPELHSIQALIIVPTRELAMQTSQIC  159
+
+Query  126  VELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVL  185
+            +EL KH+ +KVMVTTGGT L+DDI+ L+  VHLI+ATPGRI+DLM+K +A V  CKMLVL
+Sbjct  160  IELSKHLKIKVMVTTGGTSLKDDIVNLSGTVHLIIATPGRILDLMDKNIANVNKCKMLVL  219
+
+Query  186  DEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELT  245
+            DEADKLLSQDF+G+LD+++ FLP  RQIMLYSATFP TV +FM+ HM+ PYEINLM+ELT
+Sbjct  220  DEADKLLSQDFKGILDKMIGFLPEDRQIMLYSATFPITVEAFMKKHMRTPYEINLMDELT  279
+
+Query  246  LLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            LLGVTQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  280  LLGVTQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  315
+
+
+
+
+>ATP-dependent RNA helicase cgh-1 [Trichinella pseudospiralis]
+Sequence ID: KRY70221.1 Length: 456
+>ATP-dependent RNA helicase cgh-1 [Trichinella pseudospiralis]
+Sequence ID: KRY81537.1 Length: 456
+>ATP-dependent RNA helicase cgh-1 [Trichinella pseudospiralis]
+Sequence ID: KRZ30329.1 Length: 456 
+Range 1: 40 to 315
+
+Score:436 bits(1120), Expect:4e-149, 
+Method:Compositional matrix adjust., 
+Identities:201/276(73%), Positives:238/276(86%), Gaps:0/276(0%)
+
+Query  6    QNKTNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQE  65
+            QN T +DWK  L+LP KD R +T DVT T+G +FE+F L R+LL G++EKGWE+PSP+QE
+Sbjct  40   QNHTAEDWKKSLKLPPKDKRIQTADVTRTKGNEFEDFCLKRELLMGLYEKGWEKPSPVQE  99
+
+Query  66   ASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQIC  125
+            ASI +ALSGQDILARAKNGTGKTGAY IP++ER+D     IQALIIVPTRELA+QTSQIC
+Sbjct  100  ASIPVALSGQDILARAKNGTGKTGAYSIPLLERIDPELHSIQALIIVPTRELAMQTSQIC  159
+
+Query  126  VELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVL  185
+            +EL KH+ +KVMVTTGGT L+DDI+ L+  VHLI+ATPGRI+DLM+K +A V  CKMLVL
+Sbjct  160  IELSKHLKIKVMVTTGGTSLKDDIVNLSGTVHLIIATPGRILDLMDKNIANVNKCKMLVL  219
+
+Query  186  DEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELT  245
+            DEADKLLSQDF+G+LD+++ FLP  RQIMLYSATFP TV +FM+ HM+ PYEINLM+ELT
+Sbjct  220  DEADKLLSQDFKGILDKMIGFLPEDRQIMLYSATFPITVEAFMKKHMRTPYEINLMDELT  279
+
+Query  246  LLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            LLGVTQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  280  LLGVTQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  315
+
+
+
+
+>ATP-dependent RNA helicase cgh-1 [Trichinella zimbabwensis]
+Sequence ID: KRZ05930.1 Length: 456
+Range 1: 40 to 315
+
+Score:436 bits(1120), Expect:4e-149, 
+Method:Compositional matrix adjust., 
+Identities:201/276(73%), Positives:238/276(86%), Gaps:0/276(0%)
+
+Query  6    QNKTNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQE  65
+            QN T +DWK  L+LP KD R +T DVT T+G +FE+F L R+LL G++EKGWE+PSP+QE
+Sbjct  40   QNHTAEDWKKALKLPPKDKRIQTADVTRTKGNEFEDFCLKRELLMGLYEKGWEKPSPVQE  99
+
+Query  66   ASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQIC  125
+            ASI +ALSGQDILARAKNGTGKTGAY IP++ER+D     IQALIIVPTRELA+QTSQIC
+Sbjct  100  ASIPVALSGQDILARAKNGTGKTGAYSIPLLERIDPELHSIQALIIVPTRELAMQTSQIC  159
+
+Query  126  VELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVL  185
+            +EL KH+ +KVMVTTGGT L+DDI+ L+  VHLI+ATPGRI+DLM+K +A V  CKMLVL
+Sbjct  160  IELSKHLKIKVMVTTGGTSLKDDIVNLSGTVHLIIATPGRILDLMDKNIANVNKCKMLVL  219
+
+Query  186  DEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELT  245
+            DEADKLLSQDF+G+LD+++ FLP  RQIMLYSATFP TV +FM+ HM+ PYEINLM+ELT
+Sbjct  220  DEADKLLSQDFKGILDKMIGFLPEDRQIMLYSATFPITVEAFMKKHMRTPYEINLMDELT  279
+
+Query  246  LLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            LLGVTQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  280  LLGVTQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  315
+
+
+
+
+>hypothetical protein KUF71_015939 [Frankliniella fusca]
+Sequence ID: KAK3927654.1 Length: 440
+Range 1: 14 to 293
+
+Score:435 bits(1118), Expect:5e-149, 
+Method:Compositional matrix adjust., 
+Identities:205/280(73%), Positives:243/280(86%), Gaps:3/280(1%)
+
+Query  5    AQNKTNDD---WKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPS  61
+            + NK  DD   WK++L++P KD R KT DVT+TRG +FEEF L R+LL GIFEKGWE+PS
+Sbjct  14   SMNKDLDDGIGWKSKLKIPPKDQRIKTSDVTDTRGNEFEEFCLKRELLMGIFEKGWEKPS  73
+
+Query  62   PIQEASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQT  121
+            PIQEASI IALSG+D+LARAKNGTGKTGAY IPV+E++D  KDCIQAL+IVPTRELALQT
+Sbjct  74   PIQEASIPIALSGKDVLARAKNGTGKTGAYSIPVLEQVDPKKDCIQALVIVPTRELALQT  133
+
+Query  122  SQICVELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCK  181
+            SQIC+EL KH+ +KVMVTTGGT+LRDDI+R+   VH+I+ATPGRI+DLM+K VA +++C+
+Sbjct  134  SQICIELAKHMDVKVMVTTGGTNLRDDIMRIYQKVHIIIATPGRILDLMDKNVANMENCR  193
+
+Query  182  MLVLDEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLM  241
+            +LVLDEADKLLSQDF+G+LD ++S LP  RQI+LYSATFP TV  FME H+K PYEINLM
+Sbjct  194  ILVLDEADKLLSQDFKGMLDHVISRLPKERQILLYSATFPLTVKQFMEKHLKEPYEINLM  253
+
+Query  242  EELTLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            EELTL GVTQ+YAFV E+QKVHCLNTLF KLQINQSIIFC
+Sbjct  254  EELTLKGVTQYYAFVQERQKVHCLNTLFSKLQINQSIIFC  293
+
+
+
+
+>ATP-dependent RNA helicase me31b [Frankliniella occidentalis]
+Sequence ID: XP_026291730.1 Length: 440
+Range 1: 14 to 293
+
+Score:435 bits(1118), Expect:5e-149, 
+Method:Compositional matrix adjust., 
+Identities:205/280(73%), Positives:243/280(86%), Gaps:3/280(1%)
+
+Query  5    AQNKTNDD---WKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPS  61
+            + NK  DD   WK++L++P KD R KT DVT+TRG +FEEF L R+LL GIFEKGWE+PS
+Sbjct  14   SMNKDLDDGIGWKSKLKIPPKDQRIKTSDVTDTRGNEFEEFCLKRELLMGIFEKGWEKPS  73
+
+Query  62   PIQEASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQT  121
+            PIQEASI IALSG+D+LARAKNGTGKTGAY IPV+E++D  KDCIQAL+IVPTRELALQT
+Sbjct  74   PIQEASIPIALSGKDVLARAKNGTGKTGAYSIPVLEQVDPKKDCIQALVIVPTRELALQT  133
+
+Query  122  SQICVELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCK  181
+            SQIC+EL KH+ +KVMVTTGGT+LRDDI+R+   VH+I+ATPGRI+DLM+K VA +++C+
+Sbjct  134  SQICIELAKHMDVKVMVTTGGTNLRDDIMRIYQKVHIIIATPGRILDLMDKNVANMENCR  193
+
+Query  182  MLVLDEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLM  241
+            +LVLDEADKLLSQDF+G+LD ++S LP  RQI+LYSATFP TV  FME H+K PYEINLM
+Sbjct  194  ILVLDEADKLLSQDFKGMLDHVISRLPKERQILLYSATFPLTVKQFMEKHLKEPYEINLM  253
+
+Query  242  EELTLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            EELTL GVTQ+YAFV E+QKVHCLNTLF KLQINQSIIFC
+Sbjct  254  EELTLKGVTQYYAFVQERQKVHCLNTLFSKLQINQSIIFC  293
+
+
+
+
+>putative ATP-dependent RNA helicase me31b [Bulinus truncatus]
+Sequence ID: KAH9504297.1 Length: 336
+Range 1: 11 to 285
+
+Score:431 bits(1107), Expect:7e-149, 
+Method:Compositional matrix adjust., 
+Identities:200/275(73%), Positives:234/275(85%), Gaps:0/275(0%)
+
+Query  7    NKTNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEA  66
+            N     WKA+L +P  D R KT DVTNT+G +FE+F L RDLL GIFEKGWE+PSPIQEA
+Sbjct  11   NSNEQGWKAKLNIPPPDTRIKTSDVTNTKGNEFEDFCLKRDLLMGIFEKGWEKPSPIQEA  70
+
+Query  67   SIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICV  126
+            SI IAL+G+DILARAKNGTGKTGAY IP +E++D+SKD +QALIIVPTRELALQTSQIC+
+Sbjct  71   SIPIALTGRDILARAKNGTGKTGAYAIPCLEKVDSSKDLVQALIIVPTRELALQTSQICI  130
+
+Query  127  ELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLD  186
+            EL KHIG + MVTTGGT+L+DDI+RL   VH+I+ATPGRI+DLM K + ++Q+C  L+LD
+Sbjct  131  ELSKHIGCRCMVTTGGTNLKDDIMRLTEPVHVIIATPGRILDLMNKNLVKIQNCGTLILD  190
+
+Query  187  EADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTL  246
+            EADKLLSQDF+G+LD ++  LP  RQIMLYSATFP TV +FM+ H+KNPYEINLMEELTL
+Sbjct  191  EADKLLSQDFKGMLDSIIGHLPKDRQIMLYSATFPLTVEAFMKKHLKNPYEINLMEELTL  250
+
+Query  247  LGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+             GVTQ+YAFV EKQKVHCLNTLF KLQINQSIIFC
+Sbjct  251  KGVTQYYAFVQEKQKVHCLNTLFSKLQINQSIIFC  285
+
+
+
+
+>putative ATP-dependent RNA helicase me31b [Agrilus planipennis]
+Sequence ID: XP_018325443.1 Length: 436
+>putative ATP-dependent RNA helicase me31b [Agrilus planipennis]
+Sequence ID: XP_018325444.1 Length: 436 
+Range 1: 15 to 296
+
+Score:434 bits(1117), Expect:7e-149, 
+Method:Compositional matrix adjust., 
+Identities:204/282(72%), Positives:245/282(86%), Gaps:1/282(0%)
+
+Query  1    MAVEAQNKTND-DWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWER  59
+            ++ +  +KT+D  WKA+L++P KD R KT DVT TRG +FEEF L R+LL GIFEKGWE+
+Sbjct  15   LSTKIDDKTDDIGWKAKLKIPPKDRRIKTSDVTETRGNEFEEFCLKRELLMGIFEKGWEK  74
+
+Query  60   PSPIQEASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELAL  119
+            PSPIQEASI IALSG+DILARAKNGTGKTG Y IPV+E++DT+KDCIQALIIVPTRELAL
+Sbjct  75   PSPIQEASIPIALSGKDILARAKNGTGKTGGYSIPVLEQVDTTKDCIQALIIVPTRELAL  134
+
+Query  120  QTSQICVELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQD  179
+            QTSQIC+EL KH+ +++MVTTGGT+LRDDI+R+   VH+I+ATPGRI+DLM+KGV  +  
+Sbjct  135  QTSQICIELAKHMNVRIMVTTGGTNLRDDIMRIYQKVHVIIATPGRILDLMDKGVPNMDL  194
+
+Query  180  CKMLVLDEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEIN  239
+            C++LVLDEADKLLSQDF+G+LD ++S LP  RQI+L+SATFP TV  FME H++NPYEIN
+Sbjct  195  CRILVLDEADKLLSQDFKGMLDHVISKLPKERQILLFSATFPLTVKQFMEKHLRNPYEIN  254
+
+Query  240  LMEELTLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            LMEELTL GVTQ+YAFV E+QKVHCLNTLF KLQINQSIIFC
+Sbjct  255  LMEELTLKGVTQYYAFVQERQKVHCLNTLFSKLQINQSIIFC  296
+
+
+
+
+>hypothetical protein FOCC_FOCC003004 [Frankliniella occidentalis]
+Sequence ID: KAE8750197.1 Length: 462
+Range 1: 36 to 315
+
+Score:435 bits(1118), Expect:1e-148, 
+Method:Compositional matrix adjust., 
+Identities:205/280(73%), Positives:243/280(86%), Gaps:3/280(1%)
+
+Query  5    AQNKTNDD---WKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPS  61
+            + NK  DD   WK++L++P KD R KT DVT+TRG +FEEF L R+LL GIFEKGWE+PS
+Sbjct  36   SMNKDLDDGIGWKSKLKIPPKDQRIKTSDVTDTRGNEFEEFCLKRELLMGIFEKGWEKPS  95
+
+Query  62   PIQEASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQT  121
+            PIQEASI IALSG+D+LARAKNGTGKTGAY IPV+E++D  KDCIQAL+IVPTRELALQT
+Sbjct  96   PIQEASIPIALSGKDVLARAKNGTGKTGAYSIPVLEQVDPKKDCIQALVIVPTRELALQT  155
+
+Query  122  SQICVELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCK  181
+            SQIC+EL KH+ +KVMVTTGGT+LRDDI+R+   VH+I+ATPGRI+DLM+K VA +++C+
+Sbjct  156  SQICIELAKHMDVKVMVTTGGTNLRDDIMRIYQKVHIIIATPGRILDLMDKNVANMENCR  215
+
+Query  182  MLVLDEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLM  241
+            +LVLDEADKLLSQDF+G+LD ++S LP  RQI+LYSATFP TV  FME H+K PYEINLM
+Sbjct  216  ILVLDEADKLLSQDFKGMLDHVISRLPKERQILLYSATFPLTVKQFMEKHLKEPYEINLM  275
+
+Query  242  EELTLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            EELTL GVTQ+YAFV E+QKVHCLNTLF KLQINQSIIFC
+Sbjct  276  EELTLKGVTQYYAFVQERQKVHCLNTLFSKLQINQSIIFC  315
+
+
+
+
+>hypothetical protein M8J75_011609 [Diaphorina citri]
+Sequence ID: KAI5710809.1 Length: 457
+>hypothetical protein M8J76_014655 [Diaphorina citri]
+Sequence ID: KAI5745842.1 Length: 457
+>hypothetical protein M8J77_009782 [Diaphorina citri]
+Sequence ID: KAI5751673.1 Length: 457 
+Range 1: 28 to 306
+
+Score:434 bits(1117), Expect:1e-148, 
+Method:Compositional matrix adjust., 
+Identities:204/279(73%), Positives:243/279(87%), Gaps:0/279(0%)
+
+Query  3    VEAQNKTNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSP  62
+            ++ +N  +  WK +L++P KD+R KT DVT+T+G +FEEF L R+LL GIFEKGWE+PSP
+Sbjct  28   MDMENGGDQGWKTKLKIPPKDLRIKTSDVTDTKGNEFEEFCLKRELLMGIFEKGWEKPSP  87
+
+Query  63   IQEASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTS  122
+            IQEASI IAL+G+DILARAKNGTGKTGAY IPV+E++D SKD IQALIIVPTRELALQTS
+Sbjct  88   IQEASIPIALTGKDILARAKNGTGKTGAYSIPVLEQIDPSKDYIQALIIVPTRELALQTS  147
+
+Query  123  QICVELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKM  182
+            QIC+EL KH+ +KVMVTTGGT+LRDDI+R+   VHLI+ATPGRI+DLM+K VA +  CK+
+Sbjct  148  QICIELAKHLNVKVMVTTGGTNLRDDIMRIYQKVHLIIATPGRILDLMDKQVANMDHCKI  207
+
+Query  183  LVLDEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLME  242
+            LVLDEADKLLSQDF+G+LD ++S LP  RQI+LYSATFP TV +FME H+K+PYEINLME
+Sbjct  208  LVLDEADKLLSQDFKGMLDHVISILPHERQILLYSATFPLTVKNFMEKHLKDPYEINLME  267
+
+Query  243  ELTLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            ELTL GVTQ+YAFV E+QKVHCLNTLF KLQINQSIIFC
+Sbjct  268  ELTLKGVTQYYAFVQERQKVHCLNTLFSKLQINQSIIFC  306
+
+
+
+
+>unnamed protein product [Callosobruchus maculatus]
+Sequence ID: VEN37828.1 Length: 402
+Range 1: 18 to 297
+
+Score:432 bits(1111), Expect:1e-148, 
+Method:Compositional matrix adjust., 
+Identities:205/280(73%), Positives:242/280(86%), Gaps:1/280(0%)
+
+Query  3    VEAQNKTND-DWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPS  61
+            V+  NK +D  WKA+L++P KD R +T DVT+T+G +FEEF L RDLL GIFEKGWERPS
+Sbjct  18   VDMDNKADDLGWKAKLKIPPKDRRIQTSDVTDTKGNEFEEFCLKRDLLMGIFEKGWERPS  77
+
+Query  62   PIQEASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQT  121
+            PIQEASI IALSG+D+LARAKNGTGKTGAYCIPV+E++D  KDCIQALIIVPTRELALQT
+Sbjct  78   PIQEASIPIALSGKDVLARAKNGTGKTGAYCIPVLEQIDPKKDCIQALIIVPTRELALQT  137
+
+Query  122  SQICVELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCK  181
+            SQIC+EL KH+ ++VMVTTGGT+LRDDI+R+   V +I+ATPGRI+DLMEKGVA +  CK
+Sbjct  138  SQICIELAKHMDVRVMVTTGGTNLRDDIMRIYQKVQVIIATPGRILDLMEKGVAVMDHCK  197
+
+Query  182  MLVLDEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLM  241
+            +LVLDEADKLLSQDF+G+LD ++  LP  RQI+L+SATFP TV  FM  H+++PYEINLM
+Sbjct  198  ILVLDEADKLLSQDFKGMLDTVIKNLPQERQILLFSATFPLTVEQFMRKHLRDPYEINLM  257
+
+Query  242  EELTLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            EELTL GVTQ+YAFV E+QKVHCLNTLF KLQINQSIIFC
+Sbjct  258  EELTLKGVTQYYAFVQERQKVHCLNTLFSKLQINQSIIFC  297
+
+
+
+
+>unnamed protein product [Callosobruchus analis]
+Sequence ID: CAI5857758.1 Length: 452
+Range 1: 19 to 298
+
+Score:433 bits(1113), Expect:4e-148, 
+Method:Compositional matrix adjust., 
+Identities:205/280(73%), Positives:242/280(86%), Gaps:1/280(0%)
+
+Query  3    VEAQNKTND-DWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPS  61
+            V+  NK +D  WKA+L++P KD R +T DVT+T+G +FEEF L RDLL GIFEKGWERPS
+Sbjct  19   VDMDNKADDLGWKAKLKIPPKDRRIQTSDVTDTKGNEFEEFCLKRDLLMGIFEKGWERPS  78
+
+Query  62   PIQEASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQT  121
+            PIQEASI IALSG+D+LARAKNGTGKTGAYCIPV+E++D  KDCIQALIIVPTRELALQT
+Sbjct  79   PIQEASIPIALSGKDVLARAKNGTGKTGAYCIPVLEQIDPKKDCIQALIIVPTRELALQT  138
+
+Query  122  SQICVELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCK  181
+            SQIC+EL KH+ ++VMVTTGGT+LRDDI+R+   V +I+ATPGRI+DLMEKGVA +  CK
+Sbjct  139  SQICIELAKHMDVRVMVTTGGTNLRDDIMRIYQKVQVIIATPGRILDLMEKGVAVMDHCK  198
+
+Query  182  MLVLDEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLM  241
+            +LVLDEADKLLSQDF+G+LD ++  LP  RQI+L+SATFP TV  FM  H+++PYEINLM
+Sbjct  199  ILVLDEADKLLSQDFKGMLDTVIKNLPQERQILLFSATFPLTVEQFMRKHLRDPYEINLM  258
+
+Query  242  EELTLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            EELTL GVTQ+YAFV E+QKVHCLNTLF KLQINQSIIFC
+Sbjct  259  EELTLKGVTQYYAFVQERQKVHCLNTLFSKLQINQSIIFC  298
+
+
+
+
+>ATP-dependent RNA helicase cgh-1-like, partial [Biomphalaria glabrata]
+Sequence ID: KAI8747364.1 Length: 335
+Range 1: 11 to 285
+
+Score:428 bits(1101), Expect:5e-148, 
+Method:Compositional matrix adjust., 
+Identities:200/275(73%), Positives:232/275(84%), Gaps:0/275(0%)
+
+Query  7    NKTNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEA  66
+            N     WKA+L +P  D R +T DVTNT+G +FE+F L RDLL GIFEKGWE+PSPIQEA
+Sbjct  11   NANEQGWKAKLNVPPPDHRIRTSDVTNTKGNEFEDFCLKRDLLMGIFEKGWEKPSPIQEA  70
+
+Query  67   SIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICV  126
+            SI IAL+G+DILARAKNGTGKTGAY IP +E++D SKD +QALIIVPTRELALQTSQIC+
+Sbjct  71   SIPIALTGRDILARAKNGTGKTGAYAIPCLEKVDASKDLVQALIIVPTRELALQTSQICI  130
+
+Query  127  ELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLD  186
+            EL KHIG + MVTTGGT+L+DDILRL   VH+I+ATPGRI+DLM K + ++Q+C  L+LD
+Sbjct  131  ELSKHIGCRCMVTTGGTNLKDDILRLTEPVHVIIATPGRILDLMNKNLVKIQNCGTLILD  190
+
+Query  187  EADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTL  246
+            EADKLLSQDF+G+LD ++  LP  RQIMLYSATFP TV +FM  H+KNPYEINLMEELTL
+Sbjct  191  EADKLLSQDFKGMLDSIIGHLPKDRQIMLYSATFPLTVEAFMRKHLKNPYEINLMEELTL  250
+
+Query  247  LGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+             GVTQ+YAFV EKQKVHCLNTLF KLQINQSIIFC
+Sbjct  251  KGVTQYYAFVQEKQKVHCLNTLFSKLQINQSIIFC  285
+
+
+
+
+>hypothetical protein NP493_668g00000 [Ridgeia piscesae]
+Sequence ID: KAK2176333.1 Length: 459
+Range 1: 28 to 301
+
+Score:433 bits(1113), Expect:5e-148, 
+Method:Compositional matrix adjust., 
+Identities:202/274(74%), Positives:236/274(86%), Gaps:2/274(0%)
+
+Query  10   NDD--WKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEAS  67
+            NDD  WKAQLQ P KDMR +T DVT+T+G +FE++ L R+LL GIFEKGWE+PSPIQEAS
+Sbjct  28   NDDTGWKAQLQRPPKDMRMQTTDVTDTKGNEFEDYCLRRELLMGIFEKGWEKPSPIQEAS  87
+
+Query  68   IGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVE  127
+            I IA +G+DILARAKNGTGKTGAYCIP+++R+DTSK+ +QALIIVPTRELALQTSQIC+E
+Sbjct  88   IPIAQTGRDILARAKNGTGKTGAYCIPILDRIDTSKNVVQALIIVPTRELALQTSQICIE  147
+
+Query  128  LGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDE  187
+            + KHIG +VMVTTGGT+LRDDI+RL   VHLI+ATPGRI+DLM K +     CKMLVLDE
+Sbjct  148  VSKHIGCRVMVTTGGTNLRDDIMRLTEKVHLIIATPGRILDLMNKNLVHADHCKMLVLDE  207
+
+Query  188  ADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLL  247
+            ADKLLSQDF+G+LD +++ LP  RQI+LYSATFP TV  FM  H+ NPYEINLM+ELTL 
+Sbjct  208  ADKLLSQDFKGMLDAIIAHLPHDRQILLYSATFPLTVEQFMRKHLNNPYEINLMDELTLK  267
+
+Query  248  GVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            GV+Q+YAFV EKQKVHCLNTLF KLQINQSIIFC
+Sbjct  268  GVSQYYAFVQEKQKVHCLNTLFSKLQINQSIIFC  301
+
+
+
+
+>ATP-dependent RNA helicase me31b [Lamellibrachia satsuma]
+Sequence ID: KAI0242291.1 Length: 457
+Range 1: 28 to 301
+
+Score:433 bits(1113), Expect:5e-148, 
+Method:Compositional matrix adjust., 
+Identities:202/274(74%), Positives:236/274(86%), Gaps:2/274(0%)
+
+Query  10   NDD--WKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEAS  67
+            NDD  WKAQLQ P KDMR +T DVT+T+G +FE++ L R+LL GIFEKGWE+PSPIQEAS
+Sbjct  28   NDDTGWKAQLQRPPKDMRMQTTDVTDTKGNEFEDYCLRRELLMGIFEKGWEKPSPIQEAS  87
+
+Query  68   IGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVE  127
+            I IA +G+DILARAKNGTGKTGAYCIP+++R+DTSK+ +QALIIVPTRELALQTSQIC+E
+Sbjct  88   IPIAQTGRDILARAKNGTGKTGAYCIPILDRIDTSKNVVQALIIVPTRELALQTSQICIE  147
+
+Query  128  LGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDE  187
+            + KHIG +VMVTTGGT+LRDDI+RL   VHLI+ATPGRI+DLM K +     CKMLVLDE
+Sbjct  148  VSKHIGCRVMVTTGGTNLRDDIMRLTEQVHLIIATPGRILDLMNKNLVHADHCKMLVLDE  207
+
+Query  188  ADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLL  247
+            ADKLLSQDF+G+LD +++ LP  RQI+LYSATFP TV  FM  H+ NPYEINLM+ELTL 
+Sbjct  208  ADKLLSQDFKGMLDAIIAHLPHDRQILLYSATFPLTVEQFMRKHLNNPYEINLMDELTLK  267
+
+Query  248  GVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            GV+Q+YAFV EKQKVHCLNTLF KLQINQSIIFC
+Sbjct  268  GVSQYYAFVQEKQKVHCLNTLFSKLQINQSIIFC  301
+
+
+
+
+>unnamed protein product [Callosobruchus analis]
+Sequence ID: CAI5857759.1 Length: 448
+Range 1: 19 to 298
+
+Score:432 bits(1111), Expect:7e-148, 
+Method:Compositional matrix adjust., 
+Identities:205/280(73%), Positives:242/280(86%), Gaps:1/280(0%)
+
+Query  3    VEAQNKTND-DWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPS  61
+            V+  NK +D  WKA+L++P KD R +T DVT+T+G +FEEF L RDLL GIFEKGWERPS
+Sbjct  19   VDMDNKADDLGWKAKLKIPPKDRRIQTSDVTDTKGNEFEEFCLKRDLLMGIFEKGWERPS  78
+
+Query  62   PIQEASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQT  121
+            PIQEASI IALSG+D+LARAKNGTGKTGAYCIPV+E++D  KDCIQALIIVPTRELALQT
+Sbjct  79   PIQEASIPIALSGKDVLARAKNGTGKTGAYCIPVLEQIDPKKDCIQALIIVPTRELALQT  138
+
+Query  122  SQICVELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCK  181
+            SQIC+EL KH+ ++VMVTTGGT+LRDDI+R+   V +I+ATPGRI+DLMEKGVA +  CK
+Sbjct  139  SQICIELAKHMDVRVMVTTGGTNLRDDIMRIYQKVQVIIATPGRILDLMEKGVAVMDHCK  198
+
+Query  182  MLVLDEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLM  241
+            +LVLDEADKLLSQDF+G+LD ++  LP  RQI+L+SATFP TV  FM  H+++PYEINLM
+Sbjct  199  ILVLDEADKLLSQDFKGMLDTVIKNLPQERQILLFSATFPLTVEQFMRKHLRDPYEINLM  258
+
+Query  242  EELTLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            EELTL GVTQ+YAFV E+QKVHCLNTLF KLQINQSIIFC
+Sbjct  259  EELTLKGVTQYYAFVQERQKVHCLNTLFSKLQINQSIIFC  298
+
+
+
+
+>ATP-dependent RNA helicase cgh-1 [Trichinella pseudospiralis]
+Sequence ID: KRZ30331.1 Length: 514
+Range 1: 40 to 315
+
+Score:434 bits(1116), Expect:1e-147, 
+Method:Compositional matrix adjust., 
+Identities:201/276(73%), Positives:238/276(86%), Gaps:0/276(0%)
+
+Query  6    QNKTNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQE  65
+            QN T +DWK  L+LP KD R +T DVT T+G +FE+F L R+LL G++EKGWE+PSP+QE
+Sbjct  40   QNHTAEDWKKSLKLPPKDKRIQTADVTRTKGNEFEDFCLKRELLMGLYEKGWEKPSPVQE  99
+
+Query  66   ASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQIC  125
+            ASI +ALSGQDILARAKNGTGKTGAY IP++ER+D     IQALIIVPTRELA+QTSQIC
+Sbjct  100  ASIPVALSGQDILARAKNGTGKTGAYSIPLLERIDPELHSIQALIIVPTRELAMQTSQIC  159
+
+Query  126  VELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVL  185
+            +EL KH+ +KVMVTTGGT L+DDI+ L+  VHLI+ATPGRI+DLM+K +A V  CKMLVL
+Sbjct  160  IELSKHLKIKVMVTTGGTSLKDDIVNLSGTVHLIIATPGRILDLMDKNIANVNKCKMLVL  219
+
+Query  186  DEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELT  245
+            DEADKLLSQDF+G+LD+++ FLP  RQIMLYSATFP TV +FM+ HM+ PYEINLM+ELT
+Sbjct  220  DEADKLLSQDFKGILDKMIGFLPEDRQIMLYSATFPITVEAFMKKHMRTPYEINLMDELT  279
+
+Query  246  LLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            LLGVTQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  280  LLGVTQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  315
+
+
+
+
+>unnamed protein product [Acanthoscelides obtectus]
+Sequence ID: CAH1963156.1 Length: 448
+Range 1: 19 to 298
+
+Score:431 bits(1109), Expect:2e-147, 
+Method:Compositional matrix adjust., 
+Identities:204/280(73%), Positives:242/280(86%), Gaps:1/280(0%)
+
+Query  3    VEAQNKTND-DWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPS  61
+            ++  NK +D  WKA+L++P KD R +T DVT+T+G +FEEF L RDLL GIFEKGWERPS
+Sbjct  19   LDMDNKADDLGWKAKLKIPPKDRRIQTSDVTDTKGNEFEEFCLKRDLLMGIFEKGWERPS  78
+
+Query  62   PIQEASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQT  121
+            PIQEASI IALSG+D+LARAKNGTGKTGAYCIPV+E++D  KDCIQALIIVPTRELALQT
+Sbjct  79   PIQEASIPIALSGKDVLARAKNGTGKTGAYCIPVLEQIDPKKDCIQALIIVPTRELALQT  138
+
+Query  122  SQICVELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCK  181
+            SQIC+EL KH+ ++VMVTTGGT+LRDDI+R+   V +I+ATPGRI+DLMEKGVA +  CK
+Sbjct  139  SQICIELAKHMDVRVMVTTGGTNLRDDIMRIYQKVQVIIATPGRILDLMEKGVAVMDHCK  198
+
+Query  182  MLVLDEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLM  241
+            +LVLDEADKLLSQDF+G+LD ++  LP  RQI+L+SATFP TV  FM  H+++PYEINLM
+Sbjct  199  ILVLDEADKLLSQDFKGMLDTVIKNLPQERQILLFSATFPLTVEQFMRKHLRDPYEINLM  258
+
+Query  242  EELTLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            EELTL GVTQ+YAFV E+QKVHCLNTLF KLQINQSIIFC
+Sbjct  259  EELTLKGVTQYYAFVQERQKVHCLNTLFSKLQINQSIIFC  298
+
+
+
+
+>ATP-dependent RNA helicase me31b isoform X2 [Pieris brassicae]
+Sequence ID: XP_045532384.1 Length: 442
+Range 1: 25 to 301
+
+Score:431 bits(1108), Expect:2e-147, 
+Method:Compositional matrix adjust., 
+Identities:204/277(74%), Positives:241/277(87%), Gaps:2/277(0%)
+
+Query  7    NKTNDD--WKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQ  64
+            +KT DD  WK++L+LP KD R KT DVT+TRG +FEEF L R++L GIFEKGWE+PSPIQ
+Sbjct  25   DKTVDDMGWKSKLKLPPKDRRMKTSDVTDTRGNEFEEFCLKREILMGIFEKGWEKPSPIQ  84
+
+Query  65   EASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQI  124
+            EASI IALSG+D+LARAKNGTGKTGAYCIPVIE++D  KDCIQALI+VPTRELALQTSQI
+Sbjct  85   EASIPIALSGKDVLARAKNGTGKTGAYCIPVIEQVDPKKDCIQALIVVPTRELALQTSQI  144
+
+Query  125  CVELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLV  184
+            C+EL KH  ++VMVTTGGT+LRDDI+R+   V +I+ATPGRIIDLM+K VA++  C+MLV
+Sbjct  145  CIELAKHTDIRVMVTTGGTNLRDDIMRIYQNVQVIIATPGRIIDLMDKQVAKMDQCRMLV  204
+
+Query  185  LDEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEEL  244
+            LDEADKLLSQDF+G+LD ++S LP  RQI+L+SATFP +V  FME H++ PYEINLMEEL
+Sbjct  205  LDEADKLLSQDFKGMLDLVISRLPKERQILLFSATFPLSVKQFMEKHLREPYEINLMEEL  264
+
+Query  245  TLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            TL GVTQ+YAFV E+QKVHCLNTLF KLQINQSIIFC
+Sbjct  265  TLKGVTQYYAFVQERQKVHCLNTLFSKLQINQSIIFC  301
+
+
+
+
+>hypothetical protein WR25_10168 isoform A [Diploscapter pachys]
+Sequence ID: PAV74952.1 Length: 354
+>hypothetical protein WR25_10168 isoform B [Diploscapter pachys]
+Sequence ID: PAV74953.1 Length: 354 
+Range 1: 14 to 283
+
+Score:427 bits(1099), Expect:2e-147, 
+Method:Compositional matrix adjust., 
+Identities:197/270(73%), Positives:232/270(85%), Gaps:0/270(0%)
+
+Query  2    AVEAQNKTNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPS  61
+            A+  +    DDWK+ +++P KD R+KT DVT T+G++FE+F LSRDLL GIFEKGWE+PS
+Sbjct  14   AILGKEIKEDDWKSTIKIPPKDRRFKTADVTGTKGVEFEDFCLSRDLLMGIFEKGWEKPS  73
+
+Query  62   PIQEASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQT  121
+            PIQEASIG+ALSGQDI+ARAKNGTGKTGAY IPV+E +D +   +QALIIVPTRELALQT
+Sbjct  74   PIQEASIGVALSGQDIIARAKNGTGKTGAYSIPVLEMIDPNVKDVQALIIVPTRELALQT  133
+
+Query  122  SQICVELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCK  181
+            SQIC+EL KHI LK+MVTTGGTDLRDDI+RLN  V L++ TPGR++DL+EKG+A++  CK
+Sbjct  134  SQICIELSKHIQLKIMVTTGGTDLRDDIMRLNGVVQLMIGTPGRVLDLIEKGIAKIAKCK  193
+
+Query  182  MLVLDEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLM  241
+            +LVLDEADKLL QDFQG LD ++  LPA RQIMLYSATFP TV +FME HMK PYEINLM
+Sbjct  194  VLVLDEADKLLGQDFQGALDNVIKHLPATRQIMLYSATFPYTVTTFMEKHMKKPYEINLM  253
+
+Query  242  EELTLLGVTQFYAFVTEKQKVHCLNTLFRK  271
+            +ELTLLGVTQ+YAFV EKQKVHCLNTLFRK
+Sbjct  254  DELTLLGVTQYYAFVQEKQKVHCLNTLFRK  283
+
+
+
+
+>unnamed protein product [Timema bartmani]
+Sequence ID: CAD7444416.1 Length: 396
+Range 1: 80 to 348
+
+Score:429 bits(1102), Expect:3e-147, 
+Method:Compositional matrix adjust., 
+Identities:198/269(74%), Positives:237/269(88%), Gaps:0/269(0%)
+
+Query  13   WKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASIGIAL  72
+            WKA+L++P KD R +T DVT+TRG +FEEF L R+LL GIFEKGWE+PSPIQEASI IAL
+Sbjct  80   WKAKLKIPPKDQRMRTSDVTDTRGNEFEEFCLKRELLMGIFEKGWEKPSPIQEASIPIAL  139
+
+Query  73   SGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVELGKHI  132
+            SG+D+LARAKNGTGKTGAY IPV+E++D  KDCIQAL+IVPTRELALQTSQIC+EL KH+
+Sbjct  140  SGKDVLARAKNGTGKTGAYSIPVLEQVDPKKDCIQALVIVPTRELALQTSQICIELAKHM  199
+
+Query  133  GLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEADKLL  192
+             +KVMVTTGGT+LRDDI+R+   V +I+ATPGRI+DLM+K VA ++ CK+LVLDEADKLL
+Sbjct  200  EVKVMVTTGGTNLRDDIMRIYQKVQVIIATPGRILDLMDKNVANMEHCKILVLDEADKLL  259
+
+Query  193  SQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLGVTQF  252
+            SQDF+G+LD ++S LP  RQI+L+SATFP TV  FM+ H+++PYEINLMEELTL GVTQ+
+Sbjct  260  SQDFKGMLDHVISRLPKERQILLFSATFPLTVKQFMDKHLRDPYEINLMEELTLKGVTQY  319
+
+Query  253  YAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            YAFV E+QKVHCLNTLF KLQINQSIIFC
+Sbjct  320  YAFVQERQKVHCLNTLFSKLQINQSIIFC  348
+
+
+
+
+>ATP-dependent RNA helicase me31b [Thrips palmi]
+Sequence ID: XP_034250163.1 Length: 442
+Range 1: 28 to 296
+
+Score:431 bits(1107), Expect:3e-147, 
+Method:Compositional matrix adjust., 
+Identities:201/269(75%), Positives:236/269(87%), Gaps:0/269(0%)
+
+Query  13   WKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASIGIAL  72
+            WK++L++P KD R KT DVT+TRG +FEEF L R+LL GIFEKGWE+PSPIQEASI IAL
+Sbjct  28   WKSKLKIPPKDQRIKTSDVTDTRGNEFEEFCLKRELLMGIFEKGWEKPSPIQEASIPIAL  87
+
+Query  73   SGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVELGKHI  132
+            SG+D+LARAKNGTGKTGAY IPV+E++D  KDCIQAL+IVPTRELALQTSQIC+EL KH+
+Sbjct  88   SGKDVLARAKNGTGKTGAYSIPVLEQVDPKKDCIQALVIVPTRELALQTSQICIELAKHM  147
+
+Query  133  GLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEADKLL  192
+             +KVMVTTGGT+LRDDI+R+   VH+I+ATPGRI+DLM+K VA +  C++LVLDEADKLL
+Sbjct  148  DVKVMVTTGGTNLRDDIMRIYQKVHVIIATPGRILDLMDKKVANMDSCRILVLDEADKLL  207
+
+Query  193  SQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLGVTQF  252
+            SQDF+G+LD ++S LP  RQI+LYSATFP TV  FME H+K PYEINLMEELTL GVTQ+
+Sbjct  208  SQDFKGMLDHVISRLPQERQILLYSATFPLTVKQFMEKHLKEPYEINLMEELTLKGVTQY  267
+
+Query  253  YAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            YAFV E+QKVHCLNTLF KLQINQSIIFC
+Sbjct  268  YAFVQERQKVHCLNTLFSKLQINQSIIFC  296
+
+
+
+
+>unnamed protein product [Pieris brassicae]
+Sequence ID: CAH4037785.1 Length: 441
+Range 1: 24 to 300
+
+Score:431 bits(1107), Expect:3e-147, 
+Method:Compositional matrix adjust., 
+Identities:204/277(74%), Positives:241/277(87%), Gaps:2/277(0%)
+
+Query  7    NKTNDD--WKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQ  64
+            +KT DD  WK++L+LP KD R KT DVT+TRG +FEEF L R++L GIFEKGWE+PSPIQ
+Sbjct  24   DKTVDDMGWKSKLKLPPKDRRMKTSDVTDTRGNEFEEFCLKREILMGIFEKGWEKPSPIQ  83
+
+Query  65   EASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQI  124
+            EASI IALSG+D+LARAKNGTGKTGAYCIPVIE++D  KDCIQALI+VPTRELALQTSQI
+Sbjct  84   EASIPIALSGKDVLARAKNGTGKTGAYCIPVIEQVDPKKDCIQALIVVPTRELALQTSQI  143
+
+Query  125  CVELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLV  184
+            C+EL KH  ++VMVTTGGT+LRDDI+R+   V +I+ATPGRIIDLM+K VA++  C+MLV
+Sbjct  144  CIELAKHTDIRVMVTTGGTNLRDDIMRIYQNVQVIIATPGRIIDLMDKQVAKMDQCRMLV  203
+
+Query  185  LDEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEEL  244
+            LDEADKLLSQDF+G+LD ++S LP  RQI+L+SATFP +V  FME H++ PYEINLMEEL
+Sbjct  204  LDEADKLLSQDFKGMLDLVISRLPKERQILLFSATFPLSVKQFMEKHLREPYEINLMEEL  263
+
+Query  245  TLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            TL GVTQ+YAFV E+QKVHCLNTLF KLQINQSIIFC
+Sbjct  264  TLKGVTQYYAFVQERQKVHCLNTLFSKLQINQSIIFC  300
+
+
+
+
+>hypothetical protein ONE63_004660 [Megalurothrips usitatus]
+Sequence ID: KAJ1519364.1 Length: 430
+Range 1: 15 to 283
+
+Score:430 bits(1105), Expect:3e-147, 
+Method:Compositional matrix adjust., 
+Identities:201/269(75%), Positives:236/269(87%), Gaps:0/269(0%)
+
+Query  13   WKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASIGIAL  72
+            WK++L++P KD R KT DVT+TRG +FEEF L R+LL GIFEKGWE+PSPIQEASI IAL
+Sbjct  15   WKSKLKIPPKDQRIKTSDVTDTRGNEFEEFCLKRELLMGIFEKGWEKPSPIQEASIPIAL  74
+
+Query  73   SGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVELGKHI  132
+            SG+DILARAKNGTGKTGAYCIPV+E++D  KD IQAL++VPTRELALQTSQIC+EL KH+
+Sbjct  75   SGKDILARAKNGTGKTGAYCIPVLEQIDPKKDFIQALVVVPTRELALQTSQICIELAKHM  134
+
+Query  133  GLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEADKLL  192
+             +KVMVTTGGT+LRDDI+R+   VH+I+ATPGRI+DLM+K VA + +C++LVLDEADKLL
+Sbjct  135  DIKVMVTTGGTNLRDDIMRIYQKVHIIIATPGRILDLMDKNVANMDNCRILVLDEADKLL  194
+
+Query  193  SQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLGVTQF  252
+            SQDF+G+LD L+  LP  RQI+LYSATFP TV  FME H+K PYEINLMEELTL GVTQ+
+Sbjct  195  SQDFKGMLDHLILRLPKERQILLYSATFPLTVKQFMEKHLKEPYEINLMEELTLKGVTQY  254
+
+Query  253  YAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            YAFV E+QKVHCLNTLF KLQINQSIIFC
+Sbjct  255  YAFVQERQKVHCLNTLFSKLQINQSIIFC  283
+
+
+
+
+>ATP-dependent RNA helicase cgh-1 [Trichinella sp. T9]
+Sequence ID: KRX63805.1 Length: 464
+>ATP-dependent RNA helicase cgh-1 [Trichinella sp. T6]
+Sequence ID: KRX75019.1 Length: 464 
+Range 1: 40 to 323
+
+Score:431 bits(1108), Expect:3e-147, 
+Method:Compositional matrix adjust., 
+Identities:203/284(71%), Positives:239/284(84%), Gaps:8/284(2%)
+
+Query  6    QNKTNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQE  65
+            QN T +DWK  L+LP KD R +T DVT T+G +FE+F L R+LL G++EKGWE+PSP+QE
+Sbjct  40   QNHTAEDWKKSLKLPPKDKRIQTADVTRTKGNEFEDFCLKRELLMGLYEKGWEKPSPVQE  99
+
+Query  66   ASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQIC  125
+            ASI +ALSGQDILARAKNGTGKTGAY IP++ER+D     IQALIIVPTRELA+QTSQIC
+Sbjct  100  ASIPVALSGQDILARAKNGTGKTGAYSIPLLERIDPELHSIQALIIVPTRELAMQTSQIC  159
+
+Query  126  VELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVL  185
+            +EL KH+ +KVMVTTGGT L+DDI+ L+  VHLI+ATPGRI+DLM+K +A V  CKMLVL
+Sbjct  160  IELSKHLKIKVMVTTGGTSLKDDIVNLSGTVHLIIATPGRILDLMDKNIANVNKCKMLVL  219
+
+Query  186  DEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMES--------HMKNPYE  237
+            DEADKLLSQDF+G+LD+++SFLP  RQIMLYSATFP TV +FM S        HM+ PYE
+Sbjct  220  DEADKLLSQDFKGILDKMISFLPEDRQIMLYSATFPITVEAFMVSESNSGFKKHMRTPYE  279
+
+Query  238  INLMEELTLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            INLM+ELTLLGVTQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  280  INLMDELTLLGVTQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  323
+
+
+
+
+>hypothetical protein ONE63_004660 [Megalurothrips usitatus]
+Sequence ID: KAJ1519363.1 Length: 444
+Range 1: 29 to 297
+
+Score:430 bits(1106), Expect:4e-147, 
+Method:Compositional matrix adjust., 
+Identities:201/269(75%), Positives:236/269(87%), Gaps:0/269(0%)
+
+Query  13   WKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASIGIAL  72
+            WK++L++P KD R KT DVT+TRG +FEEF L R+LL GIFEKGWE+PSPIQEASI IAL
+Sbjct  29   WKSKLKIPPKDQRIKTSDVTDTRGNEFEEFCLKRELLMGIFEKGWEKPSPIQEASIPIAL  88
+
+Query  73   SGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVELGKHI  132
+            SG+DILARAKNGTGKTGAYCIPV+E++D  KD IQAL++VPTRELALQTSQIC+EL KH+
+Sbjct  89   SGKDILARAKNGTGKTGAYCIPVLEQIDPKKDFIQALVVVPTRELALQTSQICIELAKHM  148
+
+Query  133  GLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEADKLL  192
+             +KVMVTTGGT+LRDDI+R+   VH+I+ATPGRI+DLM+K VA + +C++LVLDEADKLL
+Sbjct  149  DIKVMVTTGGTNLRDDIMRIYQKVHIIIATPGRILDLMDKNVANMDNCRILVLDEADKLL  208
+
+Query  193  SQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLGVTQF  252
+            SQDF+G+LD L+  LP  RQI+LYSATFP TV  FME H+K PYEINLMEELTL GVTQ+
+Sbjct  209  SQDFKGMLDHLILRLPKERQILLYSATFPLTVKQFMEKHLKEPYEINLMEELTLKGVTQY  268
+
+Query  253  YAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            YAFV E+QKVHCLNTLF KLQINQSIIFC
+Sbjct  269  YAFVQERQKVHCLNTLFSKLQINQSIIFC  297
+
+
+
+
+>hypothetical protein [Lymnaea stagnalis]
+Sequence ID: QOW64963.1 Length: 464
+Range 1: 8 to 285
+
+Score:431 bits(1108), Expect:4e-147, 
+Method:Compositional matrix adjust., 
+Identities:202/278(73%), Positives:239/278(85%), Gaps:2/278(0%)
+
+Query  6    QNKTNDD--WKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPI  63
+            QN T+++  WK++L LPA D R +T DVTNT+G +FE+F L RDLL GIFEKGWE+PSPI
+Sbjct  8    QNDTSNEQGWKSKLNLPAPDHRVRTSDVTNTKGNEFEDFCLKRDLLMGIFEKGWEKPSPI  67
+
+Query  64   QEASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQ  123
+            QEASI IAL+G+DILARAKNGTGKTGAY IP +E++D+SKD +QALIIVPTRELALQTSQ
+Sbjct  68   QEASIPIALTGRDILARAKNGTGKTGAYAIPCLEKVDSSKDLVQALIIVPTRELALQTSQ  127
+
+Query  124  ICVELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKML  183
+            IC+EL KHIG + MVTTGGT+L+DDI+RL   VH+I+ATPGRI+DLM K + ++Q+C  L
+Sbjct  128  ICIELSKHIGCRCMVTTGGTNLKDDIMRLTEPVHVIIATPGRILDLMNKNLVKIQNCGTL  187
+
+Query  184  VLDEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEE  243
+            +LDEADKLLSQDF+G+LD ++  LP  RQIMLYSATFP TV +FM  H+KNPYEINLMEE
+Sbjct  188  ILDEADKLLSQDFKGMLDSIIGHLPKDRQIMLYSATFPLTVEAFMRKHLKNPYEINLMEE  247
+
+Query  244  LTLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            LTL GVTQ+YAFV EKQKVHCLNTLF KLQINQSIIFC
+Sbjct  248  LTLKGVTQYYAFVQEKQKVHCLNTLFSKLQINQSIIFC  285
+
+
+
+
+>LOW QUALITY PROTEIN: putative ATP-dependent RNA helicase me31b [Ctenocephalides felis]
+Sequence ID: XP_026469178.1 Length: 418
+Range 1: 6 to 274
+
+Score:429 bits(1103), Expect:4e-147, 
+Method:Compositional matrix adjust., 
+Identities:200/269(74%), Positives:236/269(87%), Gaps:0/269(0%)
+
+Query  13   WKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASIGIAL  72
+            WK++L++P KD R KT DVT+TRG +FEEF L R+LL GIFEKGWE+PSPIQEASI IAL
+Sbjct  6    WKSKLKIPPKDRRIKTSDVTDTRGNEFEEFCLKRELLMGIFEKGWEKPSPIQEASIPIAL  65
+
+Query  73   SGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVELGKHI  132
+            SG+DILARAKNGTGKTGAYCIPV+E++D  KDCIQAL+IVPTRELALQTSQIC+EL KH+
+Sbjct  66   SGKDILARAKNGTGKTGAYCIPVLEQVDPKKDCIQALVIVPTRELALQTSQICIELAKHM  125
+
+Query  133  GLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEADKLL  192
+             ++VMVTTGGT+LRDDI+R+   V +I+ATPGRI+DLM+K VA  + C+MLVLDEADKLL
+Sbjct  126  EIRVMVTTGGTNLRDDIMRIYQKVQVIIATPGRILDLMDKQVANTEHCRMLVLDEADKLL  185
+
+Query  193  SQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLGVTQF  252
+            SQDF+G+LD ++S LP  RQI+L+SATFP +V  FME H+K PYEINLMEELTL GVTQ+
+Sbjct  186  SQDFKGMLDHVISRLPRERQILLFSATFPLSVKQFMEKHLKEPYEINLMEELTLKGVTQY  245
+
+Query  253  YAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            YAFV E+QKVHCLNTLF KLQINQSIIFC
+Sbjct  246  YAFVQERQKVHCLNTLFSKLQINQSIIFC  274
+
+
+
+
+>unnamed protein product [Diatraea saccharalis]
+Sequence ID: CAG9785477.1 Length: 439
+Range 1: 26 to 302
+
+Score:430 bits(1105), Expect:4e-147, 
+Method:Compositional matrix adjust., 
+Identities:202/277(73%), Positives:242/277(87%), Gaps:2/277(0%)
+
+Query  7    NKTNDD--WKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQ  64
+            +KT DD  WK++L++P KD R KT DVT+TRG +FEEF L R+LL GIFEKGWE+PSPIQ
+Sbjct  26   DKTIDDIGWKSKLKIPPKDRRIKTSDVTDTRGNEFEEFCLKRELLMGIFEKGWEKPSPIQ  85
+
+Query  65   EASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQI  124
+            EASI IALSG+D+LARAKNGTGKTGAYCIPV+E++D  KDCIQALI+VPTRELALQTSQI
+Sbjct  86   EASIPIALSGKDVLARAKNGTGKTGAYCIPVLEQVDPKKDCIQALIVVPTRELALQTSQI  145
+
+Query  125  CVELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLV  184
+            C+EL KH  ++VMVTTGGT+LRDDI+R+   V +I+ATPGR+IDLM+K VA+++ C+MLV
+Sbjct  146  CIELAKHTDIRVMVTTGGTNLRDDIMRIYQNVQVIIATPGRMIDLMDKKVAKMEHCRMLV  205
+
+Query  185  LDEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEEL  244
+            LDEADKLLSQDF+G+LD ++S LP  RQI+L+SATFP +V  FME H++ PYEINLMEEL
+Sbjct  206  LDEADKLLSQDFKGMLDMVISRLPKERQILLFSATFPLSVKQFMEKHLREPYEINLMEEL  265
+
+Query  245  TLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            TL GVTQ+YAFV E+QKVHCLNTLF KLQINQSIIFC
+Sbjct  266  TLKGVTQYYAFVQERQKVHCLNTLFSKLQINQSIIFC  302
+
+
+
+
+>ATP-dependent RNA helicase me31b [Trichonephila clavata]
+Sequence ID: GFQ94584.1 Length: 382
+Range 1: 7 to 275
+
+Score:428 bits(1100), Expect:4e-147, 
+Method:Compositional matrix adjust., 
+Identities:197/269(73%), Positives:237/269(88%), Gaps:0/269(0%)
+
+Query  13   WKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASIGIAL  72
+            WKA+L+LP KD R KT DVT+T+G +FE+F L R+LL GIFEKGWE+PSPIQEASI IAL
+Sbjct  7    WKAKLKLPPKDKRKKTSDVTDTKGNEFEDFCLKRELLMGIFEKGWEKPSPIQEASIPIAL  66
+
+Query  73   SGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVELGKHI  132
+             G+DILARAKNGTGKTGAY IP+++R+D +KD IQAL+IVPTRELALQTSQIC+EL KHI
+Sbjct  67   LGRDILARAKNGTGKTGAYIIPILQRIDITKDYIQALVIVPTRELALQTSQICIELSKHI  126
+
+Query  133  GLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEADKLL  192
+            G +VMVTTGGT+L+DDI+R+   VH+I+ATPGRI+DLMEK VA++  C ML+LDEADKLL
+Sbjct  127  GARVMVTTGGTNLKDDIMRIYENVHIIIATPGRILDLMEKNVAKMDRCNMLILDEADKLL  186
+
+Query  193  SQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLGVTQF  252
+            SQDF+G+LD+++S+LP+ RQI+LYSATFP TV  FM  H+ +PYEINLM+ELTL GVTQ+
+Sbjct  187  SQDFKGILDKVISYLPSDRQILLYSATFPLTVEQFMRKHLSDPYEINLMDELTLKGVTQY  246
+
+Query  253  YAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            YAFV E+QKVHCLNTLF KLQINQSIIFC
+Sbjct  247  YAFVQERQKVHCLNTLFSKLQINQSIIFC  275
+
+
+
+
+>hypothetical protein evm_002791 [Chilo suppressalis]
+Sequence ID: RVE52672.1 Length: 441
+>unnamed protein product [Chilo suppressalis]
+Sequence ID: CAH0407047.1 Length: 441 
+Range 1: 26 to 302
+
+Score:430 bits(1105), Expect:5e-147, 
+Method:Compositional matrix adjust., 
+Identities:202/277(73%), Positives:242/277(87%), Gaps:2/277(0%)
+
+Query  7    NKTNDD--WKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQ  64
+            +KT DD  WK++L++P KD R KT DVT+TRG +FEEF L R+LL GIFEKGWE+PSPIQ
+Sbjct  26   DKTIDDIGWKSKLKIPPKDRRIKTSDVTDTRGNEFEEFCLKRELLMGIFEKGWEKPSPIQ  85
+
+Query  65   EASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQI  124
+            EASI IALSG+D+LARAKNGTGKTGAYCIPV+E++D  KDCIQALI+VPTRELALQTSQI
+Sbjct  86   EASIPIALSGKDVLARAKNGTGKTGAYCIPVLEQVDPKKDCIQALIVVPTRELALQTSQI  145
+
+Query  125  CVELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLV  184
+            C+EL KH  ++VMVTTGGT+LRDDI+R+   V +I+ATPGR+IDLM+K VA+++ C+MLV
+Sbjct  146  CIELAKHTDIRVMVTTGGTNLRDDIMRIYQNVQVIIATPGRMIDLMDKKVAKMEQCRMLV  205
+
+Query  185  LDEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEEL  244
+            LDEADKLLSQDF+G+LD ++S LP  RQI+L+SATFP +V  FME H++ PYEINLMEEL
+Sbjct  206  LDEADKLLSQDFKGMLDMVISRLPKERQILLFSATFPLSVKQFMEKHLREPYEINLMEEL  265
+
+Query  245  TLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            TL GVTQ+YAFV E+QKVHCLNTLF KLQINQSIIFC
+Sbjct  266  TLKGVTQYYAFVQERQKVHCLNTLFSKLQINQSIIFC  302
+
+
+
+
+>putative ATP-dependent RNA helicase me31b [Ctenocephalides felis]
+Sequence ID: XP_026461540.1 Length: 443
+Range 1: 31 to 299
+
+Score:430 bits(1105), Expect:5e-147, 
+Method:Compositional matrix adjust., 
+Identities:200/269(74%), Positives:236/269(87%), Gaps:0/269(0%)
+
+Query  13   WKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASIGIAL  72
+            WK++L++P KD R KT DVT+TRG +FEEF L R+LL GIFEKGWE+PSPIQEASI IAL
+Sbjct  31   WKSKLKIPPKDRRIKTSDVTDTRGNEFEEFCLKRELLMGIFEKGWEKPSPIQEASIPIAL  90
+
+Query  73   SGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVELGKHI  132
+            SG+DILARAKNGTGKTGAYCIPV+E++D  KDCIQAL+IVPTRELALQTSQIC+EL KH+
+Sbjct  91   SGKDILARAKNGTGKTGAYCIPVLEQVDPKKDCIQALVIVPTRELALQTSQICIELAKHM  150
+
+Query  133  GLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEADKLL  192
+             ++VMVTTGGT+LRDDI+R+   V +I+ATPGRI+DLM+K VA  + C+MLVLDEADKLL
+Sbjct  151  EIRVMVTTGGTNLRDDIMRIYQKVQVIIATPGRILDLMDKQVANTEHCRMLVLDEADKLL  210
+
+Query  193  SQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLGVTQF  252
+            SQDF+G+LD ++S LP  RQI+L+SATFP +V  FME H+K PYEINLMEELTL GVTQ+
+Sbjct  211  SQDFKGMLDHVISRLPRERQILLFSATFPLSVKQFMEKHLKEPYEINLMEELTLKGVTQY  270
+
+Query  253  YAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            YAFV E+QKVHCLNTLF KLQINQSIIFC
+Sbjct  271  YAFVQERQKVHCLNTLFSKLQINQSIIFC  299
+
+
+
+
+>putative ATP-dependent RNA helicase me31b [Penaeus vannamei]
+Sequence ID: XP_027228145.1 Length: 443
+>ATP-dependent RNA helicase me31b-like [Penaeus monodon]
+Sequence ID: XP_037789068.1 Length: 443
+>hypothetical protein C7M84_016538 [Penaeus vannamei]
+Sequence ID: ROT65507.1 Length: 443 
+Range 1: 24 to 299
+
+Score:430 bits(1105), Expect:5e-147, 
+Method:Compositional matrix adjust., 
+Identities:201/276(73%), Positives:241/276(87%), Gaps:2/276(0%)
+
+Query  8    KTNDD--WKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQE  65
+            K  DD  WKAQ+Q+P KD R +T DVT+T+G +FE+F L RDLL GIFEKGWERPSPIQE
+Sbjct  24   KATDDRSWKAQIQVPPKDRRKRTSDVTDTKGNEFEDFCLKRDLLMGIFEKGWERPSPIQE  83
+
+Query  66   ASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQIC  125
+            ASI +ALSG+DILARAKNGTGKTGAY IP++E++D +++ IQA++IVPTRELALQTS IC
+Sbjct  84   ASIPVALSGRDILARAKNGTGKTGAYSIPLLEQIDPTQNHIQAMVIVPTRELALQTSHIC  143
+
+Query  126  VELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVL  185
+             EL KHIG+KVMVTTGGT+L+DDI+R+   VH ++ATPGRI+DLMEK VA +  CKMLVL
+Sbjct  144  NELAKHIGVKVMVTTGGTNLKDDIMRIYEVVHAVIATPGRILDLMEKKVAVMDKCKMLVL  203
+
+Query  186  DEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELT  245
+            DEADKLLSQDF+G+LDR++S+LPA RQI+LYSATFP TV  FM+ H+++PYEINLM+ELT
+Sbjct  204  DEADKLLSQDFKGMLDRVISYLPAERQILLYSATFPLTVEQFMKKHLRSPYEINLMDELT  263
+
+Query  246  LLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            L GVTQ+YAFV E+QKVHCLNTLF KLQINQSIIFC
+Sbjct  264  LKGVTQYYAFVQERQKVHCLNTLFSKLQINQSIIFC  299
+
+
+
+
+>ATP-dependent RNA helicase cgh-1 [Trichinella murrelli]
+Sequence ID: KRX40841.1 Length: 464
+Range 1: 40 to 323
+
+Score:431 bits(1107), Expect:5e-147, 
+Method:Compositional matrix adjust., 
+Identities:203/284(71%), Positives:239/284(84%), Gaps:8/284(2%)
+
+Query  6    QNKTNDDWKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQE  65
+            QN T +DWK  L+LP KD R +T DVT T+G +FE+F L R+LL G++EKGWE+PSP+QE
+Sbjct  40   QNYTAEDWKKSLKLPPKDKRIQTADVTRTKGNEFEDFCLKRELLMGLYEKGWEKPSPVQE  99
+
+Query  66   ASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQIC  125
+            ASI +ALSGQDILARAKNGTGKTGAY IP++ER+D     IQALIIVPTRELA+QTSQIC
+Sbjct  100  ASIPVALSGQDILARAKNGTGKTGAYSIPLLERIDPELHSIQALIIVPTRELAMQTSQIC  159
+
+Query  126  VELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVL  185
+            +EL KH+ +KVMVTTGGT L+DDI+ L+  VHLI+ATPGRI+DLM+K +A V  CKMLVL
+Sbjct  160  IELSKHLKIKVMVTTGGTSLKDDIVNLSGTVHLIIATPGRILDLMDKNIANVNKCKMLVL  219
+
+Query  186  DEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMES--------HMKNPYE  237
+            DEADKLLSQDF+G+LD+++SFLP  RQIMLYSATFP TV +FM S        HM+ PYE
+Sbjct  220  DEADKLLSQDFKGILDKMISFLPEDRQIMLYSATFPITVEAFMVSESNSGFKKHMRTPYE  279
+
+Query  238  INLMEELTLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            INLM+ELTLLGVTQ+YA+V EKQKVHCLNTLFRKLQINQSIIFC
+Sbjct  280  INLMDELTLLGVTQYYAYVQEKQKVHCLNTLFRKLQINQSIIFC  323
+
+
+
+
+>DEAD-box DDX6 [Locusta migratoria]
+Sequence ID: QOS47384.1 Length: 450
+Range 1: 36 to 304
+
+Score:430 bits(1106), Expect:5e-147, 
+Method:Compositional matrix adjust., 
+Identities:198/269(74%), Positives:238/269(88%), Gaps:0/269(0%)
+
+Query  13   WKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQEASIGIAL  72
+            WK++L++P KD R +T DVT+TRG +FEEF L R+LL GIFEKGWE+PSPIQEASI IAL
+Sbjct  36   WKSKLKIPPKDRRIQTSDVTDTRGNEFEEFCLKRELLMGIFEKGWEKPSPIQEASIPIAL  95
+
+Query  73   SGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQICVELGKHI  132
+            SG+D+LARAKNGTGKTGAY IPV+E++D  KDCIQALIIVPTRELALQTSQIC+EL KH+
+Sbjct  96   SGKDVLARAKNGTGKTGAYSIPVLEQVDPKKDCIQALIIVPTRELALQTSQICIELAKHM  155
+
+Query  133  GLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLVLDEADKLL  192
+             +KVMVTTGGT+LRDDI+R+   VH+++ATPGRI+DLM+K VA ++ C+MLVLDEADKLL
+Sbjct  156  KVKVMVTTGGTNLRDDIMRIYQTVHVVIATPGRILDLMDKHVANMEHCRMLVLDEADKLL  215
+
+Query  193  SQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEELTLLGVTQF  252
+            SQDF+G+LD +++ LP+ RQI+LYSATFP +V  FME H++ PYEINLMEELTL GVTQ+
+Sbjct  216  SQDFKGMLDHVIAQLPSERQILLYSATFPLSVKQFMEKHLRKPYEINLMEELTLKGVTQY  275
+
+Query  253  YAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            YAFV E+QKVHCLNTLF KLQINQSIIFC
+Sbjct  276  YAFVQERQKVHCLNTLFSKLQINQSIIFC  304
+
+
+
+
+>ATP-dependent RNA helicase me31b [Pectinophora gossypiella]
+Sequence ID: XP_049868573.1 Length: 441
+>ATP-dependent RNA helicase me31b [Pectinophora gossypiella]
+Sequence ID: XP_049868574.1 Length: 441 
+Range 1: 25 to 301
+
+Score:430 bits(1105), Expect:5e-147, 
+Method:Compositional matrix adjust., 
+Identities:202/277(73%), Positives:242/277(87%), Gaps:2/277(0%)
+
+Query  7    NKTNDD--WKAQLQLPAKDMRYKTLDVTNTRGLDFEEFSLSRDLLKGIFEKGWERPSPIQ  64
+            +KT DD  WK++L++PAKD R KT DVT+TRG +FEEF L R+LL GIFEKGWE+PSPIQ
+Sbjct  25   DKTIDDIGWKSKLKIPAKDRRIKTSDVTDTRGNEFEEFCLKRELLMGIFEKGWEKPSPIQ  84
+
+Query  65   EASIGIALSGQDILARAKNGTGKTGAYCIPVIERLDTSKDCIQALIIVPTRELALQTSQI  124
+            EASI IALSG+D+LARAKNGTGKTGAYCIPV+E++D  KDCIQAL++VPTRELALQTSQI
+Sbjct  85   EASIPIALSGKDVLARAKNGTGKTGAYCIPVLEQVDPKKDCIQALVVVPTRELALQTSQI  144
+
+Query  125  CVELGKHIGLKVMVTTGGTDLRDDILRLNSAVHLIVATPGRIIDLMEKGVAEVQDCKMLV  184
+            C+EL KH  ++VMVTTGGT+LRDDI+R+   V +I+ATPGR+IDLM+K VA++  C+MLV
+Sbjct  145  CIELAKHTDIRVMVTTGGTNLRDDIMRIYQNVQVIIATPGRMIDLMDKQVAKMDQCRMLV  204
+
+Query  185  LDEADKLLSQDFQGVLDRLVSFLPAGRQIMLYSATFPRTVASFMESHMKNPYEINLMEEL  244
+            LDEADKLLSQDF+G+LD ++S LP  RQI+L+SATFP +V  FME H++ PYEINLMEEL
+Sbjct  205  LDEADKLLSQDFKGMLDMVISRLPKERQILLFSATFPLSVKQFMEKHLREPYEINLMEEL  264
+
+Query  245  TLLGVTQFYAFVTEKQKVHCLNTLFRKLQINQSIIFC  281
+            TL GVTQ+YAFV E+QKVHCLNTLF KLQINQSIIFC
+Sbjct  265  TLKGVTQYYAFVQERQKVHCLNTLFSKLQINQSIIFC  301
+
+
+
+
+		
+
+

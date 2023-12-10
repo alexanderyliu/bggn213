@@ -1,0 +1,10 @@
+Common Name,Description,Accession  ,Query Cover,E value,Per. ident
+African eye worm,ATP-dependent RNA helicase cgh-1 [Loa loa],XP_020303523.1,100%,8e-155,73.67
+dog roundworm,ATP-dependent RNA helicase cgh-1 [Toxocara canis],KHN80260.1,100%,2e-162,78.65
+large cabbage white,ATP-dependent RNA helicase me31b isoform X2 [Pieris brassicae],XP_045532384.1,97%,2e-147,73.65
+western flower thrips,ATP-dependent RNA helicase me31b [Frankliniella occidentalis],XP_026291730.1,98%,5e-149,73.21
+pink bollworm,ATP-dependent RNA helicase me31b [Pectinophora gossypiella],XP_049868573.1,97%,5e-147,72.92
+migratory locust,DEAD-box DDX6 [Locusta migratoria],QOS47384.1,95%,5e-147,73.61
+bovine lungworm,DEAD/DEAH box helicase [Dictyocaulus viviparus],KJH46407.1,97%,3e-161,79.49
+New World hookworm,DEAD/DEAH box helicase [Necator americanus],XP_013307512.1,89%,4e-152,81.35
+barber pole worm,DNA RNA helicase domain containing protein [Haemonchus contortus],CDJ84064.1,97%,1e-164,80.59

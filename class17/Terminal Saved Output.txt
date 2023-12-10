@@ -1,0 +1,47 @@
+Last login: Wed Nov 29 14:09:44 on ttys000
+alexanderyueliu@Alexs-MacBook-Pro class17 % scp -i ~/Downloads/bioinf_alexanderyliu.pem ubuntu@ip-172-31-23-99:~/work/mm-second.x.zebrafish.tsv
+usage: scp [-346ABCOpqRrsTv] [-c cipher] [-D sftp_server_path] [-F ssh_config]
+           [-i identity_file] [-J destination] [-l limit] [-o ssh_option]
+           [-P port] [-S program] [-X sftp_option] source ... target
+alexanderyueliu@Alexs-MacBook-Pro class17 % scp -i ~/Downloads/bioinf_alexanderyliu.pem ubuntu@ip-172-31-23-99:~/work/mm-second.x.zebrafish.tsv .
+ssh: Could not resolve hostname ip-172-31-23-99: nodename nor servname provided, or not known
+scp: Connection closed
+alexanderyueliu@Alexs-MacBook-Pro class17 % scp -i ~/Downloads/bioinf_alexanderyliu.pem ubuntu@ec2-34-216-186-139.us-west-2.compute.amazonaws.com:~/work/mm-second.x.zebrafish.tsv .
+mm-second.x.zebrafish.tsv                                  100% 2059KB   2.4MB/s   00:00    
+alexanderyueliu@Alexs-MacBook-Pro class17 % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

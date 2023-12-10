@@ -8,27 +8,33 @@ library(bio3d)
 ```
 
 ```{r}
-aln.seq<-read.fasta("muscle-I20231030-045803-0372-55159431-p1m.clw.fst")
+aln.seq<-read.fasta("muscle-I20231207-211957-0724-68859236-p1m.clw.fst")
 ```
 
 ```{r}
 pre.heat.data<-seqidentity(aln.seq)
+pre.heat.data
 ```
 
 ```{r}
-par(oma=c(6,2,1,4))  # space for outer margins
+par(oma=c(8.5,1,1,8))  # space for outer margins
 par(mar=c(5,4,4,2) + 0.1)   # litterally did jack... oh well, I'll leave it in since I think it should change the margin size.
-heatmap(pre.heat.data, symm=TRUE)
+H <- heatmap(pre.heat.data, symm=F)
 ```
 
 ```{r}
 cons.seq<-consensus(aln.seq)
 # cons.seq$seq for just the consensus sequence
+cons.seq$seq
+```
 
-b.data<-blast.pdb(cons.seq$seq)
+
+```{r}
+b.data<-blast.pdb(seq=cons.seq$seq)
 
 b.data
 ```
+
 
 ```{r}
 pdb.annotate("4CT4_B")

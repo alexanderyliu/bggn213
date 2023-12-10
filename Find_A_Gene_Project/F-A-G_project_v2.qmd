@@ -1,0 +1,43 @@
+---
+title: "F-A-G_project_v2"
+format: html
+---
+
+```{r}
+library(bio3d)
+```
+
+```{r}
+aln.seq<-read.fasta("muscle-I20231207-211957-0724-68859236-p1m.clw.fst")
+```
+
+```{r}
+pre.heat.data<-seqidentity(aln.seq)
+pre.heat.data
+```
+
+```{r}
+par(oma=c(8.5,1,1,8))  # space for outer margins
+par(mar=c(5,4,4,2) + 0.1)   # litterally did jack... oh well, I'll leave it in since I think it should change the margin size.
+res <- 300  # resolution in dots per inch (DPI)
+width <- 8  # width in inches
+height <- 6  # height in inches
+H <- heatmap(pre.heat.data, symm=T)
+dev.copy(tiff, "heatmap_v2.tiff", width = width, height = height, units = "in", res = res)
+dev.off()
+```
+
+```{r}
+#cons.seq<-consensus(aln.seq)
+#cons.seq$seq for just the consensus sequence
+#cons.seq$seq
+```
+
+
+```{r}
+# Calculate row-wise maximum
+average <- apply(pre.heat.data-diag(11), 1, mean)
+
+# Print the result
+print(which.max(average))
+```

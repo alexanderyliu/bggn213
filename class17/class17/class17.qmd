@@ -1,0 +1,31 @@
+---
+title: "class17"
+author: "Alexander Liu (A69026918)"
+format: html
+---
+
+```{r}
+data <- read.table("mm-second.x.zebrafish.tsv", col.names=c("qseqid", "sseqid", "pident", "length", "mismatch", "gapopen", "qstart", "qend", "sstart", "send", "evalue", "bitscore"))
+
+head(data)
+```
+
+```{r}
+hist(data$bitscore, breaks=30)
+```
+
+```{r}
+## Asuming your blast results are stored in an object called 'b'
+plot(data$pident  * (data$qend - data$qstart), data$bitscore)
+```
+
+```{r}
+library(ggplot2)
+ggplot(data, aes(pident, bitscore)) + geom_point(alpha=0.1) 
+```
+
+```{r}
+ggplot(data, aes((data$pident * (data$qend - data$qstart)), bitscore)) + geom_point(alpha=0.1) + geom_smooth()
+
+```
+

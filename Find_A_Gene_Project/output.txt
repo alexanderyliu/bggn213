@@ -1,0 +1,87 @@
+Started Thu Dec  7 21:20:02 2023
+/muscle/bin/muscle -in muscle-I20231207-211957-0724-68859236-p1m.sequence -verbose -log muscle-I20231207-211957-0724-68859236-p1m.output -quiet -clw -out muscle-I20231207-211957-0724-68859236-p1m.clw 
+Alphabet Amino
+
+MUSCLE v3.8.425 by Robert C. Edgar
+http://www.drive5.com/muscle
+
+Profile-profile score    LE
+Max iterations           8
+Max trees                1
+Max time                 (No limit)
+Max MB                   4294966851
+Gap open                 -2.9
+Gap extend (dimer)       0
+Gap ambig factor         0
+Gap ambig penalty        -0
+Center (LE)              -0.52
+Term gaps                Half
+Smooth window length     7
+Refine window length     200
+Min anchor spacing       32
+Min diag length (lambda) 24
+Diag margin (mu)         5
+Min diag break           1
+Hydrophobic window       5
+Hydrophobic gap factor   1.2
+Smooth score ceiling     3
+Min best col score       2
+Min anchor score         1
+SUEFF                    0.1
+Brenner root MSA         False
+Normalize counts         True
+Diagonals (1)            False
+Diagonals (2)            False
+Anchors                  True
+MSF output format        False
+Phylip interleaved       False
+Phylip sequential        False
+ClustalW output format   True
+Catch exceptions         True
+Quiet                    True
+Refine                   False
+ProdfDB                  False
+Low complexity profiles  True
+Objective score          SPM
+Distance method (1)      Kmer6_6
+Clustering method (1)    UPGMB
+Root method (1)          Pseudo
+Sequence weighting (1)   ClustalW
+Distance method (2)      PctIdKimura
+Clustering method (2)    UPGMB
+Root method (2)          Pseudo
+Sequence weighting (2)   ClustalW
+
+Elapsed time 00:00:00  Peak memory use   11 MB(-2%)  Iteration   1 K-mer dist pass 1
+Elapsed time 00:00:00  Peak memory use   11 MB(-2%)  Iteration   1 K-mer dist pass 2
+Align: (New_World_hookworm | DEAD/DEAH box helicase [Necator americanus] | XP_013307512.1) (barber_pole_worm | DNA RNA helicase domain containing protein [Haemonchus contortus] | CDJ84064.1)
+Align: (bovine_lungworm | DEAD/DEAH box helicase [Dictyocaulus viviparus] | KJH46407.1) (New_World_hookworm | DEAD/DEAH box helicase [Necator americanus] | XP_013307512.1,barber_pole_worm | DNA RNA helicase domain containing protein [Haemonchus contortus] | CDJ84064.1)
+Align: (African_eye_worm | ATP-dependent RNA helicase cgh-1 [Loa loa] | XP_020303523.1) (dog_roundworm | ATP-dependent RNA helicase cgh-1 [Toxocara canis] | KHN80260.1)
+Align: (bovine_lungworm | DEAD/DEAH box helicase [Dictyocaulus viviparus] | KJH46407.1,New_World_hookworm | DEAD/DEAH box helicase [Necator americanus] | XP_013307512.1,barber_pole_worm | DNA RNA helicase domain containing protein [Haemonchus contortus] | CDJ84064.1) (African_eye_worm | ATP-dependent RNA helicase cgh-1 [Loa loa] | XP_020303523.1,dog_roundworm | ATP-dependent RNA helicase cgh-1 [Toxocara canis] | KHN80260.1)
+Align: (Panagrolaimus_davidi_Ddx6 | (translated using EMBOSS Transeq, and ORF extracted)) (bovine_lungworm | DEAD/DEAH box helicase [Dictyocaulus viviparus] | KJH46407.1,New_World_hookworm | DEAD/DEAH box helicase [Necator americanus] | XP_013307512.1,barber_pole_worm | DNA RNA helicase domain containing protein [Haemonchus contortus] | CDJ84064.1,African_eye_worm | ATP-dependent RNA helicase cgh-1 [Loa loa] | XP_020303523.1,dog_roundworm | ATP-dependent RNA helicase cgh-1 [Toxocara canis] | KHN80260.1)
+Align: (large_cabbage_white | ATP-dependent RNA helicase me31b isoform X2 [Pieris brassicae] | XP_045532384.1) (pink_bollworm | ATP-dependent RNA helicase me31b [Pectinophora gossypiella] | XP_049868573.1)
+Align: (western_flower_thrips | ATP-dependent RNA helicase me31b [Frankliniella occidentalis] | XP_026291730.1) (large_cabbage_white | ATP-dependent RNA helicase me31b isoform X2 [Pieris brassicae] | XP_045532384.1,pink_bollworm | ATP-dependent RNA helicase me31b [Pectinophora gossypiella] | XP_049868573.1)
+Align: (migratory_locust | DEAD-box DDX6 [Locusta migratoria] | QOS47384.1) (western_flower_thrips | ATP-dependent RNA helicase me31b [Frankliniella occidentalis] | XP_026291730.1,large_cabbage_white | ATP-dependent RNA helicase me31b isoform X2 [Pieris brassicae] | XP_045532384.1,pink_bollworm | ATP-dependent RNA helicase me31b [Pectinophora gossypiella] | XP_049868573.1)
+Align: (House_mouse_DDX6 | probable ATP-dependent RNA helicase DDX6 [Mus musculus] | NP_851841.2) (migratory_locust | DEAD-box DDX6 [Locusta migratoria] | QOS47384.1,western_flower_thrips | ATP-dependent RNA helicase me31b [Frankliniella occidentalis] | XP_026291730.1,large_cabbage_white | ATP-dependent RNA helicase me31b isoform X2 [Pieris brassicae] | XP_045532384.1,pink_bollworm | ATP-dependent RNA helicase me31b [Pectinophora gossypiella] | XP_049868573.1)
+Align: (Panagrolaimus_davidi_Ddx6 | (translated using EMBOSS Transeq, and ORF extracted),bovine_lungworm | DEAD/DEAH box helicase [Dictyocaulus viviparus] | KJH46407.1,New_World_hookworm | DEAD/DEAH box helicase [Necator americanus] | XP_013307512.1,barber_pole_worm | DNA RNA helicase domain containing protein [Haemonchus contortus] | CDJ84064.1,African_eye_worm | ATP-dependent RNA helicase cgh-1 [Loa loa] | XP_020303523.1,dog_roundworm | ATP-dependent RNA helicase cgh-1 [Toxocara canis] | KHN80260.1) (House_mouse_DDX6 | probable ATP-dependent RNA helicase DDX6 [Mus musculus] | NP_851841.2,migratory_locust | DEAD-box DDX6 [Locusta migratoria] | QOS47384.1,western_flower_thrips | ATP-dependent RNA helicase me31b [Frankliniella occidentalis] | XP_026291730.1,large_cabbage_white | ATP-dependent RNA helicase me31b isoform X2 [Pieris brassicae] | XP_045532384.1,pink_bollworm | ATP-dependent RNA helicase me31b [Pectinophora gossypiella] | XP_049868573.1)
+Elapsed time 00:00:00  Peak memory use   16 MB(-3%)  Iteration   1 Align node
+Elapsed time 00:00:00  Peak memory use   16 MB(-3%)  Iteration   1 Root alignment
+Elapsed time 00:00:00  Peak memory use   17 MB(-3%)  Iteration   2 Refine tree
+Elapsed time 00:00:00  Peak memory use   17 MB(-3%)  Iteration   2 Root alignment
+Elapsed time 00:00:00  Peak memory use   17 MB(-3%)  Iteration   2 Root alignment
+Anchor columns found       8
+DP area saved by anchors   81.7%
+Elapsed time 00:00:00  Peak memory use   17 MB(-3%)  Iteration   3 Refine biparts
+Elapsed time 00:00:00  Peak memory use   17 MB(-3%)  Iteration   4 Refine biparts
+Elapsed time 00:00:00  Peak memory use   17 MB(-3%)  Iteration   5 Refine biparts
+Elapsed time 00:00:00  Peak memory use   17 MB(-3%)  Iteration   6 Refine biparts
+Elapsed time 00:00:00  Peak memory use   17 MB(-3%)  Iteration   7 Refine biparts
+Elapsed time 00:00:00  Peak memory use   17 MB(-3%)  Iteration   8 Refine biparts
+Elapsed time 00:00:00  Peak memory use   17 MB(-3%)  Iteration   9 Refine biparts
+Elapsed time 00:00:00  Peak memory use   17 MB(-3%)  Iteration  10 Refine biparts
+Elapsed time 00:00:00  Peak memory use   17 MB(-3%)  Iteration  11 Refine biparts
+Elapsed time 00:00:00  Peak memory use   17 MB(-3%)  Iteration  12 Refine biparts
+Elapsed time 00:00:00  Peak memory use   17 MB(-3%)  Iteration  13 Refine biparts
+Elapsed time 00:00:00  Peak memory use   17 MB(-3%)  Iteration  14 Refine biparts
+Elapsed time 00:00:00  Peak memory use   17 MB(-3%)  Iteration  14 Refine biparts
+Finished Thu Dec  7 21:20:02 2023

@@ -1,0 +1,346 @@
+---
+title: "Class19"
+author: "Alexander LIu (A69026918)"
+format: pdf
+---
+
+```{r}
+library(datapasta)
+library(ggplot2)
+```
+Q1.
+```{r}
+cdc <- data.frame(
+                                  Year = c(1922L,1923L,1924L,1925L,
+                                           1926L,1927L,1928L,1929L,1930L,
+                                           1931L,1932L,1933L,1934L,1935L,
+                                           1936L,1937L,1938L,1939L,1940L,1941L,
+                                           1942L,1943L,1944L,1945L,1946L,
+                                           1947L,1948L,1949L,1950L,1951L,
+                                           1952L,1953L,1954L,1955L,1956L,1957L,
+                                           1958L,1959L,1960L,1961L,1962L,
+                                           1963L,1964L,1965L,1966L,1967L,
+                                           1968L,1969L,1970L,1971L,1972L,
+                                           1973L,1974L,1975L,1976L,1977L,1978L,
+                                           1979L,1980L,1981L,1982L,1983L,
+                                           1984L,1985L,1986L,1987L,1988L,
+                                           1989L,1990L,1991L,1992L,1993L,1994L,
+                                           1995L,1996L,1997L,1998L,1999L,
+                                           2000L,2001L,2002L,2003L,2004L,
+                                           2005L,2006L,2007L,2008L,2009L,
+                                           2010L,2011L,2012L,2013L,2014L,2015L,
+                                           2016L,2017L,2018L,2019L,2020L,
+                                           2021L),
+          No..Reported.Pertussis.Cases = c(107473,164191,165418,
+                                           152003,202210,181411,161799,197371,
+                                           166914,172559,215343,179135,265269,
+                                           180518,147237,214652,227319,
+                                           103188,183866,222202,191383,191890,
+                                           109873,133792,109860,156517,74715,
+                                           69479,120718,68687,45030,37129,
+                                           60886,62786,31732,28295,32148,
+                                           40005,14809,11468,17749,17135,
+                                           13005,6799,7717,9718,4810,3285,
+                                           4249,3036,3287,1759,2402,1738,1010,
+                                           2177,2063,1623,1730,1248,1895,
+                                           2463,2276,3589,4195,2823,3450,
+                                           4157,4570,2719,4083,6586,4617,
+                                           5137,7796,6564,7405,7298,7867,
+                                           7580,9771,11647,25827,25616,15632,
+                                           10454,13278,16858,27550,18719,
+                                           48277,28639,32971,20762,17972,
+                                           18975,15609,18617,6124,2116)
+        )
+
+g <- ggplot(cdc) + 
+  aes(Year, No..Reported.Pertussis.Cases) + 
+  geom_point() +
+  geom_line() +
+  labs(title = "Pertussis Cases by Year", x = "Year", y = "Number of Reported Pertussis Cases") +
+  theme_minimal()
+
+g
+```
+
+```{r}
+
+g +
+  geom_vline(xintercept = c(1946, 1996, 2019), linetype = "dashed", color = c("blue", "green", "red"), size = 0.75)
+
+
+```
+
+Q2.
+The number of cases went down dramatically and rapidly after 1946. The number had been kept low since then, but after 2000 the number showed slight increase, until it started going down again in around 2010.
+
+
+Q3.
+After 2000, the number showed slight increase, until it started going down again in around 2010.
+
+
+
+```{r}
+library(jsonlite)
+```
+
+```{r}
+subject <- read_json("https://www.cmi-pb.org/api/subject", simplifyVector = TRUE) 
+```
+
+```{r}
+head(subject, 3)
+```
+
+
+Q4
+```{r}
+sum(subject$infancy_vac=="wP")
+sum(subject$infancy_vac=="aP")
+```
+
+Q5
+```{r}
+sum(subject$biological_sex=="Female")
+sum(subject$biological_sex=="Male")
+```
+
+Q6
+```{r}
+table(subject$biological_sex, subject$race)
+```
+
+```{r}
+library(lubridate)
+today()
+today() - ymd("2000-01-01")
+time_length( today() - ymd("2000-01-01"),  "years")
+```
+
+Q7
+```{r}
+subject_1 <- subject
+subject_1$age <- time_length(today() - ymd(subject_1$year_of_birth), "years")
+```
+
+```{r}
+library(dplyr)
+ap <- subject_1 %>% filter(infancy_vac == "aP")
+round(summary(ap$age))
+
+wp <- subject_1 %>% filter(infancy_vac == "wP")
+round(summary(wp$age))
+
+
+t.test(ap$age, wp$age)$p.value
+```
+(i) 36
+(ii) 26
+(iii) significantly different (p-value < 0.05)
+
+Q8
+```{r}
+time_length( ymd(subject_1$date_of_boost) - ymd(subject_1$year_of_birth), "year")
+```
+
+Q9
+```{r}
+ggplot(subject_1) +
+  aes(time_length(age, "year"),
+      fill=as.factor(infancy_vac)) +
+  geom_histogram(show.legend=FALSE) +
+  facet_wrap(vars(infancy_vac), nrow=2) +
+  xlab("Age in years")
+```
+Significantly different.
+
+
+Q9
+```{r}
+specimen <- read_json("https://www.cmi-pb.org/api/specimen", simplifyVector = TRUE) 
+titer <- read_json("https://www.cmi-pb.org/api/plasma_ab_titer", simplifyVector = TRUE) 
+```
+
+```{r}
+meta <- inner_join(specimen, subject_1)
+dim(meta)
+```
+
+Q10
+```{r}
+abdata <- inner_join(titer, meta)
+dim(abdata)
+```
+
+Q11
+```{r}
+table(abdata$isotype)
+```
+
+Q12
+```{r}
+table(abdata$dataset)
+```
+
+```{r}
+igg <- abdata %>% filter(isotype == "IgG")
+head(igg)
+```
+
+Q13
+```{r}
+ggplot(igg) +
+  aes(MFI_normalised, antigen) +
+  geom_boxplot() + 
+    xlim(0,75) +
+  facet_wrap(vars(visit), nrow=2)
+```
+
+Q14
+
+IgG that are against PT, PRN, FIM2/3 and FHA showed differences in the level, because these are includede in the vaccine. As opposed to there, TT, OVA, and DT are not included in the vaccine, so IgG against them were not induced.
+
+
+```{r}
+ggplot(igg) +
+  aes(MFI_normalised, antigen, col=infancy_vac ) +
+  geom_boxplot(show.legend = FALSE) + 
+  facet_wrap(vars(visit), nrow=2) +
+  xlim(0,75) +
+  theme_bw()
+```
+
+```{r}
+igg %>% filter(visit != 8) %>%
+ggplot() +
+  aes(MFI_normalised, antigen, col=infancy_vac ) +
+  geom_boxplot(show.legend = FALSE) + 
+  xlim(0,75) +
+  facet_wrap(vars(infancy_vac, visit), nrow=2)
+```
+
+Q15
+```{r}
+filter(igg, antigen=="OVA") %>%
+  ggplot() +
+  aes(MFI_normalised, col=infancy_vac) +
+  geom_boxplot(show.legend = FALSE) +
+  facet_wrap(vars(visit)) +
+  theme_bw()
+```
+
+```{r}
+filter(igg, antigen=="FIM2/3") %>%
+  ggplot() +
+  aes(MFI_normalised, col=infancy_vac) +
+  geom_boxplot(show.legend = FALSE) +
+  facet_wrap(vars(visit)) +
+  theme_bw()
+```
+
+Q16
+The level of anti-PT IgG increases over time and decreases after peaking at visit 5, while anti-OVA stays about the same throughout the visits. Also, the level of anti-PT is much higher than anti-OVA IgG.
+
+Q17
+No. They are overall similar.
+
+
+```{r}
+abdata.21 <- abdata %>% filter(dataset == "2021_dataset")
+
+abdata.21 %>% 
+  filter(isotype == "IgG",  antigen == "PT") %>%
+  ggplot() +
+    aes(x=planned_day_relative_to_boost,
+        y=MFI_normalised,
+        col=infancy_vac,
+        group=subject_id) +
+    geom_point() +
+    geom_line() +
+    geom_vline(xintercept=0, linetype="dashed") +
+    geom_vline(xintercept=14, linetype="dashed") +
+  labs(title="2021 dataset IgG PT",
+       subtitle = "Dashed lines indicate day 0 (pre-boost) and 14 (apparent peak levels)")
+
+
+wP_abdata.21 <- abdata.21 %>% 
+  filter(isotype == "IgG",  antigen == "PT", infancy_vac == "wP")
+aP_abdata.21 <- abdata.21 %>% 
+  filter(isotype == "IgG",  antigen == "PT", infancy_vac == "aP")
+
+t.test(wP_abdata.21$MFI_normalised, aP_abdata.21$MFI_normalised)$p.value
+```
+
+Q18
+```{r}
+abdata.20 <- abdata %>% filter(dataset == "2020_dataset")
+
+abdata.20 %>% 
+  filter(isotype == "IgG",  antigen == "PT") %>%
+  ggplot() +
+    aes(x=planned_day_relative_to_boost,
+        y=MFI_normalised,
+        col=infancy_vac,
+        group=subject_id) +
+    geom_point() +
+    geom_line() +
+    geom_vline(xintercept=0, linetype="dashed") +
+    geom_vline(xintercept=14, linetype="dashed") +
+  labs(title="2020 dataset IgG PT",
+       subtitle = "Dashed lines indicate day 0 (pre-boost) and 14 (apparent peak levels)") +
+  xlim(0, 125)
+
+
+
+wP_abdata.20 <- abdata.20 %>% 
+  filter(isotype == "IgG",  antigen == "PT", infancy_vac == "wP")
+aP_abdata.20 <- abdata.20 %>% 
+  filter(isotype == "IgG",  antigen == "PT", infancy_vac == "aP")
+
+t.test(wP_abdata.20$MFI_normalised, aP_abdata.20$MFI_normalised)$p.value
+```
+In 2021 anti-PT IgG level has overall higher levels, while in 2020 it has more similar levels.
+This is confirmed by p-values from t-test, 0.0003848114 and 0.4907405, respectively for 2021 and 2020.
+
+
+```{r}
+url <- "https://www.cmi-pb.org/api/v2/rnaseq?versioned_ensembl_gene_id=eq.ENSG00000211896.7"
+
+rna <- read_json(url, simplifyVector = TRUE) 
+```
+
+```{r}
+ssrna <- inner_join(rna, meta)
+```
+
+
+Q19
+```{r}
+ggplot(ssrna) +
+  aes(visit, tpm, group=subject_id) +
+  geom_point() +
+  geom_line(alpha=0.2)
+```
+
+Q20
+Visit 4.
+
+Q21
+They do not match.
+Transcripts and proteins are different in half-lives, and the time for production.
+
+
+```{r}
+ggplot(ssrna) +
+  aes(tpm, col=infancy_vac) +
+  geom_boxplot() +
+  facet_wrap(vars(visit))
+```
+
+```{r}
+ssrna %>%  
+  filter(visit==4) %>% 
+  ggplot() +
+    aes(tpm, col=infancy_vac) + geom_density() + 
+    geom_rug() 
+```
+
