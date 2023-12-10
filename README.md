@@ -1,7 +1,7 @@
 # bggn213
 My classwork from [BGGN213](https://bioboot.github.io/bggn213_F23) at UC San Diego (Fall 2023)
 
-Class 01: [Data vis with GGPLOT](10182023/Class05_Data_Visualization_with_ggplot.pdf)
+Class 01: (10042023/lab1.pdf)
 
 Class 02: [Data vis with GGPLOT](10182023/Class05_Data_Visualization_with_ggplot.pdf)
 
