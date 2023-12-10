@@ -3,40 +3,38 @@ My classwork from [BGGN213](https://bioboot.github.io/bggn213_F23) at UC San Die
 
 [Class 01](10042023/lab1.pdf)
 
-Class 02: [Data vis with GGPLOT](10062023/lab2.pdf)
+[Class 02](10062023/lab2.pdf)
 
-Class 03: [Data vis with GGPLOT](10182023/Class05_Data_Visualization_with_ggplot.pdf)
+[Class 03](10112023/lab3.pdf)
 
-Class 04: [Data vis with GGPLOT](10182023/Class05_Data_Visualization_with_ggplot.pdf)
+[Class 04](10042023/lab1.pdf)
 
 Class 05: [Data vis with GGPLOT](10182023/Class05_Data_Visualization_with_ggplot.pdf)
 
-Class 06: [Data vis with GGPLOT](10182023/Class05_Data_Visualization_with_ggplot.pdf)
+[Class 06](10042023/lab1.pdf)
 
-Class 07: [Data vis with GGPLOT](10182023/Class05_Data_Visualization_with_ggplot.pdf)
+[Class 07](10042023/lab1.pdf)
 
-Class 08: [Data vis with GGPLOT](10182023/Class05_Data_Visualization_with_ggplot.pdf)
+[Class 08](10042023/lab1.pdf)
 
-Class 09: [Data vis with GGPLOT](10182023/Class05_Data_Visualization_with_ggplot.pdf)
+[Class 09](10042023/lab1.pdf)
 
-Class 10: [Data vis with GGPLOT](10182023/Class05_Data_Visualization_with_ggplot.pdf)
+[Class 10](10042023/lab1.pdf)
 
-Class 11: [Data vis with GGPLOT](10182023/Class05_Data_Visualization_with_ggplot.pdf)
+[Class 11](10042023/lab1.pdf)
 
-Class 12: [Data vis with GGPLOT](10182023/Class05_Data_Visualization_with_ggplot.pdf)
+[Class 12](10042023/lab1.pdf)
 
-Class 13: [Data vis with GGPLOT](10182023/Class05_Data_Visualization_with_ggplot.pdf)
+[Class 13](10042023/lab1.pdf)
 
-Class 14: [Data vis with GGPLOT](10182023/Class05_Data_Visualization_with_ggplot.pdf)
+[Class 14](10042023/lab1.pdf)
 
-Class 15: [Data vis with GGPLOT](10182023/Class05_Data_Visualization_with_ggplot.pdf)
+[Class 15](10042023/lab1.pdf)
 
-Class 16: [Data vis with GGPLOT](10182023/Class05_Data_Visualization_with_ggplot.pdf)
+[Class 16](10042023/lab1.pdf)
 
-Class 17: [Data vis with GGPLOT](10182023/Class05_Data_Visualization_with_ggplot.pdf)
+[Class 17](10042023/lab1.pdf)
 
-Class 18: [Data vis with GGPLOT](10182023/Class05_Data_Visualization_with_ggplot.pdf)
+[Class 18](10042023/lab1.pdf)
 
-Class 19: [Data vis with GGPLOT](10182023/Class05_Data_Visualization_with_ggplot.pdf)
-
-Class 20: [Data vis with GGPLOT](10182023/Class05_Data_Visualization_with_ggplot.pdf)
+[Class 19](10042023/lab1.pdf)
