@@ -15,11 +15,11 @@ Class 05: [Data vis with GGPLOT](10182023/Class05_Data_Visualization_with_ggplot
 
 [Class 07](10252023/Class07/Class07.pdf)
 
-[Class 08](10042023/lab1.pdf)
+[Class 08](10272023/Class08/Class08.pdf)
 
-[Class 09](10042023/lab1.pdf)
+[Class 09](11012023/ULMP/ULMP.pdf)
 
-[Class 10](10042023/lab1.pdf)
+[Class 09](11032023/Class09/Class09.pdf)
 
 [Class 11](10042023/lab1.pdf)
 
