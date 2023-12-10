@@ -21,7 +21,7 @@ Class 05: [Data vis with GGPLOT](10182023/Class05_Data_Visualization_with_ggplot
 
 [Class 09](11032023/Class09/Class09.pdf)
 
-[Class 11](10042023/lab1.pdf)
+[Class 11](11082023/Class10/AlphaFold2.pdf)
 
 [Class 12](10042023/lab1.pdf)
 
